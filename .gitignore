@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/plantvillage_raw/
+data/plant_village/
+data/*.zip
+
+.env
+.streamlit/secrets.toml
+
+*.tmp
+*.log

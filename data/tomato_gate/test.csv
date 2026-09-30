@@ -1,0 +1,1447 @@
+image_path,label
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\910679a5-f18d-40ac-a00e-9e2c27a45610___RS_GLSp 9327.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e60c6680-9c50-4063-9eb9-6e77980afcfa___RS_Late.B 5343.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\14e1991a-a52e-4941-9195-e037e5afcb1b___RS_HL 2503.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\397c68cc-c2f8-4a52-8468-557c8181bc9e___GH_HL Leaf 247.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c4554e01-7d63-459a-9d37-0f8ba985b950___Keller.St_CG 1910.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\9fa007fa-08c0-4d3a-b2b4-9ac7ad72c316___RS_HL 7833.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\e893d964-8a40-46f5-b8ae-0a0f0cd79296___FREC_Scab 3333.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\e15e3b48-edda-485d-b5a0-0d876f441b73___FREC_C.Rust 3692.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\965adbc7-971b-49a3-8bea-be05886c959c___Matt.S_CG 1498.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\6f38c615-281d-4bf5-8d92-7c02d3ef9e1b___JR_FrgE.S 8753.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b6bdf275-d731-415b-a68d-193bbd6c037a___Crnl_L.Mold 8772.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\3764603c-7343-4eb1-9698-5b709f5a6369___JR_Sept.L.S 2561.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\b7b39e7d-16ca-4b55-9b3a-9bd68b746055___RS_Erly.B 7386.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\df78e8cb-8fc5-4682-ab5c-f265b4e8d97e___Crnl_L.Mold 8619.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\16590622-481b-4f63-ac18-7f590f6af49a___RS_HL 7846.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\8e1d492d-1f6e-48a1-aa14-db5bc515d580___RS_HL 7822.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d103c4fb-790f-4178-8208-dd191b375600___RS_HL 5645.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\36d0b778-94d1-4475-a513-d0611131a996___Keller.St_CG 1892.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5f6a639a-a545-4778-b5e8-c45a62cacfe2___Matt.S_CG 0812.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\abd969f8-a573-4b5d-b5f2-32f33e6b1374___JR_Sept.L.S 8559.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\6daf626f-1bfb-4057-8696-358ec2084251___RS_HL 5055.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\be07b9de-4629-49c1-bde7-e4c9b79c55ef___RS_GLSp 4495.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\be23de1a-2db8-4d7f-8b5f-cee56829d49c___FREC_Scab 2991.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\319abe40-ce3e-485c-8651-6c98f5f06e69___JR_HL 4069.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6e6da01b-c5b7-4050-b502-4d284330b11b___Crnl_L.Mold 6729.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\9cb2abac-0c5b-4b49-ad84-d97805de271c___RS_Erly.B 7457.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a5e54e01-2cd5-482a-bfba-8728ca32473c___GH_HL Leaf 426.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\8371e040-cf1b-4c28-a52c-db9c10ad9465___JR_FrgE.S 3007.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\74463e4f-524e-4dad-a936-b167d6846bcf___RS_HL 9971.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d6ccb948-fdd5-4357-bb6a-c3df838ea465___GHLB_PS Leaf 8.1 Day 8.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fa524c8c-e08d-43ee-9f33-3bd2bf9b09f5___GHLB2 Leaf 8686.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\874baaed-def5-4c44-9baf-2d3faf343b45___RS_HL 5490.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e67f9352-aae3-45f5-9b36-f0da08037d51___RS_HL 9944.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\73b30d1f-aa0b-47b0-8a4b-ee856be55431___GHLB2 Leaf 8672.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\1d9a02a1-60f6-430f-aef2-5db080ad7f32___FREC_Pwd.M 4993.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\40161a9a-7473-4496-9267-99a451276868___RS_Late.B 5021.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\fd686c68-9a4a-4d11-98fa-7c612aff9fd4___Crnl_L.Mold 6974.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b8ed9a0b-1f7d-476e-907e-7c3c6936d325___RS_HL 5769.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b9d6a99b-7ffb-47a2-a9f5-e3fedf6c0ec8___RS_HL 8204.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8e89b070-c8f0-47f5-a7c4-e28a92e0454b___GHLB2 Leaf 9097.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\122d2ed7-efb5-4a82-a6f0-74e9524e83ff___RS_HL 5702.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3f1ce663-3715-4220-bbce-93bcc9f0c478___GH_HL Leaf 311.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6d4285ef-e3f2-4cd3-a873-efdd989cf1cb___RS_HL 0182.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ea815fb4-7c6f-4088-94d0-59609294c65e___RS_HL 9785.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\8b448aba-68ad-461d-a8f4-99c6ccee8fbe___RS_Erly.B 7463.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\5daba301-b6f9-4fc4-8be7-a918d3a7554c___RS_Erly.B 8282.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fcd7b23f-81f6-4e31-9c8f-66dc04a44f2c___Keller.St_CG 1826.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7d807e8c-9e18-40e3-bc9b-599987279985___Matt.S_CG 1510.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\dea9ce8a-30b3-47cd-bb96-29e648896c8f___FREC_Pwd.M 4947.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\0af9f990-ad92-4411-8623-4498ca4805ce___Keller.St_CG 1942.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\f2758dd2-5274-45df-8f00-639731ec3120___RS_HL 9750.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7e0f5a39-e44e-40fe-8486-f369cb59895b___RS_HL 9790.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e3874274-851b-44e4-a063-32770cb4ea52___Keller.St_CG 1784.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\69468833-8b43-4e43-8ebf-b86adcaeee0d___Crnl_L.Mold 6880.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6e33ee8d-616a-47f2-8229-d4375c47346c___Crnl_L.Mold 8795.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\868deed9-9e18-4109-9df5-878c468922f3___JR_HL 9536.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\c09a1ad6-e9f5-47cb-ad0c-8ce3a1966073___JR_HL 9710.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d4becf38-57b1-46c6-9dbe-fcb747edd287___Crnl_L.Mold 7134.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b6b5c469-9b5a-4b91-ac32-c11f1a9fc8df___Matt.S_CG 2503.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\5ade6606-f111-4074-a533-30f215297f08___RS_HL 6282.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\45c79d4a-ac12-4bf8-a4d6-f59898aa4570___RS_HL 6317.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\bb998de5-3d79-46c7-ad23-2dffc9a8037d___FREC_Pwd.M 4826.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\0f93129a-1af1-415b-9d19-c74a1156c86b___JR_HL 9652.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\b6850718-a674-4eb2-9a5b-bb7ae5f32ce8___JR_FrgE.S 8602.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\076255ae-2574-415a-b9db-feb739266656___RS_HL 7540.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\3d871de9-5492-4479-9572-5b04cb8ca714___RS_HL 5425.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\56c024f5-844e-47d0-a936-d1617219125c___RS_HL 7776.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\933c196b-f28c-4cd9-8620-ef97762ff394___FREC_Pwd.M 4772.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\55aba0f4-a57d-49ed-b2d4-4e5c783dc25d___FREC_Pwd.M 0393.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\88aa10b3-3574-49a1-8bb3-183525fa9848___JR_HL 4081.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\bf1dbfe2-cbad-428f-9d91-4a63de9121bd___RS_Late.B 5036.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\93fe4f89-d9a8-4a78-ad48-9a622916cc69___RS_Late.B 6416.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f6c11a02-6f44-4e15-aab8-50cb8d79bc62___Crnl_L.Mold 9166.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b91da997-c7c4-44aa-b00c-e558887d0ba6___GH_HL Leaf 368.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3c047601-ed4d-4178-8bed-33a65e5f4b6d___RS_HL 6001.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2a986e85-7e83-443a-871e-c590d5a25845___RS_HL 6000.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\542cbfd7-3231-4aa9-822e-7d2475b0ea8d___RS_HL 5042.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5ec061cf-53c5-40a6-84ee-e4926c264549___Matt.S_CG 1708.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\86f5ea7a-75c7-4732-a71a-c7bc0717f847___Matt.S_CG 7604.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0cb10f98-491d-4e1f-b8ea-4fb0f1b3675f___GH_HL Leaf 333.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\51c47d39-74a9-46d4-be22-05b9c5a16eae___RS_Late.B 5557.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\4ff7ff02-1fce-4994-bea2-bc46bd60fa4f___JR_Sept.L.S 8501.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9ad5aed4-e5f2-45f9-bbe4-cbbce80e344c___Keller.St_CG 1925.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\25233eb2-3d54-4ef6-ac0c-e70d572136e2___RS_HL 4965.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b17878ef-2476-4eba-9bdf-0a7950edae2a___RS_HL 7957.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\e90fe656-399f-4863-8014-03dc30e84f8c___RS_GLSp 4326 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\b2d126c0-49f9-4013-a6bf-2c08ffe87f94___JR_FrgE.S 2865.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a18c4c3c-7d6c-4f92-a9ae-94cc4bde5401___Crnl_L.Mold 6784.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\303db099-b4e0-4c12-801d-cf501857075a___RS_HL 9942.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\554b79b3-81fb-4647-969e-14315d684d62___JR_HL 4276.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\29d9f827-5e61-4b9b-acba-db0e7ce2016d___GH_HL Leaf 480.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\cffae6ca-ff80-4c1f-9fbf-451d39a94a80___JR_Sept.L.S 8518.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\88deb0c4-49bf-47aa-a91c-bf099f830940___Crnl_L.Mold 9169.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f7044e72-6f61-45ce-9636-43f653381797___RS_GLSp 4637 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\f50ea5c4-77ac-43f6-ba12-451b37c73cf8___RS_HL 0691.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\15313d25-7420-46aa-a28d-92e4b631233e___GHLB2 Leaf 8698.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\38cd312a-88ac-490c-a95c-0bddee777154___JR_Sept.L.S 2469.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1ac4f6ea-d2d0-4b94-93f0-788a5e92fe90___GHLB2 Leaf 8707.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f482cb70-826d-462b-8dc9-d5d173df65cd___GHLB2 Leaf 8562.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\49db45ee-cfb4-4691-800f-e1887f163f49___RS_HL 6160.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\38180d1c-cb5f-4fbf-99f1-80029d4327ec___RS_HL 4899.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\9e68d5bf-8b78-4ba1-9f04-ce5c69c14d46___RS_HL 7733.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\4ee9cff7-9693-4d51-821b-da31e5df240c___RS_Erly.B 7427.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b4aa6858-29d7-4ff7-9225-e5f003ce8566___GHLB2 Leaf 8856.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\14a45bee-049a-47ec-9471-b5360d1cf8d9___Matt.S_CG 7600.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\4f915b76-fe41-4201-ae61-9c9ad7cbc94d___RS_HL 5933.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\021f9747-f308-4694-859b-10f541a0e63c___JR_Sept.L.S 2506.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3645e3b0-e9c5-4b10-aea6-ce0ba996c059___RS_HL 7267.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\fdec728a-c3e5-478d-9e14-ac1a717d5ffc___Crnl_L.Mold 9045.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8858ed06-2e1b-4a4a-bd16-e4425ae62312___GH_HL Leaf 523.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\b4607568-7941-42d9-98e6-fdaae7bd6530___JR_FrgE.S 2756.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\623fd84d-2230-42fb-bb93-170cd516ffd2___RS_Late.B 4864.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\955d783a-0dff-4e55-be8b-69b1dfde1b98___RS_HL 2564.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\74f7c545-de83-473d-82de-1e8c89fd975a___RS_HL 8172.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\26b71abd-6648-4d92-a36d-92353bc09966___JR_FrgE.S 2899.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\0acad158-32bf-4512-8f97-3b3856daffb5___RS_HL 0765.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\4d7f4b74-59f6-431e-afa3-6fbbb9ac90ea___FREC_C.Rust 0145.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\b6a8a1a7-2222-497c-b892-87d8085ab675___JR_HL 9485.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\41e2a7fa-2b13-4bdf-b17a-990cea0775cc___FREC_Pwd.M 0253.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\42249412-bfaa-4e57-bcaa-c46def0d5f73___RS_HL 4931.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\263640d8-3279-4568-998c-e98f6e991b44___JR_HL 9865.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\fcf3bce8-b685-4483-bac4-a2d0d14d6eeb___JR_FrgE.S 8810.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\3e01a27d-037d-4bf8-81ee-c2ee958ebfec___JR_HL 9615.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4b8f6f0d-ed84-49ae-a92e-6cf049a42207___RS_HL 9652.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\9e5f1beb-8245-4775-8298-4cb787b3f897___RS_HL 5854.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\07502bbb-1733-4d49-a3dc-557b1d4391da___RS_Erly.B 7516.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\546f348a-359a-4cff-8cdd-c87ecb1cec95___Crnl_L.Mold 6873.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\76eda6fd-558c-4fcf-951b-c70bef5b8bc5___Matt.S_CG 0880.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2766f4b1-33d2-4532-aab2-a7fb037b87bf___RS_HL 6155.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0d3691ab-5413-4313-870e-9e5d2faf33ea___RS_HL 9958.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\bafd9520-a306-441b-8f0f-8fdd5ff0f3d3___RS_HL 2375.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b6185c0e-e2ea-4283-b808-c37ee374b776___RS_HL 0094.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\da099922-273a-456d-a8c0-84226a746907___FREC_Pwd.M 4881.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3169aa41-66a8-4f36-ab6e-a5664f5b1839___RS_HL 0471.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\33641b67-ce5a-475d-bc5d-50d276c5b9f3___JR_HL 9742.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\49b6b50f-7c76-4c31-9e33-b5ae8d22264c___RS_HL 5882.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e0f99bbf-1e29-415c-ae6e-e41ee41ca771___RS_HL 0398.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c7a8f6b2-2721-4c65-81ea-fc87fc8f3a27___FREC_Pwd.M 0445.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1669.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\430fd7d8-9390-411c-b849-e421cf11f7a7___RS_HL 7314.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\917ccab2-935b-4eba-9f97-f81b24cbb523___JR_HL 4176.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\0e99efe9-d414-4091-b7b4-6ba6856db3d9___RS_HL 5841.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\f5f49058-a1ed-4ea4-ab77-e588914b763e___FREC_Pwd.M 0329.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\46ff56ce-bf5d-48b9-89d8-d096a288f62b___RS_HL 9630.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f62e84ae-2bd4-4b15-918a-639c0470c25d___RS_Erly.B 7761.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9b5626b0-ea1d-45d0-bc41-c898f7253a75___GH_HL Leaf 315.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2768d40f-209f-4f71-a90a-a5f748fe299a___RS_HL 5938.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\40f6e95a-837c-4d31-a1b4-14351c25bd25___FREC_Pwd.M 4621.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\79fb9a6a-4cbd-4168-8ed7-d031fb38d9ba___Keller.St_CG 1896.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a7064909-ea8b-4775-8323-f76c774fa5b5___GHLB2 Leaf 85.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\d4eeefad-2e82-4a46-ab6f-a23244cc670e___FREC_Pwd.M 5042.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\f76ff409-9723-4b89-83f9-1ff33edaffbc___RS_HL 7331.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6de3f347-a423-4c54-aa6f-bd80efa674e2___Matt.S_CG 6164.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\1ab74120-9cfd-47dd-9a80-ee37f2328be6___RS_HL 7667.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\afb626cf-c9bf-498f-bdf2-c0286d96f681___GHLB2 Leaf 147.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a0de49f7-e907-4336-87e8-4440ee6df913___Crnl_L.Mold 7034.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dbd66146-54e6-4621-870d-24208b99e254___RS_Late.B 7051.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\1935522e-77d1-4fc2-a84f-5f32835cf0d0___FREC_Pwd.M 4792.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b593dd4e-e792-4469-a855-109e9edbe1ce___RS_HL 9796.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\84807b4a-f76a-4ebf-a78a-ec9444197c55___JR_HL 9786.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8bb7759a-c612-42ec-ad7e-6092dc53bbf6___Crnl_L.Mold 8822.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\7bd63940-1890-4263-8c8c-e0c743bb51ce___RS_Erly.B 9487.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\daaf49b5-413b-4dca-ab0e-ecd772d8b909___JR_HL 9454.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\e2da6207-2cfa-4620-8569-2f4c57a34f30___JR_FrgE.S 8682.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c1a8547c-0345-490b-840b-124dbf54fbd4___GHLB2 Leaf 8541.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\0ac12d2d-a98c-4e25-b715-94e7579a98f1___FREC_Pwd.M 4887.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\d854996e-44ef-4344-9896-f963cd355652___RS_HL 2302.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b75fa72e-186c-4d64-a88c-dc037f275415___Crnl_L.Mold 6531.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6b5ee115-cd03-47de-b7f3-21490d1c2548___FREC_Pwd.M 5102.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e56354a5-5e3f-4ed6-bfe5-3c783a32dc98___RS_Erly.B 9413.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0a3f65fc-ef1c-4aed-b235-46bae4e5c0e7___GHLB2 Leaf 9065.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f53d879a-6033-4317-8524-e108b10e7656___Crnl_L.Mold 7140.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\3615e665-b571-47ac-800b-5a0f554cb877___RS_HL 5324.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8faf866d-77a2-4876-983f-42389db476dc___RS_Late.B 7003.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\90a8b687-3191-4ef5-bb9c-e11aeb2d6c8f___RS_HL 0057.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\c1b1625c-bb97-4a74-87a1-9528a90e2ed1___RS_HL 0636.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\15e89153-70ab-4b92-b96e-22d474e00755___RS_HL 5137.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\9555b45b-0080-4d26-8b54-a343b9bf0ffc___FREC_Scab 3313.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\c3101d4e-19b3-4959-92a4-b1b8c88d0bec___JR_HL 3994.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d6318793-dacc-4b58-bb19-043324042180___RS_HL 7246.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\68ae9ec5-0f6e-42f9-90ad-c620230e5f03___FREC_Pwd.M 0485.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f482c835-b8f2-4ebc-88b2-3b6f58b8a696___Crnl_L.Mold 8949.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b595df3e-653e-4f01-af73-67d0417d87b6___RS_HL 0723.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\d699b1fd-0743-4406-b7b2-72ced5b5090c___JR_HL 9730.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\177ebecc-dcdc-4d9f-8949-cb47b4473730___FREC_Pwd.M 4709.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\567c7469-bee8-4ddc-8ee9-2f14b3fb569e___RS_HL 7817.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\4231e86c-5f4c-439c-be0f-1fa0274581c6___JR_FrgE.S 3067.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\af0ded43-0d73-4d40-bd97-2597806aa707___GHLB_PS Leaf 37 Day 13.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\4cf3a0f2-1758-44b1-862b-3aaf7b4705f1___JR_FrgE.S 2988.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\38abb8ca-88ca-4f79-8521-ccbff4819c97___Crnl_L.Mold 9170.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c076e4d9-400a-48bc-81bd-7d776fe20202___FREC_Pwd.M 5043.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\4c927622-ea22-4718-8e36-319218ee53bf___RS_Erly.B 7712.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\9b617d8b-b252-4a29-9af5-10ea563eb785___RS_Erly.B 7707.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\cd3b1a93-f5b4-406f-aa8a-640280edf543___Keller.St_CG 1860.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1096dcdd-94e3-4752-bd19-2fba23b6c206___Matt.S_CG 1567.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\f33a08e5-03bb-4b97-991c-a1332866043d___FREC_Scab 2923.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\0d17b92b-8ec2-4a00-a8ff-9daea3fed2e8___JR_FrgE.S 2915.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\792a1d2c-ec25-40b1-bb0e-1345c85574ff___JR_HL 9589.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\605e0af6-415f-4e25-8f0d-a8f36371732b___RS_Erly.B 7827.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7f2d44f1-7daa-4b13-9058-18da27dc883d___RS_Late.B 5439.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\65c31a47-0609-481c-b077-1ff6225fe2bb___RS_HL 0208.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e6fdaad9-b536-46c3-a819-faf414cfbf47___GH_HL Leaf 500.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b9c8c02c-146e-4d10-b16d-d6d4b245eff9___GH_HL Leaf 233.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\68bec77e-3c62-4ea5-85e4-fa29068ebb34___RS_HL 7340.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\108aaec9-7e83-4cd6-87ed-996e729c31b8___RS_HL 2616.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\ea04086e-125c-4836-b890-06d4c9afe236___JR_HL 9517.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b253fa7d-d5b3-464b-8ff2-b07cf043b148___RS_HL 2502.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f4360fdc-ebcc-4ecd-8873-4fe37484e2dd___Matt.S_CG 0825.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\d2886ddb-1696-406e-842d-04e7c5fd1c8a___FREC_Pwd.M 4900.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\16952b2d-daf9-47c6-b15e-c2c465bd5cf0___JR_HL 9882.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4f47d31b-0890-49a7-ab33-8b5865cb8843___GHLB2 Leaf 80.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f14bdea6-8f1d-47c4-ab6f-dbf05c994901___GHLB2 Leaf 9046.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\798fdd0c-27d2-4e72-a359-bd00208e8b1a___GH_HL Leaf 207.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\503fa8ad-36cc-41ea-997c-d61727a7677c___FREC_C.Rust 3842.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\b8eb52cb-27de-4707-b089-5b80f550adb1___JR_HL 9676.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c587613b-d130-4cc2-b9d6-6981b2c2f954___Crnl_L.Mold 6981.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\0321e067-d13b-47d0-b3a6-76ba6f357d02___FREC_C.Rust 3667.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\5069c246-1254-4396-a0f3-11bb6becd234___FREC_C.Rust 9868.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ab542ed7-985c-4d7c-a2ad-a5ba19b9496e___RS_Late.B 6454.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\76b3aadb-a6e5-465d-809b-0aa4d60a1f83___Crnl_L.Mold 6680.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\56e77ea3-5b58-409c-991d-c6d1e3740f65___RS_Erly.B 7358.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\cb149e1b-f02f-4948-9058-ab06a9b7ab72___FREC_Pwd.M 4899.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ba371c18-0d08-4c18-a8d8-e7c716fa9cfa___Matt.S_CG 6518.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\a3d2fcfa-645e-419e-91a5-ab626f5fab6c___RS_HL 5930.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\481a0f2c-8e02-4928-8a0b-ef8c45836b31___RS_HL 5077.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\db32f3c2-3aa7-4ee8-abb1-9ee4ef325b5e___JR_HL 4063.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ed8eb85d-c4fa-4403-8b97-148ec0ac0661___RS_Erly.B 7642.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0cfee8b1-5de4-4118-9e25-f9c37bb6f17e___GH_HL Leaf 252.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ac804481-f1b0-498c-a6af-a66da467f84e___RS_Erly.B 7760.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\780aabe7-0d54-4849-80b8-773552ca4b45___Crnl_L.Mold 8824.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\bbf190ed-4d1d-4add-a0d9-e672860c7b1e___RS_HL 7736.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\93d00575-64fc-4cb6-93c1-91be73a0b90c___GH_HL Leaf 313.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\67549f03-2c86-44b7-9730-32d4a23287f3___GH_HL Leaf 495.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\27ed6a35-3fb7-4d57-9cb4-b368c1f4f6eb___RS_HL 9665.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\ae1a8d9f-85a8-4d62-9700-b31bf1dd7a78___Crnl_L.Mold 8659.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f035e3c9-069a-4392-9f0c-80262511f616___RS_Erly.B 9373.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\91b7a899-ee48-4bc2-98a9-f6a5fbf01a1d___RS_Late.B 5084.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5418736d-c947-4cdc-b82c-692de712880a___JR_Sept.L.S 2619.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d2faed98-e54a-42d4-8146-784b83c9ef9a___RS_HL 0545.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\522e604b-e43f-4b09-8a08-84f67175b6ac___RS_HL 2532.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\8e48b58c-cc17-4fb1-97bb-6c0d056ab4dc___FREC_Pwd.M 5031.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\37659856-0fc8-430b-871a-af4f0b557e49___FREC_Scab 3081.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f882f8cc-49bc-49f6-a6c0-fbffe60d81a0___RS_Erly.B 7672.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\91a2c537-6b7c-463a-b59e-0f8b3ea8865b___Crnl_L.Mold 6526.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9c0d321d-1b14-40df-a9fe-1c6b8e10f13b___GHLB2 Leaf 8770.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c0cd110f-ee8a-428e-aa00-d51f89b5a843___GHLB2 Leaf 8639.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\37721995-b612-41d8-8963-837e5b1d1510___RS_HL 0436.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d764f501-de57-47f4-a648-c5ece8ec59b2___RS_HL 0409.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\645703c5-bf82-4f1d-a938-8374481ae133___RS_HL 4987.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\1f2ffb52-a697-43fc-a0d0-609d30e33bfe___RS_HL 6010.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6b6edf2a-0cb5-4a38-a16f-dc8faf705c46___Crnl_L.Mold 9032.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\5c395ddb-11d6-40eb-8049-98c98cc4ec96___JR_FrgE.S 2928.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8f009cfa-d6f0-4e8b-8950-71638f04d2c1___RS_HL 0582.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0fd882fa-471d-4bcc-ab2b-efdfaf904bc3___GHLB2 Leaf 8915.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\bfb5ed4d-3ab7-4b59-88be-d49f685be1c3___Matt.S_CG 0760.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\d794cfbc-bfa5-4f7f-8751-e4c309f1f03b___RS_HL 0430.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\a4e6ad37-83aa-4eec-ad15-339ba1cd9b70___JR_HL 9484.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\1c129f29-63c1-4d17-8df9-191551142f0b___FREC_Pwd.M 4910.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d7b354a6-7044-408d-85ee-b34576e901a4___RS_Late.B 4872.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1ba00fc3-a45b-4d23-94da-5e090ba7f3d3___RS_Late.B 6403.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f52d0ec5-4bc7-4a32-b9a1-6930b6c3477d___RS_Late.B 6501.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ec8b22c9-a1b5-402c-9f9c-5bd24a209b94___RS_Late.B 6687.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\eaaea397-5e49-47e8-adad-f9a17e1cce65___RS_Erly.B 6487.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\f60d6eac-3014-44cf-b11b-c4c99ef4b0ba___FREC_Pwd.M 4715.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\03c5abe8-66c5-44d7-af97-3f55b3917610___FREC_Pwd.M 0252.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\02aa57b8-95c2-49a0-a8ee-4ec96bb966da___RS_HL 0500.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\804affe6-213e-4bcc-8736-e5034a31e454___GHLB2 Leaf 8659.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\aeb5a5ed-0672-49e9-a805-74b9390d4972___RS_Erly.B 9529.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3574c8fc-19bd-4163-adc8-c36276fff0fb___GH_HL Leaf 362.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\728525fd-75a3-4356-a7b4-34d56c31e12b___FREC_Pwd.M 4857.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d15fe9d3-0631-4482-a482-68d9169f1970___RS_HL 7894.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\e3bbf9e4-4af5-4137-b996-440c5de827dd___RS_HL 5780.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7c8dcf96-0825-49a2-8309-bb02524c64da___Crnl_L.Mold 8775.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\feee45d9-e66f-499f-8ca9-e76881aa10ab___JR_HL 9756.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a5af0d83-aba8-4353-bfa4-ea4f959d9787___GHLB2 Leaf 9052.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ff3ff139-ca11-4e48-b78e-29147bec8ae4___Keller.St_CG 1981.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\559408d6-2cd2-4fdb-9f45-fe0f7c23348c___JR_HL 9760.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\1b3e0f15-bbfb-4629-840f-310c7bf2a17c___RS_GLSp 9335.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a37a63d6-d842-4049-b82b-f1d47c6f2f2c___Crnl_L.Mold 8646.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\a0e41113-2d10-4f8a-95fb-c4c71dfe1dae___FREC_Pwd.M 4670.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\5581f206-7305-4430-be5f-8de62689fb70___FREC_Scab 2918.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\1aaa3665-febe-407c-8830-7919b093305e___RS_HL 7803.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\25cac927-fd33-4890-9948-8aa1e9a7af52___GH_HL Leaf 293.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\16bbe776-cc47-444a-8324-246c97d61ce6___JR_HL 4061.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\f38f68c9-d944-4308-89f3-d77eae66da95___FREC_Pwd.M 4692.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\f0fb0e55-8a67-4df0-be6f-90913f64bc28___RS_HL 7352.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\873aa4b3-61f8-473a-8fd3-b39ede9376c4___RS_Late.B 4829.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\23a80c76-8642-4e07-b157-b73eff76c44e___RS_HL 5906.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e920998f-6980-4011-90f7-78fdc1c4eaad___RS_Late.B 6118.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\5bfc7dd9-17aa-4e40-b7f3-6033dc95f408___RS_HL 5717.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3fdbd8fe-f026-4fef-b02d-b451fb60cb86___RS_HL 7353.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f456169c-83b5-4fd6-8c0a-41f36fb23ac7___Crnl_L.Mold 6693.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6e4263eb-1b86-4d34-9da8-e398e3e8931d___FREC_Pwd.M 0307.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\5ad16a00-4f2d-4872-a45c-80250b507ecc___RS_Erly.B 9378.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\4427063f-9e4a-4aaf-959a-c9afc210f7fa___RS_GLSp 4307.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\439d092e-4a77-4feb-be22-2f830926f602___GHLB2ES Leaf 54.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\40761a05-eac1-44d2-b543-7e83ee6507ba___FREC_C.Rust 3556.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\fcf97241-bd84-4829-b326-72590a3f4f59___RS_Erly.B 7555.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\ac392c19-68f4-41aa-9923-2be5483a0b4c___JR_HL 9802.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\6021f415-8463-41eb-ad4c-4033f7d16798___RS_Erly.B 7710.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\2d8540de-c3db-497b-bbce-c49a561426d8___RS_HL 2293.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\f7df2411-8e50-46e1-b43a-cca357bee1af___GH_HL Leaf 521.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\3ea747af-ed9d-44f1-a8b6-61503adf0a4b___FREC_C.Rust 4174.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a67ce05c-3102-4dd9-ac63-872a526f5ae8___RS_Late.B 6124.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\c00cfc72-9251-4693-a46a-a6dc10ca79c1___RS_HL 5167.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3e19a6c4-e5d8-4649-b403-7a8fd36b88e2___RS_HL 7533.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\179bcb9e-72e9-43f6-906a-da105e090064___RS_HL 0517.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d215e01d-93aa-41cc-9212-614c93151cca___RS_HL 8068.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\147539f7-632d-42ee-a19a-071b9c7c85f2___RS_Late.B 5140.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\247e79d6-1874-4ce4-a777-a03a4f94edbf___GH_HL Leaf 211.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\028d1f49-303d-46b6-ae2b-50862fab78ca___JR_FrgE.S 2748.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\411a47e8-e401-41c3-a183-42dad13aaa9a___Matt.S_CG 7742.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6549d4d7-4649-4059-8f94-e106f268119c___FREC_Pwd.M 0458.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\19b3dc29-de7d-46e8-af14-7451d779f424___RS_HL 7373.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\62c3478f-3ab0-48df-962f-9d7782ec364d___FREC_Scab 2925.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\f0005cff-d101-474d-8a1f-c119df6b9a7d___RS_HL 5168.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e9ef618a-46ef-4e2d-a76e-a2423336b29b___GHLB_PS Leaf 43 Day 18.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\622044a4-97d7-46a1-a702-2f586bb04a78___GH_HL Leaf 334.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\1b6664a7-03f9-4ced-8dcd-b85a18554aa5___RS_GLSp 7324.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\2d781105-f8f5-422d-96cb-d794714f89f4___RS_HL 2650.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\dab82d8b-05d6-4f3c-8ab7-666b6cc46d72___RS_HL 7874.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\10f75d05-fa3e-4b14-b3d8-093292c218e6___RS_HL 7873.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\d0632da1-03b6-43e5-9a31-0f24fe456428___FREC_Pwd.M 0536.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\e57a51c0-d0c0-46a1-a298-4c9cfd0337e2___FREC_Pwd.M 4778.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\45c5dbd2-e45d-438b-ae11-04e96417cb2f___Matt.S_CG 0666.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\681a274a-abbf-4498-bb37-02192cc336a9___Matt.S_CG 6333.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b8b5b34a-6856-4c79-9681-047c1aa47ae0___RS_Late.B 6222.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6aad1489-2ff3-4b26-a037-45e56f572ad7___JR_Sept.L.S 2690.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\b9fbe0b3-7f05-4ec3-be16-0cf13b86e8fe___RS_GLSp 4374.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\0e84adc9-3e97-48e2-b1fd-7d04f9e92cb0___JR_FrgE.S 2949.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d47bf62b-98b7-434a-881f-0ad1db20315c___Matt.S_CG 6753.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1a473cad-42fc-48ca-963c-d438fbca928f___RS_Late.B 5418.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fe34beba-a661-4164-ace3-4660d8e39c4f___RS_GLSp 4499.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\c98f4286-f846-4c26-b74f-9859de9699e6___RS_Erly.B 9607.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f843c76c-a7d4-4031-abe2-9245602fbb15___GHLB_PS Leaf 49.1 Day 18.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\bef6003b-6464-4498-9b5d-c69ded9cea76___Matt.S_CG 7771.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\939be2cc-6c00-4205-85cd-5276c12969e0___RS_HL 9883.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\769cf206-744b-4850-8c29-2ba3c9f3c0a1___FREC_Pwd.M 0495.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\abaaf21a-3c59-4a00-825e-2f05f045bbf9___RS_HL 0066.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c3dc2bc8-bf20-4cc6-8601-420f43555bc5___RS_Late.B 5056.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\50fa49cd-002e-4352-816e-c5df10dc5f3f___JR_FrgE.S 2950.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\450b736f-8e2d-46e0-be60-6481f37d8612___Crnl_L.Mold 6882.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a6838e7b-b9f5-4d7e-ad16-63b27baa0ca2___JR_Sept.L.S 2477.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\1d6c5aa9-4195-4dc9-8965-f84c021a0179___RS_HL 2628.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\44dcf367-d162-407e-8ea8-e363ab8ff5c4___FREC_Scab 3282.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8d58aa38-714a-45b6-b36d-fe52ab36aae8___GHLB Leaf 24.1 Day 12.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c6f2f79f-4554-4869-84e0-32df4ed15eb4___RS_Late.B 6399.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\023fe2d4-6e1d-40ce-99ae-85ba90f436ff___RS_Erly.B 6354.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\554089f3-ff67-45ff-9d9a-b0aba573df6a___JR_FrgE.S 2730.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3caaee0c-993e-4b59-8e88-ab7ee052ed48___RS_GLSp 4643.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\e2af3daf-392f-4661-baf0-f4d4522a07f9___RS_HL 5652.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\33936d1f-7074-49d2-9b3e-3964972fc636___RS_HL 0119.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\946234d6-cd27-4278-8f23-b7114617ca36___RS_HL 0717.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\3a1f89c1-9f3b-47ec-aafc-7f2ba2558d6d___Matt.S_CG 6856.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\bc7769cc-805e-42ef-bbcf-0c134ff03276___FREC_Scab 2909.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b2a295e0-c517-4602-a97f-1251f008495f___Matt.S_CG 6352.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\35191ad1-ec13-4217-bb93-c9b987a91d55___RS_HL 0407.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d461b7c8-4c81-4309-8ccd-4400ddbb25aa___RS_HL 0586.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d74bd0ad-5a61-48ed-a5b6-9e0bf5f3911d___RS_HL 7906.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\00d12ac0-a293-47e0-a4c6-a80f37204c39___FREC_Pwd.M 4812.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\da91e28c-3e10-406c-be5c-d10afd8e183d___RS_HL 6041.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\451b68a6-1b39-40c5-8669-f82af6de1eed___JR_FrgE.S 8737.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\428176ce-c654-4167-92cd-f8b0e813d005___RS_HL 5259.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a5639de3-303c-4066-b3a0-a72aa73ef818___Crnl_L.Mold 6740.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1a88e419-7d5c-45c7-a10f-4e1f80280cd2___Matt.S_CG 1584.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\dbbc206a-90ab-4b29-abe0-5613028278be___RS_Erly.B 8409.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\952ab9a0-bfcc-408c-a7d7-c8ae485acb7c___JR_FrgE.S 2993.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\3632065f-bc6e-486c-9f86-c0d37edbb762___FREC_Pwd.M 4487.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\fe410980-15d4-472d-b8e6-4fece7d302ee___FREC_Pwd.M 4949.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\89d2801e-6359-4079-a4c2-0df4718d7800___GHLB_PS Leaf 1 Day 8.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\2e84cbfc-af2c-4c2b-9273-8427546a5383___Crnl_L.Mold 8692.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0c47de5b-adbe-479f-8ccf-5b8c530c32f8___RS_Late.B 6312.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\39da27eb-fde9-474b-bf0a-1374901ed82b___RS_Erly.B 7394.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\270ca100-e754-4ed1-9fe8-0d3270cba958___RS_HL 5660.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\83de5ea9-7957-4d6a-86b8-7be99e66c83e___RS_HL 0333.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d2f97435-6763-41b9-9c83-44fb45fa4d24___Matt.S_CG 1051.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e97fece3-ef56-43fe-a4d3-d9656c8d87ca___RS_HL 0563.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b09b2807-58ca-4708-904e-05de3032ef92___RS_Late.B 6345.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\5b1f2adb-5065-4b7f-8b51-bc5695ad5ebb___FREC_C.Rust 9802.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\77beaab6-09bf-4ea4-9107-4109d06b5412___Keller.St_CG 1829.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\e7a46a0f-64f9-47a5-aecd-655cca1d4559___JR_HL 3923.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\e351c2d8-2fad-49af-9994-7d4f95cbf1e2___FREC_Pwd.M 5033.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\3a9dde01-97de-4650-b6e8-1f76b1597e7e___FREC_Pwd.M 4864.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\aca41693-0f3c-4fae-a692-5fd2a4db2304___RS_GLSp 4389.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9ab60a88-cd38-43c0-998d-4503e4bdc8b2___Crnl_L.Mold 6749.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\94c36e88-6c77-4e7b-b6c8-bf354d8f6fe9___RS_HL 7930.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\036d12b0-1e97-4975-bd80-a8a3c48588e7___Crnl_L.Mold 6500.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\0f41f03c-9119-4c35-8817-049fe34453a1___JR_HL 3920.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\0f5911ec-803a-4f2c-8e41-4b122ab98ce0___JR_HL 9847.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\09e4cb6f-2897-477a-adce-f2c6204840e5___RS_HL 2303.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\740caf75-7903-44ec-ac47-c8a684736c8a___Keller.St_CG 2005.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5828f9c7-5083-45c3-b3bb-bb202ed1cd53___GHLB2 Leaf 128.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\47c9915d-7fb5-4426-a1b8-5928c3b20666___RS_HL 7565.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\eed4b520-3e7c-4a4f-8e7a-26cd9a893a32___RS_HL 5661.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\38c039b6-23f0-4fc2-a0df-e5ec3f523a09___RS_HL 5887.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\a8532f9d-c6c3-44e4-9278-c7350c4adb09___FREC_Pwd.M 0526.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\55b3e1e7-0bd4-4e0b-b929-19d68fc43e23___RS_HL 7653.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\1dce9d73-e579-48f5-bdd9-2a998ab41529___RS_HL 5415.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8854cb53-e283-46b4-b150-3d0b414b77fd___Matt.S_CG 0951.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f2581062-48ef-4957-bab3-9beb606ff3ef___RS_Late.B 6291.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\c64db855-ec89-47dd-bde3-245b122387d4___JR_HL 4170.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\d20981e7-70ec-495a-9921-c48de5793822___RS_GLSp 4339.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\ed2d6237-f67a-4a5b-bd44-f122388bcd80___RS_GLSp 4620 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\3af1fd7b-aca5-405e-b4ab-3615eaa6c0df___Matt.S_CG 6915.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\6b66d8dd-af9f-43b5-a43f-6e4c6d64bede___FREC_Scab 3248.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\92a458d9-e19a-4080-a7fe-ec6c83af7c0c___GHLB2 Leaf 8730.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\ffb59eab-a2c5-471b-96f9-7699d5504b4d___RS_HL 7390.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\75eef67a-dfe2-425f-a14f-a58ce71856da___Matt.S_CG 6280.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\a6421f2e-fa46-45a6-9f1b-64b60cde096a___FREC_Pwd.M 4743.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\316e62fa-d8a8-4451-80a8-a546c8c43511___RS_HL 9633.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\c87a666a-07bb-44cc-952a-33d69f075e14___RS_Erly.B 7631.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\456a01fc-8db6-4068-96cb-3b1e4e5f77f1___JR_FrgE.S 2768.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\cef9fa90-aca2-4354-b79e-2486409ac685___RS_Erly.B 7563.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a18ef1c1-96c1-42ee-8ad7-c78283c8fc4f___Crnl_L.Mold 7023.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5d1cc870-27d2-4442-bc2a-a8788543d326___JR_Sept.L.S 2578.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\2080b1c3-1b69-4a34-8cd0-38597afe0c69___RS_HL 5279.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\fe4f3554-4a7e-439d-a562-d7698d263fca___RS_HL 5352.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\0963eabe-73b2-429d-969a-6e8392f2e424___FREC_Pwd.M 4769.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\13e0d497-f5fc-4fb9-9e9a-cb77bc330730___RS_HL 0397.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c57694cb-8849-405f-9a84-bf0158c53c95___RS_HL 7241.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7a8f225e-a87c-47ca-a49d-27b620951a4e___Crnl_L.Mold 6497.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\32ae9564-c205-4814-b579-1ebf0d732e7e___RS_Erly.B 9415.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\decd2c69-c302-461a-a2f7-7c1e37d9d633___RS_HL 0258.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\d42add39-cfc9-4603-948e-fb70a8fb0a12___FREC_Pwd.M 4823.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\bb7c7fce-4601-43b6-b396-4f78ca7dd44c___Crnl_L.Mold 9013.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e4a9bd3b-a5a9-43bd-996d-9feb0f8aaacc___RS_HL 0522.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\dc77d3d9-5810-4859-892b-34456a6e9d15___JR_Sept.L.S 8565.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\32454154-edbf-464f-8097-e99a3d9a15af___FREC_Scab 2936.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e95c13d4-9ba6-452e-b53c-03007f575401___GH_HL Leaf 320.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a81e6fb8-3b9f-4b20-be65-b0650a3eee33___RS_HL 0514.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1f755e56-f38f-44ef-8076-d82c302c4539___JR_Sept.L.S 8407.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\28d202ba-1fd8-4200-9727-ad3d977d58f9___Crnl_L.Mold 6758.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\48d6f0b4-71e8-418f-8558-b38b89ed3c0b___JR_FrgE.S 8569.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\44728e89-49f7-435e-b4d9-a64a7a3f2317___RS_Late.B 7116.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\0008f3d3-2f85-4973-be9a-1b520b8b59fc___JR_HL 4092.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1600.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d496c802-e976-49b5-af09-b698fcf991f7___RS_HL 7429.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\dd2b6b6b-2278-4f52-8009-2d57037ab3f2___RS_HL 5670.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\256b92d9-41f3-47a4-870f-c0c0f0ac201e___Matt.S_CG 6842.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\857c4c4b-d04c-47a0-84ff-55366ad36bbd___JR_Sept.L.S 2524.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\eef3e7b5-aee0-474d-8094-1baa53f1a365___JR_Sept.L.S 2551.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\75894286-9ce2-448e-8148-0f7fc3442689___GHLB Leaf 2.2 Day 12.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\d5bddab9-06bd-488f-a844-97bd75c6b061___RS_Erly.B 6662.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\09dbdbad-6b02-45a8-a1d3-86cebfd1320d___Keller.St_CG 1799.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\6cb8c035-59e3-4691-b88b-adc9c1d7f702___RS_HL 0419.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1625.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\3056df44-6fa9-48dd-aaa4-2e90160aa68e___RS_HL 5180.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\52c38d27-ff5d-4eb0-83a4-4dea0a7bc51b___GHLB2 Leaf 73.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\349251ed-2e99-4af9-b432-2a63202a0985___RS_HL 6120.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8a5ed87d-5122-4aaf-8e39-9a3433c5f76c___RS_HL 0524.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c097e7ca-2488-497c-94be-4646e950bc54___FREC_Pwd.M 4513.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8a9afef1-d6fb-4ea5-a386-2236521b2a32___GH_HL Leaf 234.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fb6bea39-f361-457c-b73e-fe3b2dbe6259___Matt.S_CG 2786.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\af7e1ce4-bb49-4227-ba89-9972bab473b7___Crnl_L.Mold 6560.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b9e6992c-f73a-410e-8b06-a6ce96192c6a___GHLB2 Leaf 9077.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\87815762-3104-4c15-96c5-238ecda66998___GHLB2 Leaf 124.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\79962b01-7b73-4486-b91e-a7ec898b8156___Matt.S_CG 6635.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\5d6ae672-3a2e-4be6-905c-c9e42e381a8a___JR_HL 9841.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\908a637d-2cba-4c03-ab03-4b41eae1470c___Matt.S_CG 7459.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e345f36c-fdaf-4a3d-bafa-ec637147d819___RS_HL 4919.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\ce9e0aae-c911-4a72-8084-6c29c7d0b116___RS_HL 0712.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\02ecd449-7b27-44d7-b59e-7e31813f0c18___FREC_Pwd.M 0450.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1592.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\cb647989-23e4-4d54-ba50-7685b19e780d___RS_GLSp 9280.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\8216d2c7-e88e-46ae-9654-1a0e37afb8dd___RS_HL 5440.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\5e917525-fa2f-473b-bed0-cd45b77f2388___JR_FrgE.S 2816.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\56fff1a0-e145-4cf8-a2e0-925d9fae1e24___GHLB Leaf 25 Day 12.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\132f87df-7c5f-46c9-9ede-864ec865fd6d___RS_HL 2528.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\f472e594-6b98-402a-a097-22f46921df9e___RS_HL 7818.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\819e02d3-94fc-4903-b963-dbe0ff5fc8ad___JR_Sept.L.S 8445.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b459b9c8-30e2-4a65-be28-53d80243cac2___Keller.St_CG 1797.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\58b5b20e-13c8-4ce5-9139-11062b9d3269___Matt.S_CG 1598.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\ec9e541f-ebe0-4985-8a34-26f9daf88b5d___RS_HL 5948.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1591.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\f8dafa02-edfb-4fc6-bea1-a51cab4d4111___RS_GLSp 4472 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\4805cd39-afd8-48b2-b294-9cdc3e6a316c___RS_HL 0425.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\17079025-3a59-46d4-83f2-ccff1c099bee___FREC_Pwd.M 0513.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\0b5492ee-253d-4a13-ad5a-780cb954b09a___RS_GLSp 4615 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fbbe43eb-7d70-4053-97ac-908fb9af1a6f___RS_Late.B 6587.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\af7404aa-9277-4b30-b92b-2056e8441732___RS_HL 5011.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cdcc1a8c-7b80-4d56-a5b6-942f03928ea0___RS_Late.B 5233.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\a5506fba-2c74-4387-8511-f5e1ba8c5a94___RS_HL 2668.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\32b83a17-4c18-4dbb-bb06-e49bae4d2be5___RS_HL 0598.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\efecb7da-773a-42f2-96cd-b246e2d84050___RS_HL 2607.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\a6cfd8cf-37d2-42ea-9946-daf4fc794e3e___RS_HL 7853.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\dfe650bb-d16a-47ed-85d2-25abcbd0f152___RS_GLSp 4612.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8a90ed3e-79fb-40e4-b3f6-005013452e32___JR_Sept.L.S 2565.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\20459a26-c07a-4592-baf8-6d4172c23cec___RS_Erly.B 8358.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\48476597-1b5c-4d55-bd30-80059a2356bf___JR_HL 9674.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\e3d043b6-c62b-4e04-8878-fe26f20025e9___RS_GLSp 9360.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5b70236c-4228-4c9a-b1c5-783225d6b3bb___JR_Sept.L.S 2519.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\005e3b43-9050-47da-9498-f9ecdcc703b3___RS_Late.B 5104.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\bd054825-e586-4626-bc0f-d5c41f9b5b28___Matt.S_CG 6016.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\2902e85c-1705-423b-bb02-80e2d93bc54e___JR_FrgE.S 2922.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\801feab6-e225-4ce5-8bf0-6fb44a767045___RS_HL 7723.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5df79085-2c00-41d6-ac0f-33a831a16d89___RS_HL 9634.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ac96d4d4-4eb0-4ed8-9954-b38306e120cf___Matt.S_CG 2749.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7ee00267-be66-4b6a-a207-0bf0046d28b6___RS_Late.B 6909.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0d932b2a-584e-4971-8590-70c5f0a049cf___RS_HL 9739.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\91b86c29-60fb-4383-8bc3-8e06cb5519f2___RS_HL 0283.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3b34322e-e2ad-4023-bf76-f290fb2455a1___GHLB_PS Leaf 52 Day 18.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\17d3b0b7-b847-4510-a2e0-30b9314284f3___JR_HL 9556.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2551a3b8-b5dd-4716-88e6-517a012a44f1___RS_HL 7551.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7117f7b8-7635-4e6d-b687-d0c82a062f6c___Matt.S_CG 7544.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\33cd99f1-1f8a-497b-b4fc-60ff78af4b8a___RS_Erly.B 8378.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\47a9bf22-281f-49d6-a03a-97be4983fc68___RS_HL 0604.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b5f3f7a5-26ab-4696-b94e-9f2d7c472254___RS_Late.B 6074.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\643d1473-b609-4a67-bc28-8dcc7b22c46b___JR_Sept.L.S 8354.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\0df55dba-60e0-44e6-b64a-1f4d9a1377fd___FREC_Pwd.M 0527.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\32bf3a4e-2a04-4718-ba1f-9f54a11fc9d1___RS_HL 2391.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\8e50e865-0621-442a-945d-f402f328151b___FREC_C.Rust 3699.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\77c9e1e4-286a-4ae0-aa62-87f99781a6fa___RS_Erly.B 7864.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\be359185-6775-43a6-8958-2d3b72e846f0___RS_HL 2539.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\64796c19-d026-48ed-b433-0be64b859a7c___RS_HL 9892.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\92cd65f0-9866-4985-b706-733e8c53ed83___JR_HL 4007.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\df0e8bc3-8244-4843-8d54-0593a6f2ee05___JR_FrgE.S 2743.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\52d8da3b-5d74-43ba-b527-bc8fc6b5387b___JR_FrgE.S 2797.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8080a99f-e35d-4a1f-b26e-e2df8cf79408___RS_Late.B 6183.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\a0816ba7-dc4a-432a-85fc-79d2aa1b8f96___JR_HL 4047.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7aa199e5-4228-409c-84c2-8cd070af2b87___GHLB Leaf 2.1 Day 12.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c7a3f599-36dc-40e2-8efc-d0e0568666a7___Crnl_L.Mold 6983.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7b36c70b-3b45-4a18-b0fb-6f5da50d04f3___Matt.S_CG 1408.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b212b78d-286a-4eec-b5b2-194ce2511695___GH_HL Leaf 345.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\61800495-73fd-40e8-8ddf-b45cb4670213___FREC_Pwd.M 5074.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e4f561cc-0e83-4718-90bf-2648db94a4bb___GHLB2 Leaf 162.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ecacf5db-abcf-408c-b41a-93e339fbfc0c___RS_Late.B 6405.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\cffe2528-d760-4e77-a117-a0253ba3af6f___JR_FrgE.S 8801.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8bcab1d2-d0fe-497d-9419-765c99ac6989___JR_Sept.L.S 8541.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e74a7250-6e1c-48e8-bef4-deb2724c7b5a___RS_HL 0091.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\cf125685-f590-41e7-9b04-836d2222b263___FREC_Pwd.M 4656.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\2fa6cd46-eb76-481e-b15a-44c858f705b3___RS_Erly.B 9532.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d3543a4b-c5df-44f9-99e2-199e814e61cc___RS_HL 7805.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\f0ba8c56-b0f6-4cfe-bee4-6cafa8921f76___RS_HL 5233.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7c9ac47e-ec96-457c-96d7-8aefdace978f___Crnl_L.Mold 6850.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\a5b33d5a-99bc-43b9-b408-aaf9535189e0___RS_Erly.B 8372.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\418fb46a-4ace-4f51-b85b-a3885275fe96___JR_HL 9837.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\32a852af-ca60-4235-806a-21940281ed8b___RS_HL 0625.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c5708e70-747e-44d9-ab7f-356157bfe0ec___RS_HL 9813.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\20fe383e-d172-4aee-b76c-d82420e93b0c___RS_Late.B 5519.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\0751ddb1-c3ee-46ee-bee1-46c24c567dc2___Matt.S_CG 6116.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a05152d0-46be-4016-b398-8c3edd794070___Matt.S_CG 6848.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\bdcce69f-7520-48cc-b22b-c3ad33d5be71___RS_HL 7878.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\16e4a1f9-21c2-4c1a-bdbc-1336da74ba2c___GHLB2 Leaf 145.3.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\cbf33493-c9d7-486c-90c7-0e1117aec294___Matt.S_CG 7472.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\00907d8b-6ae6-4306-bfd7-d54471981a86___RS_HL 5709.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b26fc8e6-5d9f-4b96-b02b-f048c4b9e05a___Crnl_L.Mold 6735.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e398668b-1722-455b-ab4e-a2be1203c7d6___Keller.St_CG 2001.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\5ac6ef38-097e-4509-9090-1c02cf2c152a___RS_GLSp 4650.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\99c51d74-a688-4723-bab4-b9b0dba2ad3c___GHLB2 Leaf 145.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\8b875aa8-94b9-44d1-9302-8b183d6441b4___RS_HL 5118.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\accd568b-73d3-49f9-8ddb-4a51e1595383___RS_Erly.B 6375.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\03f6a4b2-d08b-4f7f-8a8e-d132ff3eca8b___RS_HL 6226.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\66c98dd1-2790-4977-91ee-1b10ca8c687b___RS_Erly.B 8418.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\3a1a17f2-2d62-4594-9edb-2b19c038aa68___RS_HL 2370.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ccfba9c3-41a5-40de-b71a-980bc3336ae7___GH_HL Leaf 522.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2b76f048-cc2d-4e91-9652-ca3608dd0481___RS_HL 6201.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\71bcd3c5-95d6-4b6f-88dc-c8dcbf49e6ed___FREC_Pwd.M 4650.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\ff7087a7-3388-45dc-a9e9-0aed99539223___JR_FrgE.S 2979.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\da8982a8-d154-4870-8163-06efb1faa594___FREC_Pwd.M 4953.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d90c2358-fa7a-4ad8-913f-37ff4cfd29d0___JR_Sept.L.S 8346.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\939b8ab2-3d4d-4ee3-8677-18e29f2f8bc3___Matt.S_CG 1651.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\14385f16-4e7f-401f-889a-8c1535ed85ba___GH_HL Leaf 503.5.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b8e23dd6-ff8c-4617-8602-c9c3a0039766___RS_HL 7983.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\dea36f42-614d-4f0e-a3c5-d1450a34f88d___JR_HL 4318.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d57beb14-b60a-431f-8a41-17a342cba57a___RS_HL 5737.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8298308b-4f4e-472b-9ee5-bd5887299f59___RS_HL 0269.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\18854838-ea2e-4b85-8d17-ec1165f0bc36___JR_HL 3985.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b1e628a8-b250-4ee7-9d3f-60f93a6a556b___RS_HL 0148.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\20d3ba25-f161-4ede-a42a-7a3020ebda3d___RS_HL 0124.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\80737668-73b1-4dfc-a7ad-76f996ba72b7___Matt.S_CG 5996.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\fa9666e5-57f5-4664-b51a-ce5b1fa52843___RS_HL 2485.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e2acf01a-92f6-47b2-bc21-e830899f9f0b___GHLB2 Leaf 95.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\33ebf0dd-f971-4f11-aa93-45df7d55a9ea___FREC_Scab 3182.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5eceb9db-6355-445e-96b6-1644fab0dea7___Matt.S_CG 2774.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ef68398c-ec92-4e44-961a-5ec1a29d3c28___RS_Erly.B 9620.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\8b60fc20-52fa-40a2-8d91-367307968f8e___RS_HL 7264.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\2f32bc53-9b0c-44e4-be95-e7fadfdda078___FREC_Pwd.M 4502.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\41b01db4-dcc7-4f71-8d24-11a581577f71___RS_HL 9715.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\11257939-ac71-4448-a9b1-939c2200a3a5___FREC_Pwd.M 4682.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b190b148-9621-404b-a3a1-e697d2d40f42___Crnl_L.Mold 8656.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\10d91c8f-6d77-4c15-ad21-459688b52055___GHLB2 Leaf 154.4.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\a63295f1-8032-4db2-b0d7-4e51f6e30bad___RS_HL 6089.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b1043dad-c2cf-4cae-9418-5910f7fe7b94___RS_HL 5234.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\1107fc9f-f39f-450f-b928-4742fb82da77___JR_FrgE.S 2775.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3200dbab-2da4-49c9-bd74-34d67e763b22___RS_HL 0562.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\8e79873f-2d83-4620-9e80-6ce07fec6861___RS_HL 2266.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d710ad26-f858-45fd-b59c-0d121c4a2dec___JR_Sept.L.S 8402.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\0e95f40f-89aa-40b2-86a6-8e82b7d05bfc___FREC_Pwd.M 0297.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\513e1e06-d736-4317-b86b-73464b111958___GH_HL Leaf 385.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\87a12625-8af0-43af-9169-4037ba079743___Crnl_L.Mold 9124.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\175164c2-7b16-48bd-a67e-c3f95cb8cbf7___Matt.S_CG 1701.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\39d6a038-a6f1-4bff-934c-dabb4496e691___JR_HL 4008.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\767f9252-73cd-469f-9270-54b0a35b8bc9___RS_HL 0481.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\78776bfc-9aa1-4b33-bb43-41ac6a140323___JR_Sept.L.S 8456.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cf724383-bfe7-454a-9f22-bb59072d56ae___RS_Late.B 5442.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\28f01d7f-27f8-4cf1-a473-ef4744b2dc61___JR_FrgE.S 8597.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\7e721779-b328-4c32-ad15-889743f9846a___RS_HL 7832.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\8788717a-1128-4cc4-a76e-71337500c5df___RS_GLSp 4623 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1159051e-1278-4b35-929c-e26b963d048f___GHLB_PS Leaf 8.1 Day 16.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\115ce7f7-f1b1-4f24-a96f-07107c9e703c___RS_HL 5791.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\9606fef7-31e2-439d-93e1-f2d860844cad___FREC_Pwd.M 4613.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7fa38347-d1e6-4d31-9b90-50ac10cd11ee___Keller.St_CG 1988.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d247170c-6756-41f0-9074-09190f485cdb___RS_HL 0034.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\ef16aa29-f7bd-4bad-be8e-4877760a3712___RS_HL 5871.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\18d8f15c-4948-4506-ae09-54169f95cf36___RS_Erly.B 7496.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\0ced0bae-d224-43f5-8fd7-072c7cbd8f77___Crnl_L.Mold 9161.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\32839ce2-35bd-4352-9d5d-1c4c6713cd9b___JR_Sept.L.S 8405.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\80817b48-d9dc-4b29-b6ac-1f7bb58e3d00___RS_Late.B 4833.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\a6d7438a-35f6-40fb-ab5c-a46cdfef7e83___RS_Erly.B 9594.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\10d6609b-e358-456c-801d-942c657ed53e___JR_HL 9482.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fffee500-8469-4c0f-a17d-d95c5516b446___Matt.S_CG 6210.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\e706b363-0bc0-4846-9b56-b7ff2f60e112___RS_HL 5952.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\62acb368-c1b6-496c-910d-64cd4b8c5941___RS_HL 7964.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8ab801ee-afee-4025-b5e8-5927465bd455___RS_HL 0212.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\29fb6588-a368-4143-9cdd-8a131f0d50f4___RS_Erly.B 7779.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\df9e0c7e-59cb-4a87-abbd-66f0f78e5130___RS_Erly.B 8275.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\b9d90cb8-7c25-4378-8d8b-84bdd89fc276___FREC_Pwd.M 0444.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\062efd9d-a1b1-4702-a9c9-f807ce44ed8a___RS_HL 4955.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\a4dc95ee-6ffa-4f0a-9844-7846079f6e92___RS_HL 4887.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8328f7fb-5929-4920-921a-ae9a24db66c2___RS_HL 0597.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\cdf046be-8d54-4e89-babf-425b7f7ac27c___Matt.S_CG 7437.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\16984239-2e67-407e-b600-4a3666500534___RS_Late.B 5182.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\fac07867-acdd-4a19-8be5-987958575af0___RS_HL 5972.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\862c7fa2-1ab0-4bce-9f9b-76cbb4a096e1___RS_Erly.B 7521.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\22e876a7-46e4-4b87-b2ac-0668117fb455___RS_GLSp 4469.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\2605218e-e8bf-43d8-8b00-52058e9f0f25___RS_HL 9893.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\7b4b37d4-fec6-4e52-8c88-a6e1e69aeeb2___JR_FrgE.S 8588.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1571.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\07679a50-9d8d-4612-80f4-464785781d56___JR_Sept.L.S 2727.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\278c79c0-ebab-4c54-b573-d94a936e63e4___GHLB Leaf 2.3 Day 13.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\6e6b6a39-e952-428f-9b86-06b4c4b587a1___JR_HL 3921.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4ed0a372-fe3d-49a6-82a1-2e904e6c66e3___GH_HL Leaf 200.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2ff033e7-73ea-49aa-b81a-164963cc464d___Matt.S_CG 6638.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\c3e85d27-e5e0-4897-a039-22640e696184___RS_Erly.B 9459.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\eb3fa649-d717-4769-9f69-57f88c166455___FREC_Scab 3387.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\bfed28c4-5ef8-4a35-b826-612875cc6b86___JR_HL 4099.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9c42acb9-3794-41d5-acc0-3c4949aa5e52___RS_HL 0442.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\831c37a3-44c3-4f1e-9fa2-4c10551809d2___RS_HL 6108.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\0bd357fe-1e54-4c65-979c-e894e0b8a3aa___RS_Erly.B 8328.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\c31a1dfb-795a-4656-bb97-2ca4ef364ede___RS_HL 0353.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\4ca16717-c27c-44e6-963b-160e16277ee1___JR_HL 4174.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9e633823-3dde-450c-8172-733021e4dff0___RS_Late.B 6414.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\52c66129-6303-4aa4-97e7-8f1c0d24c57a___JR_FrgE.S 2759.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\d1745979-75a6-4b00-a544-cf5ba043e7e0___FREC_Scab 3330.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9ee905ed-4e49-4256-8d6d-74fc6450ead1___Keller.St_CG 1794.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\40e8b878-dc2f-4cbd-ac31-c07f372bb0fa___RS_Erly.B 7369.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\aca56c01-7699-4b63-ad20-164ffc5af439___RS_HL 0562.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e8a03412-8e75-4ea6-a4da-e26f99653be3___Matt.S_CG 7474.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\98f19e26-5889-4e8e-9175-8dbbaa3439ef___RS_Erly.B 6449.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\6e6ba2b7-f2dd-4e99-816a-0e0b8dd6d6bf___JR_FrgE.S 2762.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1d6d043a-9df9-49ec-9b0f-e40a8e7f409f___RS_Late.B 5287.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\f9dfbedf-66b4-4493-9ce9-6f6aca0cb152___FREC_Pwd.M 4926.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\178eb3a0-a4c6-4c2b-8bad-e11d66a76f52___RS_Late.B 4886.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\aaee6da4-9549-447b-906d-2e42199da7c5___JR_HL 9833.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8cb8fc56-d6b5-4032-b5f4-aebe52af18a3___GHLB2 Leaf 8945.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d5aea5fd-511a-4b5a-92d5-b4063c2c9615___Matt.S_CG 0669.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\20ab7535-34d8-4bac-b3a7-4fa929a1bed3___GHLB2 Leaf 59.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\b0084869-42c1-4124-853d-d73f99ee8d38___FREC_Pwd.M 4807.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\532a6e3c-5dd5-4adf-9bc0-c13551dae536___GH_HL Leaf 354.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6f1c8a5e-7df4-46cf-9cbf-3f5588512393___FREC_Pwd.M 0564.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\7e236dc3-40e2-4ff9-8356-4fb7a3fcc0ff___RS_Erly.B 6426.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\bc1f8969-f563-4300-b792-93f75d23a483___RS_GLSp 9306.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ade7f196-3468-401a-863e-8e9c026c213b___Matt.S_CG 6516.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\27b057d7-929a-436f-905d-fd8339bf1bca___RS_HL 7366.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\59022c11-f4f9-425c-a5c4-3b00407a4d4b___JR_HL 4304.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\4b2958d2-b93d-4ed1-b899-01a6c3a5b8b6___RS_HL 7768.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\d4165e95-f43c-41e5-a177-cc5ad823b5b0___FREC_C.Rust 3781.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\3d03a275-5710-44b3-8425-881636594b9e___JR_HL 4054.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2c6932ac-9d51-4af0-93a9-89b639fb9c12___Keller.St_CG 1920.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\62394305-3fca-4782-ad4a-b5670fcfac61___RS_Erly.B 7395.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\296f4660-5675-43b8-8b1f-20e8e9b228b7___JR_Sept.L.S 2612.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\bb06c1c7-3f4d-45d0-8882-b2eb8861b834___GH_HL Leaf 372.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\6e9b4ada-0f43-4de2-8e5d-463a3cb4da0f___RS_HL 7495.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\96922007-b6ba-4925-a18a-2b19138d9297___JR_FrgE.S 2800.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\65e6c212-6363-4ba2-8245-52c5266efad0___JR_FrgE.S 8625.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\4098b029-fcda-4d2f-9703-c16e6e5fae49___FREC_Scab 3455.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\519d366c-f967-452e-aaef-a9965368c310___Crnl_L.Mold 6952.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\5b5a11ac-da33-4eb4-b0a3-2ef746f744f4___JR_FrgE.S 8576.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\ed2b6234-d7fd-45cd-b025-d42777c032d7___RS_HL 2561.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\4c11a95e-122b-4e5e-a90c-cb550f8f6bb2___Crnl_L.Mold 7176.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\eb26346a-ab63-4741-aad4-c84c36d17d5e___JR_Sept.L.S 8440.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\cc729eed-8d8e-4a23-9b27-db78e418543d___FREC_Scab 3092.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cfa1ba1d-b853-441d-99b4-0d9d413c8eb0___RS_Late.B 5288.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\5532a755-1cdd-4257-a188-aa8444e79f06___JR_HL 4305.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\aa011200-3c84-4eb9-8294-7ce09dbfa531___RS_HL 2316.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4fc2334d-be0a-45f9-970d-be7a0f6a6c2a___RS_Late.B 6268.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\55d65bad-6553-42a7-916d-6276b3da83b2___RS_HL 0459.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\d98cdabc-9183-4829-aa46-d40538d25462___RS_Erly.B 7554.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\91d667f6-de17-48fe-9d42-f7dd3edfb622___FREC_Pwd.M 0357.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1629.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e1400c81-62df-44b6-97fd-e210b66dae0b___RS_HL 9672.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6a076e30-41cb-409c-9209-97e6ed8aa6fb___FREC_Pwd.M 0410.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ebc97633-07ff-405a-b186-18b8aa607b9d___GHLB2 Leaf 8635.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d7c5d552-e2c6-4868-ac4a-4ffa33151632___RS_HL 0502.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\3652fd23-ba4c-4958-8db8-3aff8f614dfd___FREC_Scab 3377.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\85078c60-8c80-4e59-844c-351693a46cbe___Matt.S_CG 2736.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\23484fef-f518-486c-8469-c33469e4ac11___RS_HL 6117.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\53471454-9f9a-4182-91a3-c2c6c1268c56___RS_HL 0209.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\8acb2f43-d1ff-4a60-8462-04e578be3be2___RS_HL 7753.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\1323484b-3af9-4ef3-bd2d-a26360c77a49___JR_HL 4032.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\8ac9b3d3-23c6-42e1-84d7-c4109379b7a1___JR_HL 9640.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\2a0d08cc-91b5-436b-abe4-31835c5f470b___RS_HL 0396.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\45125eef-ab89-43b1-be9f-e7bfcb28deb8___RS_HL 5276.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f7826d86-2eb1-408f-b2c1-a43afe0268b3___Crnl_L.Mold 9056.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4bf424a2-b275-4ac0-968c-fe229136f10d___GHLB_PS Leaf 2.5 Day 16.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\4023916c-9823-4410-bd89-b8bfe1b0b456___RS_HL 6009.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\25c45a05-4f45-42ad-b18a-b7f694023a31___Matt.S_CG 0824.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b1e778d9-67ab-4480-ad8c-99608cbad53e___RS_HL 5976.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\90fd9659-9d97-4428-bc35-c84def0ba3ba___RS_HL 7981.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\79c34498-d83f-4afd-a339-074b4dbb20bd___RS_Erly.B 8450.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\1cbf66bf-6df6-4c25-a6b1-a00e2d2b2578___RS_HL 4913.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\abb40b01-9ffd-4dd8-b46a-371a115110ea___JR_Sept.L.S 8358.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\5627316e-8d75-4b66-a790-02a6845a33a4___FREC_Pwd.M 4482.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\c5912efe-a2cc-4203-bc9c-bdc58adcf6a3___FREC_C.Rust 9821.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\bf26ad48-1ebb-4186-a52c-e249dc19317e___RS_HL 8195.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\7753aea0-28a4-4bf5-a353-e8cf4ac70989___RS_HL 0642.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\31c69c7d-5060-4189-947e-24bf1a2f325e___RS_HL 0738.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\7b6a1d90-e32e-4150-9c52-db681ed02269___RS_HL 2371.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\491e1fb8-ca02-4f86-94ce-0a2a7c2ca879___RS_HL 5062.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\3db46705-0539-42b1-86e3-7e1fe4dd5393___JR_HL 4067.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6d2b6ab9-dd43-446a-ae14-0fc3fb12b9ca___GH_HL Leaf 265.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b71480ce-0b7d-4fd5-886d-b4ed17174305___RS_HL 2322.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\392df5d9-0383-4ce9-a6fa-17d09cdc3c62___RS_Erly.B 9497.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\bd10f32e-3a27-4a58-9def-62555e99b223___RS_Late.B 6768.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\0bb34c9b-ecf7-4fb1-8ee1-098bccdcdaae___Crnl_L.Mold 6522.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\9d2bc87f-f309-41a4-a533-569456706e2b___RS_Erly.B 6367.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c28fe517-5ca7-4021-98a5-9fe8908c815b___Crnl_L.Mold 7116.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\a36d3771-3cbd-48ef-9e31-a1de629e56a6___RS_HL 8082.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\2a59761b-c91c-451c-8e13-d9dc3aff8d29___FREC_Scab 3503.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9cb4cbdd-147f-4cfe-a30a-dd003520f0dc___GHLB2 Leaf 8988.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\d87471d3-8ea5-45ff-bb7a-5f9c2340500c___RS_HL 5394.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\db44d33e-8ef6-449f-9c92-211b4f7412ce___RS_HL 5783.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\bb487e34-b328-40b9-a33f-592701216063___RS_Late.B 5175.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f8e19e45-a84d-4292-8849-8849518a2d4f___JR_Sept.L.S 8517.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\283e2340-1c6a-4d67-b40b-64620f95912b___RS_GLSp 4470.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\6272b53a-1ade-46fc-85e8-cf9517c6e0ed___RS_HL 7858.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\965e90ca-f57d-432b-a648-5cbe17584789___RS_HL 0703.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\132a74c4-3bdc-410b-931d-887bac16b074___JR_FrgE.S 8705.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\449ed172-f697-4c92-9f3f-5468b8548276___RS_HL 4972.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\17948fd9-d37a-4324-b0e1-0b03701682f0___GHLB2 Leaf 8746.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\7ea27d6d-f7a0-44b3-b6a2-f24455deb48b___RS_HL 7589.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\8d935efd-8dba-4847-954f-a914d93d8d07___JR_FrgE.S 2857.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\fc22b565-e97b-454d-8792-fd945d1badc5___RS_HL 9880.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\a6e5bf64-c0dd-43aa-852f-199a5079bfb0___RS_HL 5477.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\017a9839-6097-45aa-85b0-3051db151484___RS_Late.B 5125.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\41759050-8a14-4394-9558-c74ec19a5e50___RS_GLSp 4685.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\c33a3afe-4199-4c45-bbe0-ae4114bc59a4___RS_HL 0513.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3afd2f69-8335-4cb1-842c-1f95bb98f07e___RS_Late.B 6502.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\9507fbd5-b299-46b7-96b6-8337c2ab3564___RS_HL 5074.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a3deb552-d098-4b15-992a-d6f2fc49ae4c___GHLB2 Leaf 109.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c3dfce5d-2232-4b97-8821-6f5c32553fb7___RS_HL 8149.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\265940d8-b4e9-446f-b977-3cbd9ee4f789___RS_Erly.B 9595.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8c12b984-d1be-4c9c-9fd8-cd032434f543___Crnl_L.Mold 8911.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c5f1eec0-35c2-43ce-8a14-575d86258f73___RS_HL 0337.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\89d1eade-c42d-410d-a9c3-d37ad7bb60c6___RS_HL 9679.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e2991a66-412d-4841-8dc0-524e38338a82___GH_HL Leaf 517.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e38e01c9-c22c-41d9-9391-7f0227cfc666___Matt.S_CG 1373.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\18e46966-a79e-4f9d-a91c-b65f3f8488d2___Matt.S_CG 0872.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d4008303-6d94-458e-b0f4-61044cc427ae___RS_HL 7709.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\2bd08574-9555-42a5-93b1-7fab8f9f8786___GH_HL Leaf 475.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\10738d0a-42a6-4f9f-aab6-d2676eb89236___Matt.S_CG 1692.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\38f54137-3e02-48fb-9fc1-0d444a13c40b___GH_HL Leaf 456.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\eda0a3b5-fe6e-4646-acc6-7db5179e3e96___FREC_Scab 3380.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\923ac4fd-39d5-4387-9636-ddfed02bc62e___RS_HL 8039.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5f11bef5-6b09-4a9c-b0e1-6dfdd16f42d3___GH_HL Leaf 457.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\472fd482-aec7-4e73-86d1-7161f6a5024b___JR_HL 4178.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\f8719075-186b-41c2-af02-65f27d50e01f___FREC_Pwd.M 0289.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d84f5ea2-462a-40e2-8b01-916a65588aaf___GHLB_PS Leaf 22 Day 9.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\aa701c91-01d7-44bf-a1df-b4d8ca4fbce0___RS_HL 5715.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\c0c3498a-4b3c-49b0-b44f-2b3f0d7a6ebb___RS_HL 2372.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\f2eb82ad-5bb7-4483-bb84-49f9552ff763___JR_HL 4299.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\450a7466-982f-4954-8649-84c4a6ab98dd___RS_HL 0414.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c023b0a2-5c8b-448f-9735-2e11a7a389ec___RS_HL 6198.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\801b35a7-86f6-4b0e-a5f0-dfc4d8031004___JR_HL 9790.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\bc690bb9-1611-4744-844d-0ab174467f54___RS_GLSp 4582.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\421aef81-845c-4049-b100-a88670b8fadb___RS_HL 4985.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\fe167aa5-089e-4295-ad85-071819b7b692___RS_Erly.B 9403.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\36cf7d2c-a820-4311-9d16-443e04e13a15___Matt.S_CG 0700.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\f3e93b47-bf22-413d-ac18-0381cf2c9420___RS_HL 5450.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\ccf86248-4dee-4fa3-8192-fc145a227ff1___RS_HL 8097.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3f1beda2-534d-4970-b33e-99c43c1ee930___GH_HL Leaf 219.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\b5367f51-874a-4202-a6b6-02327196fd93___RS_Erly.B 8235.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\31514f29-0b4c-4d5a-bd8b-cb0e1264bf48___RS_Late.B 6087.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\65a6d1f7-616e-40b7-8ebb-8b895c69a7dd___RS_HL 7813.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6398befe-9cd0-4724-b564-248d76b50b5a___GH_HL Leaf 196.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\3ea744b0-213f-4a04-a6a6-c8b2d96a061d___RS_HL 0409.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\1f5c3b37-5590-4db7-a702-0cd93db0c929___Crnl_L.Mold 6930.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\478166d9-2113-429f-86a0-f60b877a133a___Matt.S_CG 1394.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ce303601-b655-483c-9778-3cbd317606be___RS_HL 0163.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\3d638a43-43eb-4f93-85bf-b1cc41ab117f___Matt.S_CG 0751.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\bfe9c599-e0d3-4ce6-8d8a-403df3d265cc___RS_HL 8058.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\1df46278-9217-49d4-979f-a74ac2ab7d52___JR_HL 9563.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\55dd5de4-3ebb-44f9-9656-60c8ecc04f52___RS_Late.B 6462.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\aa7c5620-2ec9-4b2c-9091-8ce30597661e___RS_GLSp 9363.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\35dc4820-567e-4f9a-83d7-1d7e28799eaf___RS_HL 5331.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\7f5b839b-993c-4c43-96f2-906949247ecf___RS_HL 2632.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\7f127004-56f7-4f16-a34f-9d5cbaaa9f8e___JR_HL 4041.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\973c9431-f521-462d-82fa-442196087ca8___GH_HL Leaf 204.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\3a634ad7-1119-4ea1-9268-bedc8308fdc8___RS_Erly.B 7841.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d31734a0-98c8-43a2-9b17-166785e192f8___GHLB2 Leaf 8706.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\afbedba8-4d3a-4816-9c55-bd666d262b59___RS_HL 9841.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\48af8eac-8662-400b-a0bb-024a28ed3cc9___RS_HL 0266.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\bb32ae25-2654-4a74-86d4-eec29fb244a5___Crnl_L.Mold 6968.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\59726309-40b6-498d-a487-ff2d8fc455a8___RS_GLSp 4686.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\957b622a-4f30-459f-9dbb-97c3f4bde0d3___RS_HL 6150.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\647b98f0-0a93-4c39-8b5e-cf549f5117e6___Matt.S_CG 6869.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\bb5e8635-0630-40bc-a226-052859756a97___RS_HL 0665.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e2e1bccc-15ec-47f8-8ee7-d33be16fac07___RS_Erly.B 9523.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\74fd0cc8-43c7-4659-94ef-b4c55919f677___RS_Late.B 6052.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4aeaacd8-ff6e-4d01-86d1-0a51c626cc99___GHLB2 Leaf 8943.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fbcc9f67-8f83-4262-b7a6-26bf59d5fefb___RS_GLSp 4424.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0c192fbe-38eb-4abb-a858-8bc39942a3ef___RS_Late.B 6076.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ba86e24f-fe3e-4f17-a920-f8dba4ecb4d7___GHLB2 Leaf 8974.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\23572403-70ff-4ea4-8eb8-6bae4649af5f___Matt.S_CG 7422.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\1d59f109-9793-403b-88d7-73bc3b17d601___JR_FrgE.S 8592.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\77ce37f4-d184-4798-87e9-57f7ca0d9536___RS_HL 6017.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b49a2758-ae4a-4d9a-be27-b944f35d1bab___RS_HL 2484.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\2d3d1221-2f62-43ad-8256-b560c1872934___RS_Erly.B 7465.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\77cd9b9e-9115-46ea-9c85-9744f1793b32___RS_HL 9699.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\eff8a4a7-8aa4-4549-ae15-035f85c15486___RS_HL 7783.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\c7ce4edb-e85a-4442-82e8-837a107f480f___RS_HL 0568.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\28213c64-ff3b-4b6b-ad13-2dd9e7a197f2___Matt.S_CG 1690.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f9817507-b3a3-4072-aad8-1b9afc3dc45a___Matt.S_CG 7628.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\5386aabe-1e7f-4688-ac5e-ade0e91318d4___JR_FrgE.S 8638.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\24d02979-1bba-4ecf-965f-756e41d6bb90___JR_Sept.L.S 8347.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\fb2c7e00-39a7-4be3-b8d1-b4c42c65e20e___RS_HL 9636.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\50aebd46-fc21-4954-b2d7-729b02a849b1___GH_HL Leaf 194.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8e15b503-716a-4aa4-83f8-62c7d9aae2f1___Matt.S_CG 7655.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\073b509f-c1ea-4e61-881b-2e874c5f4199___FREC_Scab 3286.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7a469155-1492-4f16-b352-d4e99b3e94a2___Matt.S_CG 0838.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7048f52e-7b68-43d2-81d7-a146d5a73407___GHLB2 Leaf 8708.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\8895b194-2dc6-4ed5-8155-1e483d4f93f3___RS_GLSp 4644.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\010125c0-e6f2-4f3d-b469-dd98ffecbb01___RS_HL 7948.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\14e92721-00a0-4696-9392-d3f633082454___RS_HL 5654.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\16092103-a742-40f6-a48a-c2f0825b191b___RS_HL 2512.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\c37f9c5c-bd99-4e0e-b102-e4619e2505ba___RS_HL 2562.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\649736d0-34ae-4764-b959-8fd67989a038___FREC_Pwd.M 0361.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\ca452b8f-d7d7-4637-836e-3685f9f0d2ec___RS_HL 0387.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f62b2695-c850-47d4-9e42-e35e5596e729___RS_Erly.B 7777.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b7cd18dd-56e0-4750-b137-8beb5c5852c6___Crnl_L.Mold 6806.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\239111ba-7348-4075-bacb-e206d440ecc8___RS_Late.B 5389.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\77627584-80d1-4b90-ba73-1d7c57f37da7___FREC_Pwd.M 0568.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\3be94535-c405-4f67-99cb-6ffc5f596639___RS_Erly.B 7783.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2e9928ec-5f57-4587-bbc3-18e30d2938e3___JR_Sept.L.S 8373.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\60a20878-4945-491b-adff-ca8829824261___RS_HL 5847.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c0d0864c-19ee-41ca-87a4-3b0d68bff440___Matt.S_CG 2808.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c2bb2f86-2dc0-46cb-b6af-6fcfde123bec___RS_HL 7762.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\dd5b3796-c2c2-4277-ab0f-cfee6d0f661a___Matt.S_CG 7589.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3a211a87-cac9-4393-84ca-51e240e1b043___RS_HL 0210.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6d7faf0d-1f04-4aba-a0aa-21c36ed89881___Matt.S_CG 6775.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\abd8b296-db97-40c0-af5b-39e03f4dec16___FREC_Scab 3041.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\fb723b31-aac6-4412-aa97-efcab9cc99a4___RS_HL 8101.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6dbef77b-50b6-4d0f-970a-d86f9df2254e___RS_Late.B 6936.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\bc64857e-c087-44c9-83b5-514d9b8dea37___JR_FrgE.S 2912.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b5397b14-c009-41b4-b828-45203ffa2d22___GHLB2 Leaf 8986.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\57562e67-9700-477f-9a67-a3c0459fe00a___RS_Late.B 6292.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\4b2e833c-9618-4733-90b1-71877f87a6f6___RS_HL 7361.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6eb582da-cba3-44e1-832b-d8ef8526851a___FREC_Pwd.M 4774.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a3e61ed6-3c67-48d7-af39-9a69b2c5c7bc___GH_HL Leaf 250.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f59545f4-cded-405a-bf6f-f4b77e51e2ff___RS_Erly.B 7737.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3bc19f2c-2ab4-4a1c-bd0f-e0a322058b8b___RS_GLSp 4423.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\3531b280-cdf5-4983-b83e-21259674d575___FREC_Pwd.M 4907.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5104e988-bef6-45fe-9677-095a045239ad___GH_HL Leaf 449.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a89fef58-2ae1-4fcc-ac6e-c9191a3ac3a5___RS_GLSp 9311 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\feb3cd93-2600-46c3-979a-1121fc8a1580___RS_HL 2490.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d1625af9-76db-4c53-8d88-c53e96885943___Matt.S_CG 2585.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\4c76e126-04c1-4075-a2da-4e48dc67d1b3___RS_HL 2615.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\4868a14d-e319-4db0-bdd5-241e50a05bf8___Matt.S_CG 6451.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\aec0b95b-d9e0-4f8d-9d7b-52693665cec5___RS_HL 5223.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9c89a858-83de-4074-96fd-bde5f9e4acdc___Crnl_L.Mold 6905.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\8c00ea10-bfc2-4d26-9dcf-afbf2dcd377a___RS_HL 7326.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\057c985f-2a00-40fe-b48f-590aabd3babe___JR_FrgE.S 3015.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\0646a42e-9fdd-4914-9879-50843fe1ac6d___RS_HL 6111.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\3928d15a-b841-4524-a5be-b34546c358f2___FREC_Pwd.M 0324.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f9f5cfa8-79df-4ed7-ba61-e7610509b3a5___RS_Late.B 6496.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c6d3045a-d685-4e70-9e68-daaecabdddf4___GHLB2 Leaf 159.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\d1773f0b-f049-4bb1-b13f-d33b96078ab3___FREC_Scab 3046.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\2f4df59e-0a8a-42b7-8e1c-e39fa82bfb2d___JR_HL 9778.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\24069ab0-7106-40d0-bdca-e462a49d34dd___RS_HL 0267.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1f763a4e-3f17-44c1-be1b-a8752d2b93a1___RS_HL 9830.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\cd39b453-a3bf-4c8c-9a17-98d8a9cde2a0___RS_HL 5775.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6ed34168-5646-44ae-8279-1d9ae0f4e962___RS_Late.B 6633.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ecb763a0-f905-48f2-a142-afa120068c82___GHLB2ES Leaf 119.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\97f800c6-092e-4983-abea-c02c1c64970e___Matt.S_CG 0710.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\fe4de3f6-ef8e-4e3f-b180-f8dd1c3d54cc___RS_HL 0591.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\5adf1cdb-17bc-4871-ad87-ccdf715cfdb7___RS_HL 7309.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\02847045-4405-467c-9ccb-7ba2ab1d574c___RS_HL 5943.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ed1a1e55-f2b9-46d3-ab88-8742f569e831___GHLB2 Leaf 8758.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\cdf24d65-aa0c-4b72-a4a5-ba5cb5632a45___RS_HL 2660.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\bf40a7f6-0b81-4d33-88fa-1405dcd35f3a___Crnl_L.Mold 7060.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\bc9b490b-eb06-4b0a-bfcc-f90478e0418b___RS_HL 7677.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\24cdceb7-e70a-4164-9cd4-72b514771abf___JR_FrgE.S 2962.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e794bd2d-141a-4d3a-8883-f9e883c0a42f___RS_HL 0656.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\af99c5cd-5368-4d0e-9a34-daa6ec616d80___Matt.S_CG 6120.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\ed54e461-78ec-4cd1-8926-ff568b3fd29c___RS_HL 7886.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8f2c9096-f0af-4f68-a0cb-9343ac4eacb2___Matt.S_CG 1228.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\131407de-62dc-44bf-81c8-b0c4c173df9e___JR_Sept.L.S 2726.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\4e75a29c-0f14-4746-9d52-87d7f6c20b20___Crnl_L.Mold 6734.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\2e123765-bd5f-461e-a658-7b4c5c4f5564___RS_GLSp 4594.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\b6039e39-f0d4-48dc-894a-987e0338c5ae___FREC_Pwd.M 4815.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\88b51f59-08ed-41fe-8402-69f0964f87fe___FREC_Scab 3299.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\31e58e07-386c-4915-aa37-8ce39ee29ce9___RS_HL 9949.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9b542a20-992a-454e-afa1-a93d68699261___Keller.St_CG 1802.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\4cfa1595-b674-419b-93f7-2a836ff4d1bd___RS_HL 7464.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\8776bae7-ccdc-46b8-95d6-7bb0610db123___RS_GLSp 4392.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\397da142-0f29-4159-bdfa-8cfd784afd8c___RS_HL 5493.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3de67462-9ae4-455d-8d0d-a625c92c7120___RS_Late.B 5148.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\5348c7f1-02d4-40ae-989e-1537043644cf___RS_HL 7657.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\97b35ced-b7ca-4f6d-8c22-5390c3d192c8___RS_GLSp 7307.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\eb73f06f-5821-427b-b21a-e3b2a40210fe___RS_HL 0748.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ee18e688-a12c-45aa-bd18-74df670c71bb___RS_Erly.B 7776.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f6fc8ed7-225e-41a9-8d22-af61401a60b9___Matt.S_CG 6506.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b4e9643f-c810-40d5-8005-6f4a137b65ca___RS_HL 5509.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6f76b1b9-8650-4510-bdb5-3f82191e6bc8___FREC_Pwd.M 4841.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\8c033a16-bdf6-46ee-ac3b-2d84a6940950___JR_FrgE.S 8614.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\3e43d296-bb3d-48d6-a0a2-8f4527622aeb___RS_HL 4939.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9b5c0a85-5a16-4589-ae76-ef4247e78663___RS_HL 0281.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\55a48eef-2f73-458f-ab98-7d5110a4ea1b___JR_FrgE.S 2821.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\27ab799c-5868-4386-8891-6b4ae53fa725___JR_HL 9794.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fe18d20c-3e3c-4fbf-9a11-c38228c6eb8e___JR_Sept.L.S 2623.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\2e4b9ef4-4ee8-4a50-aac0-de7c001f36d4___GH_HL Leaf 288.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fe20bf11-9be6-480c-8c99-b7b391ac9653___GHLB_PS Leaf 44.2 Day 18.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\68f66822-cde2-4a2c-b58e-a16900362a75___RS_HL 9674.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\a52492e3-7916-4a13-a175-6a6c0dd3440a___RS_Erly.B 7613.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\3c53ba48-cb78-4803-b01c-7d10ea13284c___RS_GLSp 4611.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\ae343205-f55a-475f-ad68-a10d49285579___RS_HL 0467.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\77cd23c3-22fe-4d04-babe-89db464dbddd___GHLB Leaf 6 Day 6.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b7eb3cc5-5960-4751-9722-56d41c5e7042___Matt.S_CG 7830.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\29f85d31-a9c2-404a-b7bc-9a5b9cd7aa88___RS_Late.B 5541.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\0a01cc10-3892-4311-9c48-0ac6ab3c7c43___RS_GLSp 9352.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c12ef0fd-7f67-4589-986a-31c0332bfa38___FREC_Pwd.M 4602.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\86bcc70f-66dd-40ec-8bf5-d260f58cb25d___Crnl_L.Mold 7004.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\1bcc3b5d-7e00-43fb-983e-95ae271a715b___FREC_Scab 3061.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\83b1935d-f1fc-4b9f-876e-c0dbbb2fcb03___FREC_Scab 3486.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a0cdaa93-f328-466d-9722-57a29c53e18b___RS_Late.B 7006.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fd1e7be2-d635-4d70-85ac-f5d68ce7c2d1___RS_GLSp 4450 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\2261f5bb-956b-4c48-a766-fd77faaa2cdf___RS_HL 5461.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d1dfc5c2-9605-419b-826f-58691f793758___JR_Sept.L.S 2674.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\17cffb66-bb7f-433c-88b4-442c1f4e8cb4___RS_HL 9708.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\6d31ffdc-425e-4975-a7a2-14c1ee92a71c___JR_HL 4106.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\5ac41a3d-ca1b-4215-a7a5-500d77acc67a___RS_HL 5931.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\fdc0d1ae-70a8-40a6-aab8-2be6c10391a6___RS_HL 8145.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3e51f746-2ed2-4eb4-96e7-f6717ec068fd___RS_HL 0122.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\934ee916-4db9-4c1a-903e-3ebdd8201178___JR_FrgE.S 8740.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9c922c85-b976-41ec-bc8a-65650a8a3f9a___Matt.S_CG 1504.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\1ce44f80-a40e-436c-b885-e8bedc330e83___RS_HL 0544.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\14a8011a-830d-4c51-a502-52e6873b0d7e___FREC_Pwd.M 4723.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8b2bb3d4-b5db-4772-8151-2689b7d52846___GHLB_PS Leaf 19.1 Day 8.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\92425071-59b8-4490-bea5-91830169a5a1___RS_HL 7469.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\45a1a63e-d00e-434d-b1b8-5b14dcde5b1e___GH_HL Leaf 250.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\75d24a6f-1c28-4e42-a7e7-8f8c496c22ce___GHLB2 Leaf 8594.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7011fa6f-fba9-466e-a6d1-439370a4a37b___Crnl_L.Mold 6588.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\bea930ce-b822-464c-9c2b-8e181d0ba3f8___RS_Late.B 7127.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\4b934731-815b-461f-a252-a02f198f91ab___JR_FrgE.S 3032.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3ef1e6d9-0ea8-4b1d-a2f4-a99bbc4ba66e___GHLB2 Leaf 8830.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\846276ae-4ccd-45ba-9a46-f913d04a9456___RS_HL 0012.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dbd83a4e-d95f-4ffe-8257-eaaa638b06a7___RS_Late.B 6548.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6edd59f3-d87c-4583-a931-0f32a2748a79___RS_Late.B 4922.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cd71e099-6bee-45ab-8de3-08be107939af___RS_Late.B 5040.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\2f823081-0654-47f1-bb1e-88d7e99a94ca___RS_Erly.B 9542.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\cf8f368a-e5bf-4382-bcab-d84f4530a558___JR_HL 3927.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\bfea5a30-8ece-4c04-b437-ca17fe9fab95___JR_Sept.L.S 2481.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5535ef29-cb2d-4a0d-a16c-d0c2ed296b3a___Matt.S_CG 0766.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\8ef7ac77-0588-4028-a31f-d6a5d3cded70___JR_HL 9471.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\070679a9-27e1-4e6e-8072-29f3750d525b___RS_Erly.B 6439.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\7e2bacbd-f92b-417e-879f-002f3862718c___FREC_Scab 3374.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\0ddf82ad-9004-4913-ac9c-d00333d7c858___Crnl_L.Mold 7089.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\ca4cf94b-c1ac-494e-871a-8b9970af3ac1___FREC_Pwd.M 4835.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\60dec11d-0e49-4bb4-b7ce-ecf90f8ac028___JR_FrgE.S 3042.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\5839bbe0-dd92-4b79-8c12-5ae604e7bf0d___FREC_Pwd.M 5039.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cc31ca99-6a1c-4e62-bc6b-044c99ba2c62___RS_Late.B 6775.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e81dfd96-227c-41a7-8cf8-dbc14f2e4b33___RS_Erly.B 7407.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\93b53cb0-57cd-480f-9314-8cc0ed579782___RS_GLSp 4427.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\46ae5fef-ca7d-4f8d-86dc-7906bfcbde9f___RS_Late.B 5092.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c298eb46-4b8f-4a5b-a819-ceabb2fc7211___RS_HL 9677.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3df0da99-6c5d-4520-b396-9616e81f8935___RS_HL 6031.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\e9d9e0f2-331e-4bf5-90cf-a45c2a93dfea___JR_FrgE.S 2946.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c2e9925a-9896-47a0-a969-3ce336a3ae05___FREC_Pwd.M 4874.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\8f1370bd-2301-44e8-8867-324042b5fd18___RS_HL 0625.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\2d37debb-8e09-4461-8e58-a23a06b4722a___Crnl_L.Mold 8896.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\fadf58aa-98fd-402a-8fdc-d06e250ec265___RS_GLSp 4557.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\815fb4d0-7902-45a2-a7c7-2ee400a2e25a___RS_Erly.B 7646.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\52aea538-85d0-461c-8956-25af2d74a1ac___FREC_Pwd.M 0426.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\dbe15479-6802-4e83-850a-fff7900e0e3d___JR_HL 9854.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0e451078-be73-4e6b-b329-a7b0fa1f152b___GHLB2 Leaf 8612.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\e83678ff-832f-45eb-b95b-766701e6c051___RS_GLSp 9285.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\0bc40cc3-6a85-480e-a22f-967a866a56a1___JR_FrgE.S 2784.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\61047d59-d93a-4133-92ab-4f2481fa6bed___RS_Erly.B 9533.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b4d1fd1c-27f2-476a-8d86-4636028ea4ab___Matt.S_CG 1271.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9a298d6c-723d-483c-bec6-c64f99065677___RS_Late.B 6956.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\b0bffb64-e057-4fab-ac6e-4a1a51ee0929___FREC_Pwd.M 4539.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9829462d-ce9d-4f1e-a44c-bb586a4a5f83___Crnl_L.Mold 6948.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\1cfe804c-e244-4a0f-8cef-26423d63087e___RS_HL 2394.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\cd5b2229-4131-4e14-a4e3-7b0194334707___FREC_Pwd.M 5162.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\b963d384-123e-48e5-ac66-a1e87f33ba0b___FREC_Scab 3021.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\658dbc77-12de-4604-bb8e-352d35d0ca2e___RS_HL 4900.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6e594cdd-0b3f-41d2-b056-f03819790e8c___RS_Late.B 5348.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\d71f9e9f-e7e3-44e3-8376-0820971fe2c1___RS_Erly.B 9384.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e03a5780-cd8e-431e-8497-4d1233c793d2___GHLB_PS Leaf 28.1 Day 13.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\91c6a666-8d31-466f-b7cf-78c9268fba9c___RS_HL 7697.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\07f63d50-9030-4ae9-91a8-19e1120eb2ab___FREC_Pwd.M 0432.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\0098dbd9-286a-4d6a-bf4b-5459d66f88c0___RS_HL 5776.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\fad75ca9-7035-4045-b3d3-475b558d49ba___RS_HL 0010.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\13dba956-2c74-400e-a2ac-b06baeee5e38___RS_HL 7571.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\192297e0-c7e4-4fc8-b283-0e1a87b316c9___RS_HL 2325.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\df7a9adb-6294-4866-9f39-6fc3d7a8ffdf___RS_Late.B 4978.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\06c0c5f7-59cd-498b-8284-51290720a18d___RS_HL 7636.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\4c501b09-39fc-4c6c-9c50-2200f0ba8b27___RS_HL 8187.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c17bbdf8-c589-44bc-a805-6dec51568733___GH_HL Leaf 402.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\ded65bdb-eec4-4cad-808a-e86fd73a6cbe___RS_HL 2483.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\6faac72d-9593-4b9f-9008-93ecdf88c730___FREC_Pwd.M 0308.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\fded10e6-0668-43d4-be77-e091cafc25fd___FREC_Pwd.M 0538.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\adc79be8-ca9e-4cf7-b62c-453e0e5fbdec___GH_HL Leaf 307.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\753c3f29-c572-4765-8711-b5ac2cd0aaba___RS_HL 0310.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\4f03bdbd-e492-49a1-b04b-f19d9aaa95fd___Crnl_L.Mold 6837.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7b0a795b-c370-40fe-b7ab-8308f73bee07___Matt.S_CG 6691.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3c1fd0db-4090-485a-9d59-4293714b482c___RS_HL 7581.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1bd9f661-9b9c-4faf-80ab-86a8a64a8bc2___RS_HL 0271.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\13adbb9e-c4e1-46bd-8621-ae351dd464ca___RS_Late.B 6595.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\3e71bd88-d17c-4e8f-b32b-9848ddc093ce___FREC_Pwd.M 4509.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\9caba479-0e40-438f-a8a2-d03225781039___RS_HL 4882.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a45bce54-4c25-4d5d-a9a9-fbc76436844c___Matt.S_CG 6523.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\46597071-9826-4f76-b853-083b76c5ef63___FREC_C.Rust 3666.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\743fc494-32e8-4729-af9c-679a3870922e___JR_HL 9540.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e20f17f5-507c-45a8-8f6e-fcd76b29e564___RS_Erly.B 7694.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1db51a76-0e89-45c6-8f00-9262c1c7732e___GHLB2ES Leaf 139.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\be5c294b-38cc-44b8-b404-ab7d899cb717___GHLB2 Leaf 161.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8130385a-3f81-4fd6-9966-6f392cf90329___Crnl_L.Mold 8753.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b553a8a1-d101-4b38-aa0b-e76c89c10554___RS_HL 8010.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6ed45835-4863-4d95-9d71-8ec0f1b26f27___GHLB2 Leaf 8834.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8a2f5ea2-51e1-493d-93ff-61faa8221754___RS_Late.B 7069.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8140c767-937d-450c-8070-2936aeb73834___GH_HL Leaf 439.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\5958b15a-0ab1-411d-a5f2-99ef49572954___RS_GLSp 9275.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1605.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\81f2f750-f0d5-428b-81b2-44923ab1742c___JR_HL 4236.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\6fa42fea-4fcd-4cfe-bfbd-c03ee2d7bb3f___FREC_C.Rust 0163.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\726a5ae7-e33b-4854-a872-71318ec3a493___RS_Late.B 5538.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\0a555f63-bf03-4958-8993-e1932b8dce9f___Crnl_L.Mold 9064.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\15ad0147-6e02-43a7-b215-1be0dc719776___Matt.S_CG 7788.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\29745ef7-133c-4f61-a5bd-592790f81a32___RS_HL 6326.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\d12701d9-e2d8-4647-aad4-e09f34117cc3___FREC_Pwd.M 0364.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e19d885a-349c-4e13-b015-5c17d2895b30___GHLB2 Leaf 94.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\e0bf6219-02d8-4255-88e2-a99afb1ad355___FREC_Scab 3515.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\24e690fe-3696-49c3-ae2d-7ea5dd4aeb48___JR_Sept.L.S 2466.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\55eca570-7e6f-4bb9-ae2e-b9834d8fcea7___RS_HL 7726.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\cbc265da-87e2-449e-8585-b744f9371772___FREC_Scab 3431.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d32e7797-bc8e-4042-a170-bb2d2a415d75___JR_Sept.L.S 8399.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\3726eff6-547d-411e-bc00-f8b533d067e3___RS_Erly.B 6494.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\55fb99ea-6a7d-41ba-9a04-093194074f34___GHLB2 Leaf 8692.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\7a081a31-bbfa-4a43-8579-3353f6672f76___JR_FrgE.S 2861.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\d7fb4740-9707-484f-9809-b7efa8f7851d___FREC_C.Rust 4344.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\430dab60-e5fe-4a57-be67-e77bd91f9fda___Keller.St_CG 1772.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\23bdfbf1-c4f2-4a84-9b9a-9e6cc836c974___RS_GLSp 9294.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\16919066-e552-4c24-801a-52765e15c411___RS_HL 5212.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\54a6ab64-9e7f-4126-8497-857c7c339a80___RS_HL 0461.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\370f1afd-57db-4b5f-988a-fe23851a135f___JR_HL 9499.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\51357363-ec5f-4e60-a8ad-43911cd15c16___Matt.S_CG 7854.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a46c23d8-f06e-4abd-9ab8-fb75540fa820___GHLB2 Leaf 8615.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\e703a7bf-2f28-4577-9463-e67397c1b673___RS_HL 8100.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\341d8850-26e0-4ac5-a560-da2be3fc4b24___FREC_Pwd.M 0349.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\4588d318-6566-403c-8901-85cf834e7dc7___JR_HL 4267.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9a1fc5b3-476a-4565-ad69-e054accd2dd6___Crnl_L.Mold 9030.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\54194ac7-afe4-4320-be17-40283af9405c___RS_HL 5253.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1615.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a7c9d081-6e31-4344-bfe4-6184a6b16df8___JR_Sept.L.S 2588.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4eca7d70-60ff-41cc-8884-e4844f23abeb___GHLB2 Leaf 8641.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\ad6539ea-7bc6-4f4a-810f-63ee95db8bfe___FREC_Scab 3184.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\777d1460-e356-4b0a-9fb2-cd0931146c5b___RS_Late.B 5190.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\68f9f67d-e84a-4551-871c-7b56aab9defc___RS_Erly.B 7693.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\ae6c81b2-412e-417e-8448-e18214edc049___Crnl_L.Mold 6895.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\72910301-856e-491d-b929-efdc81bb3eb5___RS_HL 5765.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5b0cd135-94b9-4591-966c-0257a0beea5e___JR_Sept.L.S 8486.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9f84db3d-5dc1-461e-a922-e6d93e72d3fd___Crnl_L.Mold 8966.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\892258ae-052d-4df5-8a8c-27924cd64a85___RS_HL 7497.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c35175e9-8421-4af6-a6dd-fc8163d7ba73___RS_HL 7876.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\d0ca6667-2c20-4601-84ae-662d0519f79a___JR_HL 4167.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e1d129fb-f5ae-41e1-b097-445d792e4beb___RS_HL 0473.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ab52bc97-6e53-4e96-b54c-c883999143ae___RS_Erly.B 7531.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ca5daff3-da8c-404a-b51a-02612ca741e4___GHLB2 Leaf 8722.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\3465ffb4-8097-454b-a471-f572fdc1da00___JR_HL 9664.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\f9f3b55f-57e1-4680-9603-0db01c358ab2___RS_HL 4901.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8f7043f7-a79e-4c9b-86d2-80b032b659b6___JR_Sept.L.S 2684.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a0616fa9-80fb-497d-8791-a9689aecb27f___GHLB2 Leaf 150.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\36999b1a-e562-4120-bfb6-5acf1988ebc0___FREC_Pwd.M 0477.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\aee192d9-666e-4ef8-aa5e-86d09d14216c___GHLB2 Leaf 8582.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\8c71b810-5fe3-415e-863b-6bb0b1fb1455___FREC_Scab 3221.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\74d4928f-5a36-4f9b-acbe-be50736d397d___RS_HL 8169.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\252e347b-262e-4dd8-8d6d-852324d5bcfd___FREC_C.Rust 3841.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\e8d9d6fa-568e-4834-a246-d34e1478c77c___FREC_Pwd.M 4884.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8243854c-24f1-49e5-b568-819ae3867a8c___RS_Late.B 7143.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\196a40ba-919b-49af-9074-f6d08b0377da___RS_HL 5435.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\9af553ae-5150-4736-bfd9-82173b911272___JR_HL 9619.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\f9546cff-061d-4240-88ba-492272a92847___GH_HL Leaf 176.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7cf44ad2-ebda-483c-b7f3-f010747e7cd7___Matt.S_CG 7613.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\74579097-2dd7-4d15-8f73-f09e7d919b51___RS_HL 9773.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\393ffff3-e175-4e03-b049-76a25b1257c7___RS_Late.B 5599.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\bdf7f885-1619-4b3f-bba8-e97896af0de5___RS_Erly.B 7819.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2b0d21b2-2320-4cb4-8d40-4684f0c91e55___RS_HL 7505.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e1088349-de49-4d96-9405-6163002bf9de___RS_Late.B 6904.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\162db449-3361-40fa-a9bf-42bb63d43781___RS_HL 9647.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d321145e-6ab0-4ad2-8109-f34ee4389149___RS_HL 7848.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\a3a74345-7db1-4392-8e47-60fecd28ed1b___RS_HL 5255.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\8c757ec5-a977-412f-bf8e-208fefc79063___RS_Erly.B 9504.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1546f916-115c-42dc-90c7-ff8d53c4273f___RS_Late.B 4836.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d26fdac6-4355-4875-8c27-ebb1eaa50a8d___RS_Late.B 5119.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0dd9d965-d68a-4e47-ba02-ebcadf13c7ae___GHLB2 Leaf 78.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\ce675478-f624-4536-b4ba-b0c43d134ae8___JR_FrgE.S 8595.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5bd0232d-e941-400e-8b38-fa47a26d49a6___JR_Sept.L.S 2544.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f03f1047-7c62-44b8-b59a-62811f94a127___JR_Sept.L.S 8527.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b30e7ae6-7ea7-4eaf-8ffa-06b0093c9f75___RS_HL 8030.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c421eebc-d8ec-42d7-bcc9-a615343216a0___GHLB2 Leaf 8912.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\da3ad71b-85ba-4e94-bd12-8eff52776138___RS_Erly.B 9469.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3dcee9ed-43bb-45a9-8cff-641b3dd62179___RS_Late.B 5324.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8f96e29c-d210-47a7-bdcb-e87821bb66c8___RS_Late.B 6872.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\a20bd77c-4ecf-473c-89aa-329b1719fbe1___RS_Erly.B 7639.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\2a7259ce-5903-4357-9341-c6455c66cc85___JR_HL 9617.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d984c49c-ff38-46b9-a176-b966c8c8f9ef___RS_Late.B 4991.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\2dc817bc-a3ea-4969-9685-62c3217596e4___RS_HL 4993.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\cc62ab3a-f945-4aa3-add4-03887b49007a___FREC_Scab 2960.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c74cbe7c-6d5c-4e12-84b9-0856682498da___Matt.S_CG 6850.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8bb19b73-9bfc-426e-9704-fb88fa81ebd3___Crnl_L.Mold 6811.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\063d05a7-1a53-4631-818d-44b34126974e___GH_HL Leaf 453.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\dc533794-bc05-4564-b110-dea895234a02___Crnl_L.Mold 9068.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\adc5ed07-d23a-433f-9cc9-2fd666efb8d0___Keller.St_CG 1868.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\920f60f5-6435-427f-a855-5e66552dd8b9___GHLB2 Leaf 9020.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c6d3d356-50ed-4d65-8d29-e1b1b9f8f478___RS_HL 7347.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\316828ef-b126-4db2-a7d7-91723dff4f53___FREC_Pwd.M 4549.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\59ba7560-f218-44c0-bf46-2019757ec591___FREC_Pwd.M 4923.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\cda99dd8-c509-4825-a35d-d71cb35d3d4c___JR_FrgE.S 8695.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9acdb655-bca7-4223-a8e2-c201f6b3d188___Matt.S_CG 6834.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\4ec7e2e9-7fc3-46de-a42d-eec0cbcc990e___RS_Erly.B 7532.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\02b079eb-8c74-42bf-b956-d3aecdb9d4ad___JR_Sept.L.S 8522.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\675f0b56-9d0b-45b3-8c8e-820efae75274___FREC_Scab 3006.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\41c4774e-5193-47db-947c-27a724d0d993___RS_HL 0234.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b48a9db6-ca84-4941-8f00-5f22065fc0c2___Matt.S_CG 1730.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a5bf2855-754e-4661-86b1-a86f0974cd30___JR_Sept.L.S 2574.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fcaf83f1-ddaa-4faf-a4aa-f657f5342474___RS_Late.B 6278.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b2652ef9-f0d2-4039-b40a-520073551b16___RS_HL 0009.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d0d0643e-c7f1-4cf3-8399-cfd8a73d1af3___RS_HL 9650.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7f3884a8-82eb-4db8-b5c2-cc3f6dbe0cf9___RS_Late.B 6196.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\2aec9930-0331-4e04-8bc0-5c00f373fbf3___GHLB2 Leaf 8993.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a6626e49-1ba7-4b37-9490-aff2b2ec03eb___Crnl_L.Mold 7141.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6c4377ee-cf37-4ca9-a377-4e4cf7a221da___Matt.S_CG 7412.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\237ec7d7-d96f-434d-8a94-250ec92c8e86___RS_HL 0457.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\3f9bd33d-ceeb-49fa-8874-d9cc013ca018___FREC_C.Rust 4183.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e9de0604-a1be-42b7-8c6f-f376904c0473___Matt.S_CG 1688.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\648f5a4f-9fb5-486f-97ac-918c5804ab53___RS_GLSp 4370.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c0bd50dd-bd61-4b2c-a7f2-84c1730ecfc5___Crnl_L.Mold 6984.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\9b851dbe-a6d8-42d3-b35c-74c11060bb8e___RS_HL 2360.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\94af2c43-753b-459f-8767-da8cee61bfe1___JR_Sept.L.S 2496.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\3c110656-9094-491e-909a-2cfc7a743972___FREC_Pwd.M 0492.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\b5ff5168-38d9-4a8b-b5bb-94c310e77b53___RS_HL 6083.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\918886d9-62bf-46a4-97f9-0afe76641b25___GH_HL Leaf 365.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\b435d2d9-20c4-47cf-8420-2aa6c0ddd04a___JR_FrgE.S 8742.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\aafda29f-64e8-4f9a-8b71-d32b5ee27fef___RS_Erly.B 9431.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\21f3629a-8126-4f23-85c5-05636ff87644___RS_Late.B 6906.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fc6759ac-f4b4-4ab3-81d1-8f0761ebea6a___Keller.St_CG 1857.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\83ec5e47-c1db-4889-9725-9c2daab2d112___JR_FrgE.S 8583.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\b7f4aecb-df98-49ef-99a8-538fa645f533___RS_GLSp 4312.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\69d1a3dc-54cd-4917-99b7-a315d7932edf___GH_HL Leaf 347.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\32f9b09e-963a-4724-99cc-d4b4adff9914___FREC_Pwd.M 0317.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\447ca40f-8640-43d7-b7af-3372e8afbfba___Crnl_L.Mold 8870.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\0261a6e4-21f8-481a-8827-b674e6955644___FREC_Scab 3055.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c02f3863-3012-4f3a-873e-8003d73a54f9___Crnl_L.Mold 6520.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4c42cb8f-e57f-48a5-bff2-8a8629d7505b___RS_Late.B 6869.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d7f9efa9-5684-42f4-b183-958a83d3ebcd___RS_HL 9923.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\2683b0f5-da6b-4720-9187-dd06c50b3ce8___RS_HL 4923.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\c9915ae5-62e9-483c-b89c-25d339e426ca___JR_HL 9759.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d6e1f9c1-f0f2-4370-8eb5-aba74edd815a___RS_Late.B 5209.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\0c22dfef-7413-4f46-b949-903d238678a3___FREC_Pwd.M 5094.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\a5edd6ba-b643-4829-b037-f13dc6ad8e7a___RS_HL 0486.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\f5ad64c9-d9ee-40be-9bbf-452adc290ea4___FREC_Pwd.M 4558.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\156f079b-411f-41db-8023-fa934de343f9___Crnl_L.Mold 7039.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\9ac984f5-d42c-4321-ae2e-7fbde038aa38___FREC_Scab 3369.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5546f7a3-67af-432a-9a09-35f02e6cc741___GH_HL Leaf 216.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\6d9f5940-0ec4-4ccf-8003-719410b7f47c___FREC_Scab 3373.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\bda31474-87d3-4256-ace8-00d20ef05139___RS_HL 7443.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\9ad3dc77-5b0d-4c5e-a6a1-bc016b7dae36___RS_HL 0381.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\962119e0-4165-4c4e-bf7e-fd68f89e4e6b___Keller.St_CG 2016.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\bd802f98-838a-4703-b38d-5db77ddac1b8___RS_HL 8154.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\d452210c-ee07-4a6e-a0e0-15676dafacb1___RS_Erly.B 7419.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\e3e0ee86-1cf9-449c-8cba-7ad0b0cd4488___FREC_Pwd.M 0460.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\34c37353-8429-499e-bd38-ac7501f79e90___FREC_Scab 3501.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\38b9665e-5c2e-4f30-9909-015cf9b3a4ef___FREC_Pwd.M 0481.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\647ccba0-4f5e-4c64-a7ea-a34c8a39a439___RS_Erly.B 7355.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\9ae0c2e4-ff70-4be7-a231-65d4c2acd8ee___RS_HL 7476.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\419c16b2-13aa-485b-8342-3760707e21f9___FREC_Scab 3285.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\5d45c117-439e-454a-bc77-93a27ce98761___RS_Erly.B 7546.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3b05e678-aa3c-47c6-9ebd-0650efd82b16___GH_HL Leaf 399.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d2892ccc-cc57-49ff-88eb-5aa2ee0f862e___GHLB2 Leaf 74.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\c58da3fc-4c6b-4de9-98a2-500e26cee46d___JR_HL 9544.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\04141939-3a8c-47b2-a582-e8371ccc120f___RS_HL 0275.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9fb8872e-e963-4d2c-9b16-62757705ca3f___RS_HL 0130.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\21f1c16d-2d7f-44e6-a2e4-7d830dfbfda3___RS_HL 9996.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\696610c8-5565-4913-8e07-9370dc1a6dca___RS_HL 2507.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b3c37fc7-e7f9-4df9-a71e-bf3317788f7d___RS_HL 4896.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ebd34116-314f-43f8-a146-6eb1777a44e6___Matt.S_CG 2543.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\1ec4000c-0a5a-4a9c-8af8-986421967119___FREC_Pwd.M 4529.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\6ada5099-804b-4ca5-9e0a-5a39847bd3af___RS_HL 2361.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1578.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\a0fd13e3-e36c-4386-beb2-ec6a587bfd70___FREC_Scab 3053.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7cf9cb31-1121-4ebe-b973-56c388d8f450___Crnl_L.Mold 6662.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b11ca2cb-b0eb-4ce7-831f-7a085c268ab1___JR_Sept.L.S 8543.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3bbaca2e-d2fd-4fcb-bbd7-e1ad4f7a84ae___RS_HL 0630.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\62c6270f-9667-492e-be5b-ee599927718a___RS_HL 7671.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\271c42ee-ce8e-4cd6-90bf-095d7dcd7b18___JR_HL 4028.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\8cf8459a-1f34-49d1-b580-afdda3e28f29___RS_HL 2457.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0b137624-885b-4d9b-b9e6-330c6681de4b___GHLB2 Leaf 8848.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\a98a655f-a2f5-44eb-a73b-edf25ca85921___RS_Erly.B 6351.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\a72a9033-d2b9-4c64-93bc-7e5a1a0ea4ae___FREC_Scab 3284.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\ba608f02-a6ab-4944-86a6-3ef5b2d4aa1b___JR_HL 9502.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\064b14b5-af1b-4bcf-afe7-a061e5669dbb___FREC_C.Rust 9839.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\d92a47e9-a0b3-40d4-a515-b4dc7e27a3aa___FREC_Pwd.M 4587.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\be36a613-f4c9-434c-a0da-50f6dd98984d___JR_HL 4212.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\8e1adb04-c684-4e1c-9852-439e512a717d___RS_HL 0367.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\7bf79f19-bb50-44cd-b8d5-0b4d6794689b___RS_HL 7989.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d8466889-2874-44fd-b6e1-128c328d5b84___Crnl_L.Mold 8661.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e64efdd0-97e8-486c-923f-04b140f7e168___RS_HL 2497.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\82dc2c64-2489-49d7-b199-f8c6a04c1649___RS_Late.B 6282.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8fabb9ea-8048-406a-be78-a64123654212___JR_Sept.L.S 2591.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a9e08234-c1be-4519-a3e3-dd8d9456fab0___RS_GLSp 7336.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\472f7817-44d5-4401-8072-3c27da168dbd___RS_HL 5515.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8398397b-eae0-4e7b-83ee-44c42c67a79c___RS_HL 0631.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7076ebe9-be52-4b6e-a667-a3ce940a0cbc___RS_Late.B 5392.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\12319ec3-c990-4c68-8683-244f1f220c09___Crnl_L.Mold 9146.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\6533061f-86a1-4632-9f84-7c97f0163e26___RS_HL 0527.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\32b2bf97-2a8a-41dd-9889-a1e79cddd33e___Keller.St_CG 2042.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\0eeeccc7-f3fb-4b7a-90ec-750fbf10f7e6___RS_HL 6249.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c46dfc73-a21b-4542-a4a1-18c15792d700___FREC_Pwd.M 4996.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\67cc81d7-9cea-4a47-940e-acd26f9383a7___RS_HL 0314.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\d44b9a3e-7cec-4e55-af4b-0df481af3f79___RS_HL 7831.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6f5b57d9-46c8-41b6-9f79-eda044f687b1___RS_HL 9962.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0de569a8-21c5-4d22-b9c9-ba0ef0f2b614___RS_HL 0314.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\77843368-1495-4113-b865-83e381f0641e___JR_FrgE.S 8791.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9d2ecf1a-640b-4427-9092-0ce7c08cb6d0___GHLB2 Leaf 8611.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6f733647-eb00-45d7-91a9-0845c1613d80___Crnl_L.Mold 7049.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a2118ec3-8434-4e93-8a4a-aa93262dfa76___RS_HL 0551.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6a8b21cc-35c6-4e5e-8f9d-a4a3591cc665___RS_HL 9961.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4a5a39d1-e05e-4ec2-acf7-3987cd04a71e___RS_Late.B 6547.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b96efa85-1d48-4a5e-9c80-4b1848182c93___RS_Late.B 6961.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\64b3612f-e972-44c5-8ef0-c9ac194c34a9___JR_FrgE.S 8623.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5e8d580c-23b6-44e4-bfef-488708a95dab___Matt.S_CG 6186.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\47a87555-1411-43a3-85d2-5fb241ec089d___GH_HL Leaf 177.2.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cf848353-3cc5-4d85-95ae-453c7da065f4___RS_Late.B 6756.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\b56db96a-1581-4432-8d44-0d1884912a47___JR_HL 9894.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b286ce6e-d1d1-41a6-a533-86eb21132efe___JR_Sept.L.S 2465.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\8ad6e23a-7ad5-47a7-a2e3-55655ef64ccd___FREC_Pwd.M 4461.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f398656e-d695-4cea-89d8-13490de9264c___RS_Erly.B 7592.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8cd36896-f066-47f4-a965-d5bf0c58f954___Crnl_L.Mold 7042.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\28e858c2-03ac-423c-8e0c-72e38a5634d9___GHLB_PS Leaf 2.2 Day 13.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\ec5b9329-e53e-4578-ba60-03950b3e4883___RS_HL 7784.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1fa37cd4-066e-4deb-ab99-5fa8dcc4481c___RS_Late.B 5454.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a72375bd-cec2-462a-8871-19eb0b2bd2dd___Crnl_L.Mold 7139.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\80c0ed57-74c8-4e02-9cd4-5c29ae099594___RS_Erly.B 6447.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ab503aa2-fb87-44a5-97f9-f2dd80c1697d___GHLB2 Leaf 8647.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\5af43679-cda7-4cdc-8d9f-e962e22e68c5___Crnl_L.Mold 8654.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c0ffd6a1-e3d2-4034-aa74-597bf3a257e9___RS_HL 7973.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\bce3ba0b-a142-4b28-8cb3-eb6bb6a3b8a2___FREC_Scab 3142.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5faa74ba-8f46-4b2b-a7bf-3bc8d9458526___RS_HL 9741.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\6f69678a-a16a-417a-931b-49a22e810ed8___RS_GLSp 4679.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\33cd7952-11ef-4ada-bc66-670bf8c980f6___RS_HL 2624.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7c879fc2-09b8-47ab-af57-2508cc854861___GH_HL Leaf 380.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\aec7da61-0d91-4a9f-9a69-154268db63e4___JR_HL 9657.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b15f23b2-4fd8-483b-92f3-0f79dab0c674___RS_HL 2305.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\f822b7fc-c28b-4fd8-8cde-037ed35c0b08___RS_HL 7847.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\90915bb5-9440-43dd-85c1-5d30865054d5___RS_Erly.B 7493.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\84836cba-6362-4e3b-b86c-d84f91d186ce___JR_Sept.L.S 2499.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c86f1476-4e5c-4dbd-923d-a575bd03cd18___RS_HL 6210.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ed6a8fb9-9fa8-4d3d-a727-676ec58d147a___RS_Late.B 7036.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\98191f19-1c33-45bd-bfe6-b768174460ef___GHLB2 Leaf 8794.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8cf044ea-2e31-49b3-942e-2a74ce20dfe1___Matt.S_CG 7417.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4d82bf50-5e71-4597-8684-6db7300e0cd4___GH_HL Leaf 316.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3ecfd9ce-30c4-4453-9d90-75854c7f82b7___RS_HL 5950.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c526079d-2480-4cc0-aa26-ca2a9d612cc3___FREC_Pwd.M 4586.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\f15c02d9-9aa6-45b5-84fc-97e22f7fabaa___JR_FrgE.S 2831.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\2ddde539-6c5f-4d76-8611-14761bb240de___FREC_C.Rust 3564.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\387dd4db-733b-4d6a-b87e-77ab2f2890a8___RS_HL 9866.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9fdb4b69-dea8-4eec-b958-ff33569e5801___JR_Sept.L.S 2592.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\97379a4d-336d-494b-885a-19df46b779ad___RS_HL 5447.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7079935b-c669-47db-a6ae-5a12d9ccf9d7___GH_HL Leaf 331.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5db7fb7d-8e2b-4763-a5a3-aa794ed3ae6a___Matt.S_CG 0719.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\bc0e8e3d-0cd4-4650-ac73-c099a0b75d4e___GH_HL Leaf 426.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3181ca61-aaa0-4263-a141-2760d164f84b___GH_HL Leaf 189.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\905a051a-0649-4b4a-8dc7-273952cbd832___Crnl_L.Mold 6574.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\34edd324-8b91-417c-bb4c-3bf0dbe348d2___RS_HL 7698.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5b7b9824-0cdd-4c67-9377-136a0615d784___RS_HL 0056.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\b3bd5eb8-caa5-4a52-8c90-2a47bd450d93___JR_FrgE.S 2830.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6c5ad7e4-a826-40af-abf9-0a9e6346e656___RS_HL 0196.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\79b737a7-eca5-4eb9-b30e-dd3e85640e55___RS_Erly.B 9492.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cec774a0-92f4-4446-af6a-f0743e667461___RS_Late.B 5171.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\650f4395-7428-404a-b65c-8fd36f204dd6___FREC_Scab 3111.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\de0510ce-5cd9-4d7e-bb47-8243fe056e3f___JR_HL 4096.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\9fd8d7c3-3321-49fc-a7dc-165ccc353c78___FREC_Scab 3177.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\bb64a6b2-b479-4cff-a101-7d0d98ac62c9___Crnl_L.Mold 9183.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\e1571e9e-b373-4d7d-9106-a0b1e4e89bd9___RS_HL 7342.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\fd27de23-27cd-4f09-a962-df0b26899b07___RS_HL 0039.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\0bce172b-910e-4eed-b497-f632838df76e___RS_HL 2403.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\68337523-c3f7-41d6-96bd-9528efb66af4___RS_HL 5349.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\381a69d2-9a7d-40e2-adcb-9d7e362229e2___GH_HL Leaf 478.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6bb72ae0-dc39-4098-bc4e-e09044990c5c___RS_Late.B 4868.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0aacdad5-c9b9-4309-96e3-0797bbed1375___RS_HL 9836.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\f0033a40-7a27-46e8-bf31-5af5cd0a9691___RS_HL 7941.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\1a80f857-9e16-40d0-b110-9ad52692221b___RS_HL 0692.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\03b4571c-b1eb-4e2a-b372-307046913f50___RS_Erly.B 7548.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\1424a06a-f143-4ca4-bee1-dbbc1663b5d0___RS_GLSp 4681.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\c7a9601c-b927-413d-8bc8-2175e573b128___FREC_Scab 3031.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a885be53-67e7-4897-b0ee-179971cd7976___Matt.S_CG 1642.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\52fdca01-c6e8-4903-a8ff-c9825071e6d2___FREC_Pwd.M 0283.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\618b7af9-69ff-4a97-a738-984fec04f25b___RS_Erly.B 7527.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7e37d8c3-2f62-4a95-b430-34746cb25776___RS_HL 0188.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5b1c13ef-e560-4479-869c-8d52ac4cf559___JR_Sept.L.S 2517.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b49c2ffd-6fa4-4ab8-8458-f4cc444c1325___Matt.S_CG 6007.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2d7f4c07-f4f4-4589-aa82-49e05e5b253b___RS_HL 8056.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\26f4dff6-e12c-4825-8e68-efa2db09a155___RS_HL 0518.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\df5a282e-d66e-4fb3-8ce4-eddfe5253c50___Crnl_L.Mold 8940.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e0f3d05f-131f-4baf-ae8b-36abdd1fc925___Matt.S_CG 6241.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\204fc27c-f0b4-4ddf-bd76-4ae465b406f6___RS_HL 2585.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\3d666ccc-a8d2-45df-8030-3252e2b72422___RS_HL 4914.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\9d64c577-43dd-4409-b0ed-f5460bc01dc9___RS_Erly.B 7685.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\7a193736-ff69-4887-8cd6-44e4639de68f___RS_HL 5996.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\2cf8906b-0996-48e9-8da1-309283c2d70b___RS_HL 5401.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\15f05055-2bb1-45f7-8a39-fce071823266___RS_Late.B 6082.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\ca1aebd1-8b31-4727-a4be-e1a8f421f1cf___JR_HL 9893 copy.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\00e0a4ab-ecbd-4560-a71c-b19d86bb087c___FREC_Pwd.M 4917.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\576e04b9-0ff4-483e-bbd0-185645136964___JR_HL 9429.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b35e9064-0108-44c1-a483-50034a9d58d3___RS_HL 5072.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\13c0f3a6-6958-455d-bf3e-ad09b5e9e0dc___RS_GLSp 4663.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\0ca762d0-3853-4018-896e-8f01e29cb144___RS_HL 7558.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\9f288c49-e11c-4054-9a44-b5e81e39427a___RS_HL 7938.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\52ecce7d-bcd4-4d36-b455-b0948eb02371___FREC_Pwd.M 4724.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d998fc3d-1314-4f78-86b7-ca3bf205fe6a___Crnl_L.Mold 7168.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\880ed927-54cb-43f7-8d9d-4e2705cc8472___RS_HL 7488.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\485b6c71-08dd-4f02-9140-fb04bafd7225___RS_HL 2671.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8cc11f24-0b79-4eda-8a09-9c776e0a9c1e___RS_HL 9728.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b1f50b66-747a-4394-ae03-1d5c201c1bb8___RS_HL 9664.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\ba0ab3c3-f12f-4fbd-875c-d68198c21f3a___JR_HL 9781.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b2af1e31-5779-4c69-bca8-c2d2c3c7bc34___Crnl_L.Mold 6808.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\0be76485-a2bd-4f71-9735-ccec7d440de9___FREC_Pwd.M 0295.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\84eda310-5cbd-4de7-949d-471213cd0016___FREC_C.Rust 3679.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\cfc1a407-d586-4756-8c06-a03e354f99c4___Matt.S_CG 0804.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\88ffb541-e088-4505-baef-c292c25925dc___RS_HL 6164.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\e815da85-2217-4f25-8c16-e64ad69b6404___FREC_Pwd.M 0431.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a7659e27-ba53-4b85-a0dd-6a1009703831___RS_GLSp 4619.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\c019b1dd-288e-4914-9abb-348e33cec899___JR_HL 4157.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3767f857-a7b6-4801-b56e-b62e642fc508___RS_HL 0425.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\ed259920-d6b8-4023-bc7b-b37c371a7b85___FREC_Pwd.M 4789.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\5c65f741-4418-4e2d-b93e-b899d6244b11___JR_FrgE.S 8769.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\22b09507-3884-4092-afdb-055aa421a7f6___RS_HL 4981.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8fbf1dbe-bce8-47a9-98a9-fc7b64576cc7___Crnl_L.Mold 6780.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\5e86e080-dfc5-4ae7-b1d8-7a4d5b281ddf___RS_HL 4984.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\1836cc95-03e5-4430-8cc1-cca482b94a0d___RS_GLSp 4289 copy.jpg,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9341417b-0be7-44a7-b353-f930ec746186___Crnl_L.Mold 6679.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\5e5cfc82-5ad9-4bb7-846f-428fb0e1bcf4___RS_HL 2467.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\066b2772-c513-403b-9550-26def3b79ec3___JR_Sept.L.S 2497.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\6fe439f8-e866-4e45-a739-236af1a6a028___RS_HL 2357.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\92508617-1037-4d3f-b2c2-c9f0c15c3263___RS_Late.B 5286.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\400723a1-65ae-4d62-b7c7-d8c0b7a02480___RS_HL 7479.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\10729db2-3c76-406c-921a-90efaac37016___FREC_Pwd.M 0293.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\782b4257-75e0-46c4-8cf0-bae4f9895da6___RS_HL 7969.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\09590524-981f-4dc5-b6e3-5225a0c48019___GHLB2ES Leaf 140.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\a3ebcd97-c380-4a41-b8c0-493e5a74d0fd___FREC_Pwd.M 0387.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f24a0d2e-c89d-4182-8c3a-30ba0439da68___JR_Sept.L.S 2721.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\63ed021f-afc3-44cc-ab70-0bacc9815d3e___Crnl_L.Mold 6997.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\91decba3-10b0-4d3e-974c-bcc7729e867d___FREC_Scab 3527.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\9febcc67-da4b-4424-a2cc-2bd6e19833ce___JR_FrgE.S 3054.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\b24c156d-6183-49a7-86ad-3b90c943d470___FREC_Pwd.M 4889.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9d197d8a-3f35-401a-8aa4-39f7e69d05c5___GH_HL Leaf 326.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c936479f-544d-482a-a3d2-19b8bf69bf8d___RS_HL 7898.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\08233234-a3af-4040-8814-eb13f89802dd___Keller.St_CG 2009.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\c854044d-2c8f-4c16-9601-7183b71e25cc___RS_HL 8047.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\b3c6e32a-ccd1-4bb4-8e7d-155ab5c2c456___JR_HL 9774.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b427ec05-0b9a-45c6-8148-cbddad66e99d___GH_HL Leaf 516.3.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\495559bd-76e2-4c7a-935c-3ca1b4cf4b7b___GH_HL Leaf 180.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\5592a349-b19a-4fe8-a131-a89bbae8b655___RS_Erly.B 7474.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\13a06d54-2bd9-4bd0-a260-1c193ac4caa8___RS_HL 6293.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\69a33a83-20e3-420f-a5a7-b2e73c16e13f___Matt.S_CG 6227.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Black_rot\1d0e83a0-f3c0-4c14-b1d6-b0ceee3552ac___JR_FrgE.S 3006.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\ec7d2584-a9f6-46b5-b9ff-0e87688d0020___FREC_Pwd.M 5119.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\c1fbe194-2a66-43af-bbb4-e5adc5376afb___JR_HL 4194.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\23e08ad8-dc78-4b12-bb24-8fb2eec6065d___FREC_Pwd.M 4827.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ef21da16-050f-4be8-a91f-e1fa13ce3991___RS_HL 0242.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\42c0d61f-b28e-43e9-9fa3-bb03c6ec086a___RS_Erly.B 9601.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\59f54d36-b98b-4271-88ed-7a9672907bee___RS_HL 0519.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7725973d-b1dd-4da4-abc9-2cc0cc247485___GHLB_PS Leaf 23.3 Day 9.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\005a2c1f-4e15-49e4-9e5c-61dc3ecf9708___RS_Late.B 5096.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\f79134e9-f8b2-4855-96bd-6b3ce814b32a___FREC_Scab 3116.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d2c889b0-0223-4e09-9d9f-cdf019b65120___Crnl_L.Mold 8631.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3d9cca85-96cf-4186-b863-933bbbbc8075___GHLB2 Leaf 117.4.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\744ca065-3894-4cb9-83c2-33a6f46bbd39___JR_HL 4143.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1630.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\db228bdf-309f-4dd5-a3c7-d77af0acadb8___RS_Erly.B 7584.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\21a75fcc-4cfa-4931-800d-7aefdea77df2___GHLB2 Leaf 8726.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\0208f4eb-45a4-4399-904e-989ac2c6257c___FREC_Scab 3037.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\3876f449-0cd6-4910-9321-f56a28621c51___RS_HL 7775.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3f389ac5-10ee-4623-98f2-76b0b479cf3e___RS_Late.B 6785.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fa6c2874-7c49-4a31-a962-cfbe34395287___Matt.S_CG 0926.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\0d8187e2-00e2-40e7-b1a5-c94db561057c___JR_Sept.L.S 8439.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\150ed8d9-abf5-4811-b976-8878b2d0048d___RS_GLSp 7321.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\d3bc5c8e-a5b0-4352-b904-b230420d5cc7___RS_HL 2587.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e5e768c1-7bd0-4944-9041-4041d13be780___RS_HL 5262.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e3bd6e54-138d-4185-b6ff-44de12823111___RS_HL 0356.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\da781038-1b3d-4934-8927-9477efa7d5ec___RS_HL 5815.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a35eec16-f8d0-4caa-8c5a-d4f05658e287___Keller.St_CG 1952.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\2b5bebdd-3af4-41ca-b206-efc1a141e71d___RS_Erly.B 6363.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\cd4b605b-2ca6-4a6c-8c32-9115ec106c1d___FREC_Pwd.M 5017.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\07e5a836-f1d6-4fc3-8847-09c8f9c368ec___Matt.S_CG 6089.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\8e1c8815-49e0-4be6-a3a5-a426ab6b2445___RS_Erly.B 7822.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\2bf54e83-c962-4b46-84b1-d5a8a7b686da___RS_HL 5858.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\3c09557f-b69a-423e-a84f-8fd9ee6467d2___RS_Erly.B 9490.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\287f4726-e68a-43bf-9ec8-49d1e4a34aff___RS_GLSp 4487.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\6302fc2e-0cf2-4b60-a5bb-1140c950d0f2___RS_HL 0585.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\42435498-17af-4a69-acbd-c552cbdc2761___FREC_Pwd.M 4604.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\32c38f0d-bc33-4579-b0d0-76305106d325___JR_HL 4291.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\74b3c6cf-a35b-481b-aa22-7483a52bff76___RS_Erly.B 7792.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a37dad1e-446e-42f9-a923-b6a654e4132a___Crnl_L.Mold 7155.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6a159b17-b233-4b65-ba45-9fbced7f1d39___RS_HL 0339.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\eaea7f6e-6e58-4e62-8c90-05ec3ebfee4b___FREC_Pwd.M 5108.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1575.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Cedar_apple_rust\763123be-8a12-4d7a-8fa5-deff863b70f9___FREC_C.Rust 3691.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\04eb9fee-df68-4917-a639-d68e12c08bbc___JR_Sept.L.S 8475.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\c10fbf4c-baa3-4242-956a-a6262f6b1bf3___FREC_Pwd.M 5037.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\b98cab5f-75e2-4585-b0db-d3f5d978e17b___RS_HL 2521.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9d71e1ca-5f24-4932-8b15-e280f6582c95___GHLB2 Leaf 94.1.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\90150c9b-42f9-4e57-9ef4-2e9355e66d45___Crnl_L.Mold 6633.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\65ab8993-f636-4bad-9771-2f07cd178cb9___FREC_Pwd.M 0390.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\9efcd800-e927-4595-8eb8-26d36524242a___FREC_Scab 3026.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d346f7f2-7cc9-43ef-bfcf-fbfd9d9db724___GHLB_PS Leaf 18 Day 8.jpg,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5f21282c-e2ef-4c4a-ace1-b5701fe7effc___GHLB2 Leaf 8999.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___healthy\9ebc421f-9c65-41ee-a650-2da921e8e7cb___RS_HL 6227.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\01c391d2-1b3a-4b58-b205-a75674bba6e9___GHLB2 Leaf 8824.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\d1c378ef-57e4-4ebc-b3f2-e34f6b2441d2___JR_HL 4098.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\9498ce3a-8dc1-43ec-aeec-a05825cf9af2___RS_Erly.B 7820.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Apple___Apple_scab\c2997bb6-d9ae-4ffc-bc3f-c85510480e13___FREC_Scab 3428.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\a1e875bd-5c06-4031-b0c0-9413d754df0e___RS_Erly.B 8221.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\30f5084a-f9c5-4ba0-839f-c000a0ad0608___FREC_Pwd.M 5131.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1f55c2e9-67b2-4377-a426-4932a77c3439___Matt.S_CG 7778.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Corn_(maize)___Common_rust_\RS_Rust 1679.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\e0f3152c-1530-4f3d-b7fe-4ee29c3190c5___RS_HL 5272.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\da888d41-52ef-4a29-bf48-2a5c6bbb10de___RS_HL 0668.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Blueberry___healthy\4b2bd4bb-05b3-4a17-9cb4-ba9fae0d0fd3___RS_HL 2427.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4f09b157-f5d2-4f99-ac0a-1be52cc7a27d___RS_HL 0402.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___healthy\9c1ddac2-44fa-4a3a-b7cb-4ab597faf089___JR_HL 4070.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\77b74ab1-43d3-4d49-b901-e6e19ee0f200___Crnl_L.Mold 9063.JPG,1
+D:\s2\data\plantvillage_raw\raw\color\Cherry_(including_sour)___Powdery_mildew\ec9ad40e-b581-4777-b3c0-6775e39d6b1c___FREC_Pwd.M 4592.JPG,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\932fabe0-247e-4e51-92d3-cd824fc6bc5d___RS_Erly.B 9540.JPG,1

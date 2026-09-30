@@ -1,0 +1,723 @@
+image_path,class_name,class_id
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\541b1d99-c630-4730-861f-a8ef53615709___GHLB2 Leaf 8857.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5cfd46ee-eb76-4bdb-83c7-04707116eaed___GHLB2 Leaf 91.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7f8eaaf9-901f-4628-b706-7257b3e67303___RS_Late.B 6025.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7c996d55-df58-488b-afa6-085c8c5458fc___Matt.S_CG 2717.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\80380588-3ae5-43e3-8acf-541b53e5d44b___RS_Late.B 6542.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f4d4fe0b-d711-4a2c-b331-213787eda9b0___RS_Erly.B 6665.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\e5a3c9fd-64a6-426f-a0a0-2fd28a7852d0___Crnl_L.Mold 6575.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\2df8ffd2-e986-46cf-93bf-f271921701c2___RS_Late.B 5441.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f6c11a02-6f44-4e15-aab8-50cb8d79bc62___Crnl_L.Mold 9166.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8858ed06-2e1b-4a4a-bd16-e4425ae62312___GH_HL Leaf 523.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a0e83b60-008d-40b1-b0f4-c3c2e02d8eb3___RS_HL 0092.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8e674c81-54a9-4da9-b764-db74f3f377fc___Matt.S_CG 6791.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\79962b01-7b73-4486-b91e-a7ec898b8156___Matt.S_CG 6635.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b26fc8e6-5d9f-4b96-b02b-f048c4b9e05a___Crnl_L.Mold 6735.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d67b224c-b089-430d-b185-dfae7b7a5a9e___Keller.St_CG 1950.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c8a610ce-ef41-42b4-ad46-fe82891ac4e0___GH_HL Leaf 258.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\a9a349e8-bf20-4495-8db5-70ca9293608d___RS_Erly.B 7367.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\40bca58c-a09e-429b-a0b3-03fce3ea88e5___GHLB2 Leaf 9113.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\407519ba-54e6-4779-a886-8163cab06a04___Crnl_L.Mold 8807.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a2923cd0-fc9c-471e-a97c-b92701c17af2___Crnl_L.Mold 6682.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\90121b1e-8f2e-400b-85c0-940ca59ad873___Matt.S_CG 0673.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d2418bf8-8dfb-4a48-b3df-0f1acf515dfd___Matt.S_CG 7455.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\76284899-9c5e-44bf-a160-02649418ec49___RS_HL 0077.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\70cfd5a5-64c0-467b-8647-7743e5c3513a___JR_Sept.L.S 2621.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4946ed4e-9003-485c-830f-1ef42bf78185___RS_HL 0191.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\83781ea3-eaed-467a-9147-678002262295___RS_HL 0330.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\0185befe-f0b5-4848-9677-f33c2237f4e9___Crnl_L.Mold 8729.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\72c6a88e-87d8-45cb-8001-3dd67f90d46c___RS_Erly.B 8245.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7e77fde0-ab1b-4256-be51-0f6eecf85007___RS_Late.B 6995.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7d2e7df9-0b0d-49dc-8161-7601f1cdcf5f___JR_Sept.L.S 2552.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f22ee940-7739-4758-a351-4764826336a6___Matt.S_CG 7568.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\38bea01f-8f19-4e3d-8022-3dbec2057ed1___Matt.S_CG 1575.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\601c3e63-5248-414a-b08c-3aa66b9cc8f0___Crnl_L.Mold 8939.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4a077dcb-30be-4f8d-9dc9-00f3874b1676___GH_HL Leaf 465.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f3b38383-f6ff-4779-a57a-fd1766721555___GHLB2 Leaf 9088.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a2b2c599-4cbf-4ea4-a05e-639ee9b4f523___Matt.S_CG 6059.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\58a1fb7e-5af6-42f1-8694-c76fd80ebf05___RS_Late.B 7108.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\413f7280-43ce-4f09-983c-8266588a6e67___RS_Late.B 7088.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d3997d9d-f607-44f2-9473-b41db6b1116b___GH_HL Leaf 473.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\517a9ea3-3465-4855-997e-dde30e566ab3___GHLB_PS Leaf 15 Day 7.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a05f8f2d-6ac6-45d8-b7ad-394bbda892fc___RS_HL 0613.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d97b4cea-9445-4051-bc20-f8421dac0d4b___Crnl_L.Mold 6704.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\12d62ed2-a145-4400-824d-3e4d5f64418a___RS_Late.B 6586.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\93803782-3190-4a41-98a3-1c2712ca8571___JR_Sept.L.S 2704.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\65bcbda1-eee5-4bab-ab07-128c2a2f8ed4___RS_Erly.B 7461.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c55b187d-939e-4394-8306-d310764c30f6___Matt.S_CG 2479.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\ea19d516-b7fd-45c3-a459-68281f3bd9aa___Crnl_L.Mold 6836.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7edf8e92-d212-46f4-843e-0c08bd263f73___GHLB2 Leaf 8944.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3f1beda2-534d-4970-b33e-99c43c1ee930___GH_HL Leaf 219.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ae7304a4-58ad-4a45-aab4-6f18ee303a43___RS_HL 0183.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\07672c2f-860a-455f-9fa4-f761f4bc090e___RS_Late.B 5017.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\10a4a3bd-e4c3-4e1c-94bd-cd0cd4e2705b___GH_HL Leaf 526.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\89aa561a-1ea7-4e24-a92b-47f3dedcecdb___RS_HL 0107.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d3d532b0-4927-4818-a12c-709ce0134435___GHLB2 Leaf 9051.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\b450abe9-9282-42a8-af4d-3fa7da258f40___RS_Erly.B 7735.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\2b91175f-d3de-47dd-b386-5fd639e8b531___RS_HL 0216.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\2f3c483a-b18d-4571-8c00-fb24f166d328___RS_Erly.B 7667.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a9fdfa3e-cde5-4dc8-a7a2-7484f223c250___JR_Sept.L.S 2575.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d984f436-1fde-4221-9563-82f55a42b545___RS_HL 0217.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e0b87789-7d59-4bd1-bc78-ec3a942021f4___RS_HL 9894.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\fb0dbb23-b3fb-406f-bb7a-c5e0d45207d3___Crnl_L.Mold 8948.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1909260c-1e08-4a8f-a702-60549ada08b2___RS_Late.B 6671.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4780f75c-a79a-47e6-89a0-7ecb5d18876e___RS_Late.B 5499.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4ab57bec-a118-4686-a9dd-f6ee3cdd0c55___GHLB2 Leaf 8695.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\31df9041-c8b0-4ebb-93f7-cdac5338723b___GHLB Leaf 3.1 Day 1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\93296d31-4bc2-4998-adce-ec243e940152___RS_Erly.B 7410.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fdd1fcf3-2b4f-44ce-b2f1-7aa4fdba6a63___JR_Sept.L.S 2640.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6a9836cb-f987-4ccf-8841-f227989ff5ec___RS_HL 0045.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8ea80484-4e70-4a51-bbc2-213cfedd4f59___GH_HL Leaf 341.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\eeb47d84-df6f-4178-ab6f-09cfd26dae64___Keller.St_CG 1885.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d41d839a-339e-4d0f-985b-04ddd8a5b556___GHLB2 Leaf 8823.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\2f3608fd-5632-47ae-9309-970728d4342e___Crnl_L.Mold 6778.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\cd89e385-73ad-46bb-9f59-10e44880b2ce___Matt.S_CG 6835.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c3a5ec63-9d0d-48a2-898a-9bc31b4443a9___GHLB_PS Leaf 1.2 Day 16.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9451437a-5608-4354-bc46-6762c3a87e7a___Matt.S_CG 7814.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8a7b0bc4-2641-4674-9ce7-6b69ab55f388___Matt.S_CG 6816.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\26c09416-7271-4262-9ddc-fb741bedce05___GHLB2 Leaf 97.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\91f4f56a-b0c8-469f-88a7-47908efa5842___RS_Late.B 5437.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b8af2ce5-8429-4842-8ebc-c9d1ac9ed96f___GH_HL Leaf 301.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ec167921-a25d-413f-b73c-5c72cc270433___Matt.S_CG 2682.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a98d00cf-f048-44d7-b82b-3328a8e891b3___RS_HL 0585.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\38685009-d6e6-4b3a-9957-bf049a210cda___RS_Erly.B 7606.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9f959699-166c-4ac9-ba4a-a9e7d0c9e03b___RS_HL 0143.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\19a5dad8-125e-4765-98d9-0164586fa807___Crnl_L.Mold 6590.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a8ef94be-07d4-45ed-82de-d2070f14861a___JR_Sept.L.S 2554.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c498f92f-5940-43ed-982b-110e5dc67b20___Crnl_L.Mold 7142.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9f7dcd60-e691-4c1e-830e-7495f7cc123d___RS_Late.B 6166.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\51c47d39-74a9-46d4-be22-05b9c5a16eae___RS_Late.B 5557.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\546af1f7-3d4f-4024-88b1-f981fea7f2dd___RS_Erly.B 9455.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\53bd5f98-4343-4421-bf83-f970bce432bb___JR_Sept.L.S 8509.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9cb69cf5-1929-4a4a-9e6a-bac5596a22fd___JR_Sept.L.S 2489.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8bcab1d2-d0fe-497d-9419-765c99ac6989___JR_Sept.L.S 8541.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\207dee29-3d2e-4f08-9642-ef4c932fb280___GHLB2 Leaf 8608.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b5a7ad4c-1b76-4dda-862a-c6d6b9d28d90___Matt.S_CG 2443.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8bc3ccca-a312-4d14-a412-4c1726cdace9___Crnl_L.Mold 8802.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ba5a98fb-b13c-4984-984f-d05a60ad9dfb___RS_HL 9716.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\29289230-4809-46cd-ba98-77af06af3f32___RS_HL 9651.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5600518d-5a2d-4155-a53b-cad312d7fbb1___GHLB_PS Leaf 26 Day 13.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c8c7cb85-d7eb-4d60-b90e-bfe5277b79ad___GH_HL Leaf 277.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\636917d9-3ca7-43d0-9295-6b9fcf1103b0___Crnl_L.Mold 8919.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\fc5c5672-d1e5-4374-bd99-608d95609a7f___RS_HL 0474.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\483e8a16-c92f-4f69-a048-54c5f4c3676a___RS_Late.B 6296.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\beeecf7f-1986-4254-aa64-02d0b3a95896___Matt.S_CG 7581.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9ff8576d-7732-46ea-b517-532fff520c92___Crnl_L.Mold 6759.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\110d3ff1-96ea-43f2-96cb-ac57d0b7dd6b___Crnl_L.Mold 6738.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\eb816984-283e-4a3b-846d-9bf24b1cce8d___GHLB_PS Leaf 37.2 Day 13.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f7ab79a6-43d3-4ece-9461-43742519a221___RS_Erly.B 8290.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1e427d73-cd81-4476-9427-4854a10ea894___JR_Sept.L.S 2689.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7f4621fe-72ce-4f4c-a20e-320250ec8a9d___RS_Late.B 5556.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1e2fe7d3-3d69-4cf6-aef7-e9975940bd40___GHLB2 Leaf 77.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\99baac4a-7079-4c68-b2bf-c9cf123ddffc___RS_Erly.B 7619.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\5d9bfd9d-330d-4be1-8369-d4ff27bd4473___Crnl_L.Mold 6852.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9125266c-1269-43ff-b813-2052f3d16a9d___GHLB2 Leaf 8536.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\e59a2933-7869-4e49-8ed5-1663ca5200d1___Crnl_L.Mold 6785.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f459c3ee-91f9-42e4-8a61-8c2b6ba9a435___RS_Erly.B 9522.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\0806cabf-f026-43bd-a508-0e8e5a185341___Matt.S_CG 1266.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2c4f9430-88b0-4796-a4b1-5dd262650f40___Matt.S_CG 6195.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c703ee8a-3a32-4b49-9ac2-02138720a47d___Crnl_L.Mold 6614.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\7c1dc810-54ee-4442-86d5-6994d4736d92___RS_Erly.B 6430.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\3fc5146d-71b5-4764-8a78-481e098e661e___Matt.S_CG 2752.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ba789eab-7c04-4012-b8fa-98106b20b50c___RS_Erly.B 7771.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6b7f4762-88d6-4e85-8fad-57ca4083ec89___GHLB_PS Leaf 8.1 Day 9.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fe416307-5c50-4c9f-96b5-f6e15ef79045___RS_Late.B 4975.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\2406a1dc-92d9-4cc9-a724-a67c73104717___Crnl_L.Mold 8750.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\16f3a461-aafc-49e9-8973-39a52190985a___RS_HL 9803.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\89c134ee-41f7-46b7-b4dc-4229b3b3ca08___GHLB2 Leaf 8952.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1a473cad-42fc-48ca-963c-d438fbca928f___RS_Late.B 5418.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\43018540-7022-4fcd-a240-e5f861914bbd___GHLB2 Leaf 84.5.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7acf3e7e-f428-43c4-8b79-f8689838aebc___Matt.S_CG 2491.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7868d41c-77db-4a0e-90e3-b4a90a17bfdc___RS_Late.B 5401.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\507ffea4-183f-48c4-af97-d1201c99da5f___GHLB2 Leaf 8895.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f843c76c-a7d4-4031-abe2-9245602fbb15___GHLB_PS Leaf 49.1 Day 18.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8cc11f24-0b79-4eda-8a09-9c776e0a9c1e___RS_HL 9728.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d4091850-464c-4655-9edc-395f43c365e9___RS_HL 9657.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\ba913a0e-102c-4fc0-b617-22f85f9f6d31___Crnl_L.Mold 6504.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\97e49ab1-3159-4659-9954-518c94690a9e___RS_Late.B 5534.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c4e95382-4bc7-4271-89ba-889f1dc55a2b___GHLB2 Leaf 9093.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\14af00c3-f76a-4789-b58b-049bbf8ea6a6___JR_Sept.L.S 2633.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\71967e69-6356-49c1-81ce-624792b4d964___GH_HL Leaf 315.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\10e1a86f-0355-4534-aed8-08c6f01548d4___Crnl_L.Mold 7018.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\bc374eed-3802-4ffe-9339-47e04a74a648___Crnl_L.Mold 9181.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\fd686c68-9a4a-4d11-98fa-7c612aff9fd4___Crnl_L.Mold 6974.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1732045f-a451-4325-aa86-717a8cbdaf02___RS_HL 9698.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dcf0db57-e7d2-487f-b9df-2ec299e0ee48___GHLB_PS Leaf 17.1 Day 8.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e2e0a1a0-4f52-4320-ac24-69fa7f0fd033___RS_Erly.B 9596.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c6962655-b64b-45d6-b6a5-49bc8adfe0d3___Keller.St_CG 1904.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9e305064-4a83-45a7-be7b-d06c60cea4d2___Crnl_L.Mold 6658.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\506f24fb-92f4-4fe6-9d67-31e3ddd05fc0___GHLB2 Leaf 8819.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7281a343-89af-4704-a7f7-2a7c2be56c39___Crnl_L.Mold 6525.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\20d3ba25-f161-4ede-a42a-7a3020ebda3d___RS_HL 0124.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1a0a5292-5e63-4afa-8611-38eef316f1e9___GH_HL Leaf 477.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\95abb641-4435-4531-88f6-a4a597c5ff33___RS_HL 9779.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\958b8eb8-7004-434a-ad02-e62ff64dded0___RS_HL 0276.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\dde4e8af-a08a-48e7-969d-0b6c66912431___Crnl_L.Mold 8963.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\876e3a03-14fb-4a13-888b-02b2d9fa8e86___RS_HL 0313.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b0fbd7bd-f906-489b-96ff-a2683eb76dd3___RS_Late.B 6173.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\adeea527-67a9-4426-8b18-221fe085fe87___RS_HL 0008.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\121e9cbe-77d2-43ca-8e04-17a556a1c2b2___RS_Erly.B 7512.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b97c1d3f-45b5-4057-aa68-1c92e65b06dc___Crnl_L.Mold 8696.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0f0fc0ee-b19b-4f90-ab41-8f693131f57d___RS_HL 9890.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\31dd192f-dcf8-4f89-9890-7bd22653f823___RS_HL 0052.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8fabb9ea-8048-406a-be78-a64123654212___JR_Sept.L.S 2591.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\94f53287-b156-4ece-94a2-3c12783e4fbb___RS_Late.B 5409.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\51764eb9-fb8b-4c8a-9c30-3b474d659751___RS_Erly.B 7529.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e1571f83-5f00-4653-a176-2033f27405fa___GH_HL Leaf 353.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\df86b9f1-3871-4139-be7d-928bd3e6d642___RS_Erly.B 7497.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1350ac99-ea6a-43a2-8ab5-178219b286ba___GHLB2 Leaf 8673.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\393ffff3-e175-4e03-b049-76a25b1257c7___RS_Late.B 5599.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8b94be33-e461-4004-8891-0a69598cea6b___GH_HL Leaf 223.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8ae83365-7729-450a-9a49-328ae36155af___JR_Sept.L.S 2510.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\13611825-494e-4068-8be4-68de001adbf8___Crnl_L.Mold 6965.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b40312b0-86be-4acf-b2cc-747c7ef4ff35___Matt.S_CG 7469.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4022afd0-756b-4f07-9a8a-3cdf425d0cc5___RS_HL 0134.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c7db2891-1bfa-4047-8864-66be6cc9e185___RS_HL 0162.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\444b3794-ac77-4dab-a3d0-556086c7ec89___Matt.S_CG 1080.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\59a17e56-9717-4eaa-857d-e7511f00b633___Matt.S_CG 1027.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\207dbe65-2d3b-4820-ab49-2a1db65f9bec___RS_Late.B 5485.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2cc68344-7fcb-49cc-8a1b-5c956696dd4c___JR_Sept.L.S 2673.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f3c54833-7b3e-43bf-8d1d-a67a8c6cfd83___Crnl_L.Mold 8858.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b47f267d-7a17-4e4e-935e-4e6c0d7fd4f9___RS_Late.B 6146.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d7faf499-18df-4481-8d07-3d7168c83022___Matt.S_CG 7785.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\eed6f6bd-c665-4839-9c91-aa545bbbc202___RS_Late.B 5618.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fa524c8c-e08d-43ee-9f33-3bd2bf9b09f5___GHLB2 Leaf 8686.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\61eef0a1-8005-47be-867f-576ee3507818___Keller.St_CG 1876.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\63ee749d-3285-4bcd-9adc-4771fda912b0___Matt.S_CG 6751.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\45fc3f1c-6ccc-4ffd-a0a9-f53cbe4e71a1___GH_HL Leaf 206.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\6ccc0cdb-d420-4bc6-9a1a-d195a0521c19___RS_Erly.B 9437.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\25bb0739-cbd4-4e75-a6f4-67ca5cc7f986___GHLB2 Leaf 8789.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e94d68c8-f185-4b3d-9b44-ad12e3dc891d___RS_Erly.B 9598.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ecf64cfc-d521-48af-bb48-06edc78074c5___GH_HL Leaf 323.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e60c6680-9c50-4063-9eb9-6e77980afcfa___RS_Late.B 5343.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\06778fed-2b98-49b1-a9d3-d57765586a3f___Matt.S_CG 2795.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\12c80d02-59c6-4db4-a96e-b28c3fdaf3c2___GHLB_PS Leaf 1.2 Day 9.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\b45de15f-76b6-46bf-9990-e819dbef21d1___RS_Erly.B 9491.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a1238cae-087e-42de-824b-35a967fe43a6___RS_HL 0624.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cec774a0-92f4-4446-af6a-f0743e667461___RS_Late.B 5171.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\94445a4d-97cd-4db5-aedb-32da5756b2d7___JR_Sept.L.S 2498.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\49a59716-84d4-44bd-b1c7-4571def5be12___GH_HL Leaf 421.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0418161a-871a-4d36-b988-c95f89e0feaf___RS_Late.B 7063.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6371bae8-f9d4-4b4c-88d7-96de89c4c14a___Crnl_L.Mold 7058.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\3ceb9ab8-dc0e-4f17-a6fb-224b0b8b2e4f___Crnl_L.Mold 8839.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6c65f54e-41fe-4865-977a-524421d5fca3___Crnl_L.Mold 9040.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b5ff3a01-04bd-47d0-99c5-cb90ec1f9916___RS_HL 9804.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6a800f5d-f218-4c0b-b78b-7cedcc70a3aa___GH_HL Leaf 337.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\29e8c2f4-3e72-45d6-be52-b8bec7dca2d8___Matt.S_CG 7421.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\0ae44a6c-1213-4312-a11b-c7c5d4e585d0___RS_Erly.B 9442.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\87884ea0-dceb-421c-b6c1-a876232cd142___Matt.S_CG 1019.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\558681eb-ad2c-4c93-a347-c140f7e4517a___GHLB2 Leaf 116.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\01425d17-4c97-46e3-b395-c1453b78ab78___GHLB2 Leaf 9100.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\48a36957-9e8e-4a17-b789-e775ea4bc523___GH_HL Leaf 254.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ce303601-b655-483c-9778-3cbd317606be___RS_HL 0163.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\0c865fa4-b0bf-4e69-b39a-d97b068cef84___RS_Erly.B 7477.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\91b86c29-60fb-4383-8bc3-8e06cb5519f2___RS_HL 0283.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\eb807a4d-9d14-49a0-af1f-1e26b093edff___RS_Erly.B 7409.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5828f9c7-5083-45c3-b3bb-bb202ed1cd53___GHLB2 Leaf 128.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\17c7e5bd-f44e-4dbd-9cd0-f0dbcc654306___JR_Sept.L.S 8557.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\3f35dad7-734b-46ee-8193-09fd3c8562ff___RS_Erly.B 7600.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\fb73cd43-aa32-4aba-978f-034c9c809c25___RS_HL 9749.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9d8d2581-16a2-4151-9434-8ab9df3f632b___Crnl_L.Mold 8737.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1329e768-8331-4853-8d35-c03f5586c645___GHLB2 Leaf 8867.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\eea79799-a869-4a1f-bfa2-5c85a27716ae___RS_Erly.B 8391.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d22e79f4-23d0-4c0a-849b-c574b3f04232___Crnl_L.Mold 9084.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\407d9731-c2d8-48c1-8712-9719c185791c___RS_Erly.B 9496.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c9258e44-7f45-4baf-8140-69d4857c56ee___GHLB_PS Leaf 45 Day 18.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\494fe29c-4ca6-489c-9424-7f760f54471d___RS_Late.B 5322.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\59f2bb8e-e7a1-42b6-8613-f3d4bc11253a___RS_Late.B 6605.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f449911c-51bb-42e0-858a-68259c0edcf0___Matt.S_CG 7566.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6555b55c-78bc-4391-88ed-65b596fc7e76___GH_HL Leaf 441.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b6185c0e-e2ea-4283-b808-c37ee374b776___RS_HL 0094.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\15de3678-aed3-4887-8bba-6cf5e1efdde0___Matt.S_CG 1317.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\30f6aead-5cd9-453d-85e6-56e93c1987d8___Crnl_L.Mold 6886.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\141bbdef-ba38-49ed-9d6f-fe8d9de38e6f___RS_Erly.B 9579.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\16c7ab4c-6940-41e9-854f-d1a9a99325ce___RS_Erly.B 8216.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d0c0535c-8273-4a9a-9fea-8ab8402e3f92___Keller.St_CG 1878.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\bb3b17dd-b745-4706-8e03-ff2660d77c23___Crnl_L.Mold 6512.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\3d638a43-43eb-4f93-85bf-b1cc41ab117f___Matt.S_CG 0751.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\083bd43d-7dcb-4f3c-a0ca-6de1f468c9ef___RS_Late.B 5173.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\991e779d-ffcb-4f55-98f6-20575d202757___RS_HL 0166.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\126e12d3-3d51-4ba6-861f-e6ed09ee951f___GHLB2 Leaf 9021.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\52a111ed-9461-478b-91a1-2b5edcd26363___GHLB2 Leaf 8886.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e81dfd96-227c-41a7-8cf8-dbc14f2e4b33___RS_Erly.B 7407.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7ace174c-153c-42d2-9b51-212f42774d9d___Matt.S_CG 0898.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4780302b-3329-4f1f-a697-67698af1d261___RS_Late.B 6319.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5ee4e525-31bd-415c-9f64-30746c2434d7___RS_Late.B 4883.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\4ff6a1de-00e2-401b-b6c2-e523289a9228___Crnl_L.Mold 6715.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c298eb46-4b8f-4a5b-a819-ceabb2fc7211___RS_HL 9677.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8ea5ab78-1e1f-4f6b-97b0-84550af26040___Keller.St_CG 2039.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\15f05055-2bb1-45f7-8a39-fce071823266___RS_Late.B 6082.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\9407ce87-44ce-4c7f-89ae-1e497b44ae30___RS_Erly.B 9381.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\92286a65-7836-4a51-9e6a-ada347bd2cbf___RS_Late.B 5398.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\14f9c049-aeb8-4cfb-84a7-cd39526b8b20___RS_HL 0534.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\0745df82-cfd3-498c-add3-1a4d20f281b2___JR_Sept.L.S 8430.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ed70dd6e-db68-4cf5-95b6-e25c67be113f___RS_Late.B 4966.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\70ef2f0f-3070-443d-b94f-983b87b41791___RS_Erly.B 9385.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\25a83fb3-e27a-419c-a9db-652fae319fcd___RS_Late.B 6191.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\f0336650-0021-43e9-9e8c-d921c5532116___RS_HL 0249.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1ea54b98-1f87-4da7-9bc2-f6460f18b376___RS_Late.B 6713.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3ea5eb53-bde0-44f1-8aac-d6457e5b0b73___RS_HL 0427.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6550c4ca-9494-4de5-8909-d0cdab8f0892___RS_HL 0401.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7c464f54-8a3e-45ad-a900-d7164e44cc0d___JR_Sept.L.S 8534.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\07324d80-17c5-4541-9702-62e9c744ac07___RS_Erly.B 7455.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cedebb08-bf5c-434a-931e-63ce9621b77e___GHLB2 Leaf 9091.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\0621aab4-b9fd-4012-b0a6-ba72e63cd87d___RS_Erly.B 8220.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d891ae9b-9fc3-4113-9348-3c7109d29251___JR_Sept.L.S 2712.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7890f4dc-0c55-454b-ab23-3b25d3d973c4___GH_HL Leaf 366.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ea727260-767f-4f18-802f-a8105d82d912___RS_Late.B 6245.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1a0b9a32-3993-44e4-879f-338cd6e45a09___GH_HL Leaf 178.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ca7035fa-f55d-49c7-9d89-3d513c8e35b1___RS_Erly.B 7556.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\be1b7152-f0f2-431c-9635-29c4ca31fb5b___Crnl_L.Mold 7111.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\07dd57ec-cbf0-4fc1-b680-6b3226da51e4___JR_Sept.L.S 8524.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\26088b3b-58c2-4037-90e3-8c8d8c4cf441___Crnl_L.Mold 9119.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\acad88d8-7497-4067-abba-8171911fb6c1___JR_Sept.L.S 8448.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8db4bafa-489e-42ff-ad14-98cb9af8e733___RS_Late.B 5397.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\2ccd5383-74a3-41d5-9483-110a20ebf247___RS_Late.B 5329.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b176a644-d8ac-4bdd-9d6b-e4038ce910ac___Matt.S_CG 6914.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5dd2a498-7eff-4da7-9c0f-8c394103e52c___RS_HL 0611.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9f5544b0-3ad1-4c99-b362-c477734fadc8___JR_Sept.L.S 2593.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9656bc21-12c3-420c-a316-d2bf46b5fd0a___RS_HL 0316.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\2d3d1221-2f62-43ad-8256-b560c1872934___RS_Erly.B 7465.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8cbaba7f-8b0b-4eea-a4ed-afd375a7c55a___JR_Sept.L.S 2720.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\5e10503d-8b4e-4215-9128-b92b48fce53d___RS_Erly.B 7559.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\cb1f11d6-497a-4b36-a6c0-0ef5e7362e05___Matt.S_CG 6481.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4a5a39d1-e05e-4ec2-acf7-3987cd04a71e___RS_Late.B 6547.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9a5d3900-8707-4088-8ec0-1fad45d8bd11___GH_HL Leaf 339.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\e8e4c7fa-6c75-470a-888a-0763cade48bc___Crnl_L.Mold 7099.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0ba7d3d8-5c4c-4365-ba0c-69f61e96a36e___RS_Late.B 5312.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\253ddc99-8132-4710-bb89-eb83ab271abc___Matt.S_CG 0698.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b984cd6b-35cc-4f3d-824f-b663d08cae6b___GHLB2 Leaf 57.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\7ecb4521-70ac-4f49-ab74-2678cc4eab2a___RS_Erly.B 7690.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e5b81597-d794-40e5-8f14-0b5792c4a680___RS_Late.B 6757.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ebc97633-07ff-405a-b186-18b8aa607b9d___GHLB2 Leaf 8635.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\427af7ac-5593-4c8e-9a10-44978c009612___RS_Late.B 5452.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f0f8cbf1-f7d3-47e1-8a7c-87df9b65beb2___GHLB2 Leaf 125.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a75b4e94-87bc-4fd4-a5ed-e865e56257ad___Matt.S_CG 2507.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\48f82056-7e78-4716-b07e-8dc724a19d7b___Matt.S_CG 6714.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1f73406a-14e8-4be2-8450-9379d4f9b2b5___GHLB2 Leaf 9062.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\8b7b2dbe-cb3d-4ab1-a487-7c7d5553b796___RS_Erly.B 7448.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\338994aa-89ca-4fa5-80ea-9efc94093280___RS_HL 0194.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\4163864b-4d3b-4b6e-8174-e26b4dfc0a86___Crnl_L.Mold 8943.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\18ab423e-c11a-4800-a84b-4598f08560d8___RS_Late.B 6571.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7f533ee8-1d72-486e-b2a6-b5ef2ac7cc88___GHLB2 Leaf 8837.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\45b77cd0-ca48-4fa8-9efe-a13e80419eff___Crnl_L.Mold 6699.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\92cf3568-abcc-43b4-acb4-9d00171d2478___Keller.St_CG 1984.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\78c0dc05-0bac-43fd-81b5-b10b61f666cd___GH_HL Leaf 481.5.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\171b6622-c111-4fe9-b3f9-12b12ee0db06___RS_Erly.B 7836.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e142d2de-6aeb-4d1c-9184-d6e46647ad6a___RS_Late.B 5203.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b15c92e9-6973-415c-80fe-82703ff722f7___RS_Late.B 4994.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ca4e96c1-9bf0-49fb-804f-c895905c0584___GH_HL Leaf 210.2.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\d96c3244-39ec-4188-9870-a6e32aad81d6___RS_Erly.B 7540.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\bb2586ff-9676-4100-89f7-200d9ce5ecd6___RS_Erly.B 9386.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\53587f20-0646-4ba9-9124-c2ccbd6e31e6___JR_Sept.L.S 2555.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a9f7e7d6-cb65-4fcf-961d-7a7900bbed6d___Matt.S_CG 7758.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d43c1014-1f3d-4e80-bd34-e1f5243ac21e___JR_Sept.L.S 2664.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\80c566ba-6754-4abb-a61e-986b92cfc4fd___RS_HL 0436.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\fe60a756-1145-4ed4-9496-af5f387f0222___Crnl_L.Mold 8965.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\4868a14d-e319-4db0-bdd5-241e50a05bf8___Matt.S_CG 6451.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\abb2b25f-a1a8-49c7-8bc9-a66dc224481d___RS_Erly.B 9573.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\64796c19-d026-48ed-b433-0be64b859a7c___RS_HL 9892.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d9bb47b1-fa25-49fb-9b30-df7a7db48f8d___GH_HL Leaf 290.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\4e8e92ba-46f4-4e49-850b-71019f6c8640___RS_Erly.B 6346.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\0ef9804e-d695-40e4-8950-08551255fa05___JR_Sept.L.S 8540.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c9f92d4b-9d9c-4932-ba1b-bc290987c154___RS_HL 0350.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7e5fd1ec-c8d2-4987-9c6c-5bfeb00853fe___Matt.S_CG 6798.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\1e08cf06-c20b-47bc-8773-a22cc730aa04___RS_Erly.B 8228.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3dd714a8-5c95-4d47-a9d0-0ac15a499c2c___RS_HL 0386.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c7f91b1e-7ce9-41ec-9f51-2306168bf43e___JR_Sept.L.S 2598.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\80ec9d60-0f20-4c02-8d63-76108e90bc14___JR_Sept.L.S 8525.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6b9b1ad6-3e75-4378-ad97-7dc9b8fa084e___GH_HL Leaf 179.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\98f19e26-5889-4e8e-9175-8dbbaa3439ef___RS_Erly.B 6449.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\273b19fa-2701-4679-a994-8a37040ac343___Crnl_L.Mold 6577.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\443e6a2f-2adf-4c66-88c9-153cdbf03e17___Matt.S_CG 2780.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e87f8d6a-9728-4d12-b6b3-e07c77db939b___RS_Erly.B 9576.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\a84771c5-c157-409f-98b4-49dd815083f0___Matt.S_CG 6456.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3e03aa27-3c0c-447c-87da-c3375ef47ead___RS_HL 9899.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d3c59c88-195f-4aca-8311-a7c06fcf6c1b___Matt.S_CG 0969.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\6d010698-482e-4445-afd2-dc8dca53ed19___RS_Late.B 5493.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\02d94768-da6d-4c1a-b8b3-fa2e5a2fcd4d___RS_HL 0449.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\2df73051-0fdf-4ed5-a626-205e245ad8c7___GH_HL Leaf 233.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fa98c595-ea2f-415d-90de-25c0a3926eee___RS_Late.B 6993.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d40b9be4-3d8c-464d-b948-5245b60f38ab___JR_Sept.L.S 2672.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4c0fe9e1-bbe4-40dc-8a83-97a437693a23___RS_HL 0228.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\74b3c6cf-a35b-481b-aa22-7483a52bff76___RS_Erly.B 7792.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\099a68fb-a30b-48b6-99ae-908449e48950___JR_Sept.L.S 2691.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fc0cec90-4a1e-4cdc-95cf-a34abc1dc8c9___GHLB2 Leaf 117.2.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b8995533-058e-49fb-94ae-30b2d9cff3cc___GHLB2 Leaf 8646.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\87815762-3104-4c15-96c5-238ecda66998___GHLB2 Leaf 124.2.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\8039671d-c264-49aa-bfbc-81fabe24b007___RS_Erly.B 9397.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\29e4f2d6-7cbe-4f7e-84cd-a1f57957a35e___Crnl_L.Mold 6569.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3ca6e178-acee-4463-9d9f-aa1636eb9df6___RS_HL 0306.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\06339fe1-154f-4bcb-be91-a29e86e25929___RS_Erly.B 7440.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\3726eff6-547d-411e-bc00-f8b533d067e3___RS_Erly.B 6494.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ad567130-1714-4f31-9735-9ffe4b373964___RS_Erly.B 7623.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\f7069452-9405-45a6-bfb3-f21ea42b9b02___RS_HL 9966.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\23af22d9-856c-41ba-a63d-9643b1ef9156___Matt.S_CG 1091.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b796dc4b-a648-4acf-8965-ad3018fd47b0___Matt.S_CG 1432.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d235a8c8-d714-404b-8a07-05706d2dec29___JR_Sept.L.S 8536.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6a3ae349-27f8-468c-a1ad-7ddfc31e3435___JR_Sept.L.S 2471.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\bc3ca9e1-86c1-4945-9993-c61a38a942ed___GH_HL Leaf 294.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dbbe0ac5-5cb6-4bcd-940a-f0a8104d4e79___RS_Late.B 6067.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6dde71bb-a416-41eb-a629-7b4541e85cfc___RS_HL 9734.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\73c3f88e-6802-4afd-9065-431bbe6a312d___Crnl_L.Mold 6970.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\df35d1fb-978c-4aeb-9d6f-e7da242c81b8___RS_HL 0515.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a2405206-ef97-4d3c-b143-ec07ac51f89e___GHLB2 Leaf 8555.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\fb956247-8c0b-486a-b491-4d49e77e598e___RS_Erly.B 7842.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8275c408-1ce2-4b4b-a6de-b7a0b373ad05___GHLB2 Leaf 8741.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e91d2c30-7a45-40db-b913-6714f9b89b1c___GH_HL Leaf 348.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\4f59ff40-d287-4620-b9b2-d62bf49ae0bf___JR_Sept.L.S 8367.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9dd60be7-b16d-493d-acdf-f5b7446754c7___Crnl_L.Mold 8782.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\30f95811-1559-4076-a66b-25e3209c7db6___GHLB2ES Leaf 136.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\af7e1ce4-bb49-4227-ba89-9972bab473b7___Crnl_L.Mold 6560.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3152f2ab-94e6-4e06-8fb9-568c45d31b0b___RS_Late.B 6175.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b0db8ed2-d2eb-421a-8159-234f88e0aaa9___Matt.S_CG 7860.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f7a66452-2777-44fa-b28a-041e7d7b4bd6___JR_Sept.L.S 8454.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0f93b04b-73fc-4c5c-98d6-35842cafdd25___RS_HL 0278.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\465b62a2-faff-4309-a9c7-1ac7663f47fd___Crnl_L.Mold 6964.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2e8ffaaa-1ddd-436d-8672-b3274acf0067___Matt.S_CG 7806.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ea5c98f5-2df4-4018-a538-cefa58bec252___Keller.St_CG 1819.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1905cdb8-1725-4386-9d49-59f47c3e4a1b___GHLB2ES Leaf 65.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\04ddbde3-d33c-42bf-b849-dad24d64fd6f___RS_Erly.B 7664.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7df39eb0-7372-4386-a09f-d04e446296da___Keller.St_CG 1783.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\aa48f118-9636-4320-99d5-a2a668038683___GHLB2 Leaf 8601.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e2edea17-f5cf-4496-8cce-7e421375c452___RS_Erly.B 7666.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\351fea81-8dc9-4d24-9a09-5b92f174d883___GHLB2 Leaf 8604.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d0d54368-8903-496b-9b2c-705a3d4cf8d6___RS_Late.B 5377.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5f6a639a-a545-4778-b5e8-c45a62cacfe2___Matt.S_CG 0812.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7d8cbbfc-89e2-4fe5-9624-89b353d78832___RS_Late.B 5176.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e30f24b2-c298-4853-8fda-9e67b3738a55___GH_HL Leaf 287.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9b1c7c43-4440-48e8-8a28-02f78ab73588___JR_Sept.L.S 8424.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\3a7f507d-76d7-4489-baf4-2e4dad468173___Crnl_L.Mold 8784.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ce90a66b-6d07-4fc1-89bd-af0de0c5dee1___GHLB2 Leaf 108.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c7a532ff-1b42-4a36-8207-646f8d71d994___RS_HL 0202.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ed06f115-9ca4-44d7-be94-e514a5ca58ce___GHLB2 Leaf 148.3.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9190b657-36a1-44b5-811d-e47093babc6b___Matt.S_CG 2554.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5e8c40ac-42c2-47da-87d4-c136216c6bea___GHLB_PS Leaf 49 Day 18.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\16b43113-cc8c-4082-a88f-648b79036e49___GHLB_PS Leaf 23.4 Day 13.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7b651761-da31-437a-be17-6e49912f622a___RS_HL 9703.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a9c274c1-698c-4840-984b-8cb34e7ae97b___RS_HL 0224.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d88b90c0-2850-425d-af82-7bfb0f6a9dd4___GH_HL Leaf 361.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\a7aba5e4-a78a-459a-9caa-77f0f98ef2d5___Crnl_L.Mold 9012.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\560b8340-b487-4bd9-aac1-37b0f4711444___RS_HL 0277.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f533a72b-0110-4520-9a41-cb6ea1419f5e___Keller.St_CG 1881.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\4fbc277e-5998-48c1-922d-c3f2e070f9d6___Crnl_L.Mold 6593.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\30e6be40-743f-49c1-a736-e279d53ffdd7___RS_Erly.B 7862.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\aadb9f92-d885-4a69-a498-437b1edeab90___RS_HL 9959.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a0aac34b-e9c8-4c9e-84b5-8f9ee4cf1502___RS_HL 0622.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ec59e000-1ee0-4998-a68f-abbfa6f6d009___RS_HL 0226.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\96a7aed7-5548-4977-92a9-10cc2282e84a___RS_HL 0204.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\307b1e1b-4a5c-4378-91df-df121d7e4f51___Matt.S_CG 7667.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ec8b22c9-a1b5-402c-9f9c-5bd24a209b94___RS_Late.B 6687.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\1e671658-3463-4a38-8b6a-e2867aeeda10___RS_Erly.B 6359.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3e51f746-2ed2-4eb4-96e7-f6717ec068fd___RS_HL 0122.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c1b1555c-59b0-4b65-9c8e-a6ea23168c20___Matt.S_CG 2607.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\63e3d1ac-76a4-48a8-83d6-50a65433a8e3___Matt.S_CG 0690.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\fdc50285-836e-4707-a17d-388b8179c87c___RS_Erly.B 7812.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\3b86d42f-4b22-4bfe-bfa9-ec4567c886dc___RS_Erly.B 7823.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\eb1f4546-7ba3-4d36-82d2-d5ad42671ae2___RS_HL 9814.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fcc9e28b-c2b2-400d-bd70-7cf4f75d8313___Matt.S_CG 7751.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b92d2f0f-ba99-44bd-be14-a5ad7763543f___RS_HL 9953.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\bcf2f5b8-8788-4ba2-a510-1174c00e76e3___Matt.S_CG 1619.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1fee5d1d-ab19-43ed-bef2-9547bbd1fdc9___RS_HL 0137.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\7acd10ed-a101-4467-856a-f3483493182a___Keller.St_CG 1862.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9088e27c-b60b-476c-a924-929058038fa1___Crnl_L.Mold 7167.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\408d4867-5fd8-4f1e-8c93-a711a438ef6e___Matt.S_CG 6780.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\8140c767-937d-450c-8070-2936aeb73834___GH_HL Leaf 439.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c9cc01b8-20f0-4556-9c62-21d2eead2ed1___JR_Sept.L.S 8423.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\debe033e-a878-46dc-8336-8bc25811df35___GH_HL Leaf 303.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\0a9986e6-b629-4ff5-8aab-7488ea9b935b___RS_HL 9704.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\23e8ae15-6cfc-4518-9266-3a289a7bced7___RS_Erly.B 6479.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\561e6144-f53b-477e-96ef-88deff234bc6___Crnl_L.Mold 6855.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\446e3268-4075-46d3-ba0d-965ed3c27918___JR_Sept.L.S 8463.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dbedc9c1-d7f8-4eef-b4bf-d36689c57c60___GHLB Leaf 27 Day 12.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\85a581dc-108b-4ca0-9f34-f8b2baeccbe6___GHLB2 Leaf 8788.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3f1ce663-3715-4220-bbce-93bcc9f0c478___GH_HL Leaf 311.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6e2dd387-240a-4b31-995e-3389310d8db3___Matt.S_CG 2542.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\6ceca8a9-a257-4238-a779-bdb0dccc528e___RS_Erly.B 7604.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e7b22345-5249-429d-af6a-459d4c9a91b1___Matt.S_CG 1655.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c35001a9-bfcc-4233-95e5-b83d086e0435___Matt.S_CG 6740.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\922d8646-efa3-4101-b943-d3568c9760e9___RS_HL 0029.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9e6ab532-2a3a-4415-98b5-a1be716eef9c___Crnl_L.Mold 6619.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\739d1e6a-f835-4ff4-ab1c-33946def661a___GH_HL Leaf 219.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9875f865-913e-4afa-a0f7-31395c7eab75___Matt.S_CG 2470.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7f3884a8-82eb-4db8-b5c2-cc3f6dbe0cf9___RS_Late.B 6196.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8989f67e-ccc0-4d37-a950-59d3a69856fe___Crnl_L.Mold 7175.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\629b73e7-834a-4b53-a164-bdc3a2030417___Crnl_L.Mold 8816.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ab4a4903-8395-481b-8f97-ee6837f5c094___GHLB_PS Leaf 30 Day 12.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9341417b-0be7-44a7-b353-f930ec746186___Crnl_L.Mold 6679.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\392df5d9-0383-4ce9-a6fa-17d09cdc3c62___RS_Erly.B 9497.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\de57a88b-7170-4eca-93f6-330df50fa8b5___RS_Erly.B 9541.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6120d8df-66a3-45c1-ae2f-bb8065928df4___RS_HL 0420.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f83c5c25-a744-4f98-b2b3-1c1138759929___Matt.S_CG 0808.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\acfa0062-84e4-4b59-a886-6ff31a81230f___Crnl_L.Mold 7007.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\babbf1f0-1b1c-4618-b739-c948ecf979c5___Keller.St_CG 1767.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\898fbe14-3442-44ae-9638-471ce8efcc2f___GHLB2 Leaf 117.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e531e3da-a55b-41a9-8700-3e163226bfb2___GH_HL Leaf 188.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\93533fec-94de-411f-a52e-38cd4d36dbee___RS_Erly.B 9558.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fb9766cd-052f-42df-96db-33602cf051e6___Matt.S_CG 6051.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4710d5cd-08f7-44ae-91c1-99204f1c135b___RS_Late.B 6132.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1b6fd6e2-8917-473f-9c8c-b14f639e13a9___JR_Sept.L.S 2709.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\76e4e737-6526-4007-923f-5b6c1e9951ed___RS_Erly.B 7759.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b59425a2-e983-49c8-a9fd-61da8f38e7f3___RS_HL 0537.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\5bd6338a-0f10-457b-a7bd-69f2ee7c6504___RS_Erly.B 9534.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fcbdd052-d481-4db7-ad82-f98bdfc7cc1c___Matt.S_CG 7462.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\1829d517-53ae-48a9-b721-5043dd10d0d2___RS_Erly.B 9518.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\70fb038b-90e8-4218-a440-4db6daa90fe0___Matt.S_CG 1102.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fabba25a-e191-47c5-a468-6acf744312e1___GHLB2 Leaf 8835.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f5914b3e-63c9-45bb-8c7c-e9919ee09018___Matt.S_CG 0738.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ca408b6b-bc8b-45a0-a04e-f0341169524c___RS_Erly.B 7640.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8b9ca191-719d-40cf-9077-89d9534dee6b___JR_Sept.L.S 8457.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\4cf0ee3d-a8b5-47f5-be25-e578d60b6cfd___Matt.S_CG 7373.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\aaac4e3a-fe49-435a-a933-e7099b3456a5___Crnl_L.Mold 9093.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5f021626-60b3-40a4-8c2c-11a53d93b0ca___Matt.S_CG 7586.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\40ad58d9-f6ab-4487-a150-e2da47f733f1___GHLB2 Leaf 8665.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7de0d9b9-6d4f-4375-85c4-a64da65937d8___Crnl_L.Mold 7077.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\10019e40-277e-4d69-8dee-8c034a3752a1___GHLB2ES Leaf 62.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\594d97d4-7ac1-41d5-8dd1-dac80c389004___Matt.S_CG 2452.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\dfa6e9aa-b240-4148-bdef-5c0f21ff62ff___RS_HL 0318.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\bde8917a-9b0c-4a7b-8ff1-26f31609d6d7___RS_Erly.B 7750.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b9acddbe-1fc4-44a8-9802-91f0d9f57e22___RS_Late.B 5026.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e6de79a8-a9d1-4e78-a978-7d5628957576___JR_Sept.L.S 8366.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\97681802-8ef1-491a-ac56-a9772fdb4906___JR_Sept.L.S 8520.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\e7391b48-0b36-41fd-81f0-35c6b5a24d0a___Crnl_L.Mold 6761.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\620df2cc-834d-48b9-b9a8-11da26395739___RS_Erly.B 9557.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a424fe57-c3ff-400e-ac88-000ca1781300___RS_HL 9802.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\b868515e-a566-4b0b-9633-30203270943f___RS_Erly.B 9401.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\3fdba933-d33b-45e3-877c-aaf869a83df4___Crnl_L.Mold 8952.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7011fa6f-fba9-466e-a6d1-439370a4a37b___Crnl_L.Mold 6588.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\73815ecf-ee85-4bba-864f-f47d01a96615___RS_HL 0348.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7b343a4c-5fbc-40f6-83da-ccae49ebd5fb___GHLB_PS Leaf 35 Day 13.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\04483b12-5e9c-4e74-a5b6-e8c87f60b43f___GH_HL Leaf 439.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fc85aff8-ee7e-4da3-b354-3ad6069a3a34___JR_Sept.L.S 8550.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6e7e78fc-dc40-4175-9513-272ab0d98d01___Crnl_L.Mold 9007.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\40b13cf8-a4ca-4d0b-9e76-6f40f38ea063___Matt.S_CG 0773.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\3e4f86b3-55d1-4efc-bd8a-f13af318b181___GH_HL Leaf 492.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\beb8ecc5-3283-430e-b598-343f6754a752___GH_HL Leaf 328.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\247e79d6-1874-4ce4-a777-a03a4f94edbf___GH_HL Leaf 211.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\bc894aa4-76ca-427e-a964-e86236fc0217___RS_Erly.B 7526.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b8ad1d10-7809-4969-8bc0-2e44a3dc3157___Crnl_L.Mold 6664.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d23729f0-3d5c-4e13-abd2-5cc7f21a51ee___Crnl_L.Mold 6976.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7c8a16a8-97a1-4461-9f72-b36e6676fd99___RS_Late.B 4863.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\cbda1b76-250a-4bce-aa3d-1b04feeca6d7___RS_HL 9707.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\20ab7535-34d8-4bac-b3a7-4fa929a1bed3___GHLB2 Leaf 59.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fcd37e39-9a92-4896-8673-af928a380078___GHLB2 Leaf 8733.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\3d232a86-283d-45ec-b5cf-99829d78afa8___Crnl_L.Mold 6550.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d029a830-f39c-4668-b413-45b69e2b3640___RS_Late.B 4841.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ed68595a-4d05-413c-a173-fa32cc8aae38___RS_Erly.B 7635.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\867d2544-e985-4d01-ae0c-9e8d053f6c61___GHLB2 Leaf 9071.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\957be08a-9b4f-4c28-9908-622fdb996f1c___RS_Erly.B 7591.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ff774aec-2504-4d11-8a61-2fd74c689a6f___RS_HL 9904.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b06560a7-6ad1-438a-8ea2-badfe58a5f1e___Matt.S_CG 1250.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b634ad06-3f68-47c5-bc70-01c2c690be27___Matt.S_CG 7488.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\20024ad7-62d7-492c-aa7c-5a139a9a2aff___GH_HL Leaf 416.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\d7dd7c0b-8c0f-46e7-88df-18e6f4e01e0b___RS_Erly.B 7687.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b7dec0f3-e619-4d79-9112-98f40654d6b8___Crnl_L.Mold 7124.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\3811b546-53ab-4856-a1b2-b228229b09a4___RS_Late.B 6131.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\f7826d86-2eb1-408f-b2c1-a43afe0268b3___Crnl_L.Mold 9056.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fcf78048-c241-4211-b63c-737d5d9f24b9___Keller.St_CG 1774.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7847d3dd-66e7-470f-ab6e-5273c3ee8924___RS_Late.B 4905.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1dae303e-6545-4c87-8c95-8805108f5282___RS_HL 0437.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f23076a1-b482-4370-91c4-6e722a44da8c___Matt.S_CG 7558.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\bd38d701-9972-4472-852c-b4e27f6d72e2___RS_Late.B 6581.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\952f14ea-6697-4361-897f-a3123c69b7e4___Matt.S_CG 2790.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\3812fd82-b846-4257-92b6-ee73eb90edc1___Keller.St_CG 2013.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7beda862-3964-4839-9d08-b9b3fa27b028___RS_HL 9952.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\1a972145-610d-4efe-96e7-e0253c4ece4a___GH_HL Leaf 237.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\d88e3218-6639-430b-a74b-6b7353b1b964___GH_HL Leaf 377.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\9c84597a-72a3-4e91-9203-92de6090462b___RS_HL 0040.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7d8f07cb-cb5b-4c4a-97f9-224258af8343___GHLB2 Leaf 8791.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\41c4774e-5193-47db-947c-27a724d0d993___RS_HL 0234.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\96ec6dc6-c3fb-4261-93ae-77d5dfaf8478___Crnl_L.Mold 8909.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7efeb8b7-9416-4b2b-bf24-acaf62918008___GHLB2 Leaf 124.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\afe0abc2-6168-4d8c-9b47-3eb99644c0b6___Matt.S_CG 7782.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\705249ab-9023-4025-8f6c-9ed74b1b69d9___Crnl_L.Mold 7014.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\76b3aadb-a6e5-465d-809b-0aa4d60a1f83___Crnl_L.Mold 6680.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e5d815b6-dd10-41a3-83e7-c25b6fd5d0c2___GHLB2 Leaf 9015.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\89abe0cd-9b85-4fbe-b441-7c7431bc7c18___Crnl_L.Mold 9155.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d3f5e817-d531-4f9b-ac58-a9bf80518f85___Crnl_L.Mold 8988.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\058ade43-2361-4039-bbe5-0ac661828c01___GH_HL Leaf 325.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\65c31a47-0609-481c-b077-1ff6225fe2bb___RS_HL 0208.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\2b03b88c-5299-4c2c-8e7f-c40fbd98e145___RS_HL 0104.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2e9928ec-5f57-4587-bbc3-18e30d2938e3___JR_Sept.L.S 8373.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\77451675-72f4-41be-9e1f-698f7bb5d7bc___Crnl_L.Mold 7032.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a1f1f31f-36ab-49a9-bfb4-aa21ed90dfbc___RS_Late.B 4874.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\5b71fe03-84fc-4866-9bf8-e557ce918c6e___RS_Erly.B 9580.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\df64e1d3-7700-423e-983e-2b082ff4a36b___GHLB2 Leaf 9099.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b19055d9-6a5d-4b73-90a5-3b3685ac344a___GHLB2 Leaf 8729.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7d4d00c0-1e72-427d-9f05-1f64f8051cb8___GHLB_PS Leaf 1 Day 7.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\99ea67c9-4c24-40b3-8a62-88233a53dc4a___RS_Erly.B 7522.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2eb010be-cfb9-40cf-9b69-0521e5ecf2a1___Matt.S_CG 1263.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8f4781c0-53fa-4056-839e-400915d8aa5e___Crnl_L.Mold 6683.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\203dd699-5df7-4f6d-ad63-d1557033f04a___RS_HL 9788.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7f847477-1111-4f20-9de5-56153bee415b___RS_Late.B 5049.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\28ac876e-4b48-4486-b40a-d4fad31f6880___Keller.St_CG 1805.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c1b84438-4e69-4366-b5be-ecb64351e836___JR_Sept.L.S 8441.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ee18e688-a12c-45aa-bd18-74df670c71bb___RS_Erly.B 7776.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\f67d781b-72a1-4e74-9a0b-770bf4b03882___Keller.St_CG 1944.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\50cd977c-9fa8-4ff2-9a82-9d848f0a8972___RS_Erly.B 7683.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9699b511-4dd6-4037-8cfe-c96c12a7b029___Crnl_L.Mold 8725.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\cc60f915-6dc1-42f2-8e12-aedaef4bc70c___RS_Erly.B 6468.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f348eaf2-65ef-47b1-af84-ffdedc4599e9___RS_Late.B 4895.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6bda66a5-562c-4ad9-9e14-7d76dcbd4eef___Keller.St_CG 1880.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\fa5e382e-d1ad-42f9-a4e5-afb343f77a53___RS_Erly.B 9453.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\01ece5a1-8398-4e68-a9e3-198c57b51b01___GHLB2 Leaf 8757.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f0ac2b25-fb74-43f7-9ca6-52bb05dd2ec2___RS_Late.B 6545.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\97862022-bdbb-4641-b2e7-daa77f5f03d5___JR_Sept.L.S 2553.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8172747e-ca4e-4a38-8417-47e196c1fe4c___Matt.S_CG 6804.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\90f6e771-bfb7-4e54-aa8c-6e295af7dc6e___Crnl_L.Mold 8761.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\bb41f69c-b5b4-4acb-b965-950eac2b49c8___GHLB2 Leaf 130.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\3a41e6a5-87e8-4e06-b7a2-3d31adc17adb___Crnl_L.Mold 6648.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\0e451078-be73-4e6b-b329-a7b0fa1f152b___GHLB2 Leaf 8612.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\63dfc6c7-3521-4a3d-a279-7ec8065e8e71___RS_Late.B 5400.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d69cda61-f13d-4d73-9a4b-ac0e7c386389___GHLB2 Leaf 98.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\32065728-b0b0-4840-b2cc-7461b371e57f___RS_Erly.B 6407.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\345e34f9-1a77-4d5f-bd62-aa41f648e41d___GHLB2 Leaf 8930.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\ef23fd72-1367-41c5-820f-c89533ad258e___GH_HL Leaf 303.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\8597694d-3162-40ab-9f5b-e8c7cf03e045___RS_Erly.B 9485.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e1436a17-dca7-4687-a0ec-31a28389063e___RS_HL 0529.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\07776423-f0af-455c-a7c1-36215c7e7097___RS_HL 0321.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\2847f847-3048-487d-ae4f-c45e44d04d85___Crnl_L.Mold 8878.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\796b5446-9007-427b-8ac0-2264a67569e0___Matt.S_CG 6541.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\8da9d06c-bc6c-45d1-abd5-e864a8293aae___RS_Late.B 4934.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\8e3d29dc-2a32-4471-9318-7ba1c664e1ad___Crnl_L.Mold 8903.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\fe856320-407c-4390-9960-a6a539371182___RS_Erly.B 7624.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\249ab309-d471-409d-a4ea-e82d74709c6e___JR_Sept.L.S 8552.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\eab401a8-c014-4a63-98d4-b6144cfc7bc9___GH_HL Leaf 289.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\5b1c13ef-e560-4479-869c-8d52ac4cf559___JR_Sept.L.S 2517.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c57464ef-c813-4ee5-90db-2b196b996d57___GHLB2 Leaf 154.3.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6004b080-9cb7-4f89-85c1-018c0d289fc2___JR_Sept.L.S 8560.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\03f008be-5b97-4827-a2e2-88136b3c8714___RS_Late.B 6290.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dd8c1f50-0407-4011-8dea-a8d0e6c7dbf1___RS_Late.B 6725.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\9dc10e0a-36ee-4882-84c4-f7c7668550bd___Crnl_L.Mold 7177.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e6f3e3b6-8d73-4564-9e0b-771302aaa6ef___RS_HL 0626.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2c26297d-15a5-4afa-b9ee-e56e3032cad5___Matt.S_CG 7489.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a5e54e01-2cd5-482a-bfba-8728ca32473c___GH_HL Leaf 426.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c8bb9905-8eb3-4d57-9c4b-caa1d4dca255___RS_HL 0243.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\2a295211-a73b-4460-95c5-81842743518f___RS_Late.B 5116.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\829d0a5e-326c-4ae6-a3c6-c65297cb5d2f___RS_Erly.B 8338.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\fe20bf11-9be6-480c-8c99-b7b391ac9653___GHLB_PS Leaf 44.2 Day 18.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6747e2b4-5b8a-4c82-94b8-0145e32d81de___Matt.S_CG 7570.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\94610792-2d20-4889-9d10-f513c061a88d___RS_Late.B 5317.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\563ce6e0-3d79-428c-b30f-3f3dd1e9b4e4___Matt.S_CG 6536.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e35dbe92-b70f-40ee-bd8a-a12ae07682a2___GHLB2 Leaf 9109.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2d9f575c-7ce7-43d7-be22-fbbf53361ba5___Matt.S_CG 6855.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\694af91d-fa2c-4bdd-a1b4-0ebacc3a2cca___Matt.S_CG 1588.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\54924dfc-c51a-426d-8f0e-d282fa7e8fd4___RS_Late.B 6481.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\b840b04b-5909-4e35-beb8-7f53098975b1___RS_HL 0324.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\860f1131-a11c-4e17-aaec-c7b96ba914f0___RS_Erly.B 6669.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dbb9fbf0-e196-4730-ac80-859b7dd74188___RS_Late.B 5498.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a2317e6a-8548-432c-b69f-0f6daada41fa___GH_HL Leaf 469.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1ad425d4-caa9-44da-b99f-a951fda7ec94___Keller.St_CG 1835.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\98a95140-e62b-4234-b435-914d67d0afb1___RS_Late.B 6027.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\c4f45383-715a-48b2-8ec7-c45d1c230a9d___GHLB_PS Leaf 13.1 Day 7.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\636308e1-3416-420b-90c2-b595a7dbcc6e___JR_Sept.L.S 2677.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\215cf2c7-52ad-42ab-bed5-09269c51e63d___Keller.St_CG 1801.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\47b7c127-2842-42ef-8deb-fffeb63eff5b___Matt.S_CG 6159.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\55e8b4dd-0a94-4be5-895c-40e280bf7408___Keller.St_CG 1817.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\02b4afdf-e1de-4c0e-a38d-3f19afeb9ea9___RS_HL 0493.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\5c0dc87a-f671-4085-93c5-1454ee859caf___RS_Late.B 6271.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e7eabac8-f9ff-4ec1-b07b-c11791b47bda___Matt.S_CG 1677.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\1a8bd88f-309f-4392-b387-7cb423ef0ab6___RS_Erly.B 7366.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\838c4952-8d91-44b9-905d-96b065683f21___RS_Late.B 6038.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\adc5ed07-d23a-433f-9cc9-2fd666efb8d0___Keller.St_CG 1868.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\29265f8d-86ff-4de1-b1ad-e33a64b189dc___RS_HL 0264.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\4dc663c9-994d-4204-ae40-30d5eab53bc9___Matt.S_CG 0678.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\06a7cfd9-0992-4020-8a11-79249d657c0c___GHLB2 Leaf 131.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7e37d8c3-2f62-4a95-b430-34746cb25776___RS_HL 0188.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\6cda92fc-5b8b-47b5-803a-ed31c7a9106a___Crnl_L.Mold 8728.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\fdbf1c22-520c-4537-9f20-76f52fd4ae35___Matt.S_CG 6550.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\d4e4bce8-d7ca-492b-8dda-69f3e95f4e5a___RS_Erly.B 6418.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\0a2726e0-3358-4a46-b6dc-563a5a9f2bdf___RS_Erly.B 7860.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dd3bd618-677a-4661-81bd-8ac871ad8549___GHLB2 Leaf 8884.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\db9db9c3-42af-4609-a30e-48e4797174c7___GH_HL Leaf 182.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\5f8189f2-51cf-49b4-8a34-4955f26cf222___RS_HL 0352.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\97e6d900-b2e6-49b8-8e76-07404a986370___Matt.S_CG 6715.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\021ca736-df21-458a-9010-fab4803f08fe___RS_Late.B 7010.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\2f5aefb2-4bdc-4a55-81e3-c19a6982b605___RS_Late.B 4856.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\b2af1e31-5779-4c69-bca8-c2d2c3c7bc34___Crnl_L.Mold 6808.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\4b8df56a-6124-4e5c-a1b7-8e771a472813___RS_HL 0520.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\dc84eefb-f6bf-4978-a58a-d11f1ed0b26f___Crnl_L.Mold 9125.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\aa233fb1-e0b7-45cc-a5f3-a163b703299e___JR_Sept.L.S 2718.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\f8aaa5e3-fe38-4815-8f1d-8ca71db15a8f___RS_Erly.B 7511.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\943a9a43-f61d-44f5-88c0-455d5d6c4746___GHLB Leaf 14 Day 7.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\58268d35-a896-406d-9686-5f2f2b9a5b10___RS_Erly.B 7433.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\7f855210-f737-44d7-af52-1d78baac14a4___Crnl_L.Mold 8664.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\2c51b21d-6890-491a-9fd0-08fd5628f26f___Matt.S_CG 7598.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\7e4224e3-dd76-4041-8fe2-c9abf67d3a98___RS_Late.B 6630.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\9d8b787b-4b2f-4f54-8a2d-e0640c374fe0___Matt.S_CG 1425.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\55dd5de4-3ebb-44f9-9656-60c8ecc04f52___RS_Late.B 6462.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\eaf8a135-3d77-422c-8f37-befb5cfcb8a0___Matt.S_CG 1728.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\98d99dcc-6922-4b11-9b64-7e75440da1a8___RS_Late.B 5095.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\80857534-e2f2-4ba1-9beb-e4d6619f80eb___Matt.S_CG 1238.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\ace982f8-596c-48e2-8c95-4292a5cbdae8___GHLB2 Leaf 8721.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e623a5a9-edc8-4c81-ada4-68b3ebadfc7e___RS_HL 0082.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\dbd289fc-1399-44fe-968d-39a5a4f16679___RS_HL 0495.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e29ee209-e895-434f-9078-db727c5a98dd___RS_Erly.B 9383.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\80c8fa6d-e374-40ad-8399-fdb626640e82___JR_Sept.L.S 2675.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\496e8f67-eec4-47be-9c37-b7e8fd4cf230___RS_Erly.B 7743.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\f021c403-3d7b-4369-a928-531ca45c3b08___RS_HL 9682.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\32be5e7b-4215-4719-a1e8-d6f7a0a388f7___Matt.S_CG 0752.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\81425428-d995-492c-80ba-c28564d8f317___RS_Late.B 6265.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\1b35b99c-c7c0-4f2c-975e-148e4b6e18b3___Crnl_L.Mold 8820.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\009bb542-f0c0-40f2-98a7-f547c5adec45___Matt.S_CG 1355.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e1400c81-62df-44b6-97fd-e210b66dae0b___RS_HL 9672.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\62c36cad-2102-451d-aca7-93f2e58e14ab___RS_HL 0481.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\c259c11b-b958-4179-b09f-47e69419941a___Crnl_L.Mold 6803.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\acf28842-7821-4f31-ab73-2787e332e852___RS_HL 0011.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\c3dcca18-f12f-4a4d-a90c-563ded6c7df8___RS_HL 9691.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\fa0cb20b-cafb-494d-85f5-0af1a5785671___Crnl_L.Mold 6743.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\8f9b3d86-42dd-4932-b638-8376529afcaa___RS_Erly.B 9575.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\87a12625-8af0-43af-9169-4037ba079743___Crnl_L.Mold 9124.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\1b4a2ad5-057d-4fac-9188-648edbe49751___RS_Erly.B 7767.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\14c31d28-ae56-42b8-9ff7-9012d414b74f___Keller.St_CG 1847.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e435f5af-a994-46b5-a5c8-d721dd1788f8___RS_HL 0100.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\dfed006d-7f5e-4a06-a73b-dc6cc837b59a___GHLB2 Leaf 8793.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\467da834-4482-4233-90d1-03bc4dc60966___RS_Late.B 5136.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\38393031-c7ba-4221-b435-69047e14bff5___Crnl_L.Mold 8776.JPG,Tomato___Leaf_Mold,3
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\e219e45e-3a8e-46dc-9621-9914f42bf3af___RS_Erly.B 7838.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\9b4df340-b1bf-4294-a275-1bc0d9b64ff6___GHLB2ES Leaf 138.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\598ba6a8-8887-4d61-97b7-5a0814aa8e2f___Matt.S_CG 7637.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\d4fb9280-f7ef-4a32-9c1d-9162b666278c___Matt.S_CG 0906.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\8bcfea5e-26a6-4a7a-9a36-068298b89029___JR_Sept.L.S 8429.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\211aafec-c358-4573-abe9-72eb49936ba5___JR_Sept.L.S 8558.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\b0dd53e4-a322-48ca-8e7f-d00d599d40d0___Keller.St_CG 1962.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\50aebd46-fc21-4954-b2d7-729b02a849b1___GH_HL Leaf 194.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\2ef629c7-3366-41b5-a1b7-0e3bcb3ac28c___RS_Erly.B 9395.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\7c879fc2-09b8-47ab-af57-2508cc854861___GH_HL Leaf 380.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\f81def4f-22a7-4036-bfab-51b245f4a2ab___RS_HL 0055.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1f9fe103-ec5a-4ebb-bd93-14c97537dd3a___Matt.S_CG 6572.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4bf424a2-b275-4ac0-968c-fe229136f10d___GHLB_PS Leaf 2.5 Day 16.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4d8b05f5-930b-426b-bbea-0bd33e8a6c42___RS_Late.B 6830.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\e6b13873-f2dd-4488-b2e2-3a8d1b358954___Matt.S_CG 6429.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4cffeba2-15a0-4d56-9429-8dbb0f69c00e___GHLB2 Leaf 158.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\068e324c-faf6-40d6-8f83-578907f1cac5___GH_HL Leaf 466.1.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\11922494-321b-4742-afbe-f6db6a8b4005___RS_Erly.B 9392.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\18fa8f7f-ef94-4a3b-9c79-5f4362323134___RS_HL 9977.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\72e49321-5eeb-4669-9641-0e9146da9159___RS_Late.B 5102.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\1f38a263-cfb5-47fe-8c0e-f8d62141f922___GHLB_PS leaf 28 Day 12 .jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\49680a31-cb91-4694-9609-4aad7079dd77___Matt.S_CG 6155.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\039e5d57-64e2-41de-8ccf-e44598bcedb0___RS_Late.B 6883.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\ce0bad5b-8752-4d85-af7f-d4d6ad672865___JR_Sept.L.S 2529.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\4c27ed2d-96c2-4f8f-ac68-d699bc665cec___GHLB2 Leaf 8954.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\6f5b57d9-46c8-41b6-9f79-eda044f687b1___RS_HL 9962.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\a38d671f-4582-4ee9-b994-63f2343821e8___GHLB2 Leaf 8592.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\1f11a23b-8dd3-4fc8-82cf-235cfcdaf5b2___Matt.S_CG 2783.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\d2892ccc-cc57-49ff-88eb-5aa2ee0f862e___GHLB2 Leaf 74.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\a90b4d5b-86f9-48ae-9ede-ae3ac462f9bc___RS_HL 9872.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\71a47848-146e-4cda-ae09-5ff0fe3a0540___GHLB2 Leaf 80.1.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___healthy\e3cc41f4-f960-44b9-96cd-61e3bd184e6d___RS_HL 0138.JPG,Tomato___healthy,0
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\6d8ec33d-fbf6-433d-acd9-feaa72ab839a___Matt.S_CG 7609.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\c4a7c2db-f42f-4fb7-a833-9ef575e9aa8e___Keller.St_CG 1803.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\bd9341f4-34d9-4acb-9aa0-5dbff08f8ba6___GHLB_PS Leaf 23 Day 9.jpg,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\b58ce413-a81c-488f-9207-bab53d34d1c4___GHLB2 Leaf 8744.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\cd71e099-6bee-45ab-8de3-08be107939af___RS_Late.B 5040.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\914e1c39-d7e1-4b6e-83be-254ab705746b___GHLB2 Leaf 101.3.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\048eddf2-6142-4031-b23a-654cc3803d01___RS_Late.B 6097.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\ba19f779-d0cf-4bc7-88df-96e6080fdc96___RS_Erly.B 7599.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\f5cb0905-3729-492a-a45f-63c20ae7e6a1___RS_Late.B 6777.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\e3c4a4e5-4ec3-404f-8dbd-7de9dd3f184a___RS_Late.B 5073.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Septoria_leaf_spot\0176f68f-a3d8-473b-9bea-c075a5507b34___JR_Sept.L.S 2504.JPG,Tomato___Septoria_leaf_spot,4
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Early_blight\862c7fa2-1ab0-4bce-9f9b-76cbb4a096e1___RS_Erly.B 7521.JPG,Tomato___Early_blight,1
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Late_blight\81cb76c4-86f6-4af3-a11a-ad827fff857c___RS_Late.B 5074.JPG,Tomato___Late_blight,2
+D:\s2\data\plantvillage_raw\raw\color\Tomato___Leaf_Mold\d3fa9514-82c8-4760-a810-7e7b617f3bb8___Crnl_L.Mold 7148.JPG,Tomato___Leaf_Mold,3

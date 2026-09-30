@@ -1,0 +1,52 @@
+Plant Disease Detection - Classification Report
+============================================================
+
+Test Accuracy : 63.98%
+Precision     : 71.13%
+Recall        : 63.98%
+F1 Score      : 62.08%
+
+                                                    precision    recall  f1-score   support
+
+                                Apple___Apple_scab       0.31      0.56      0.40        63
+                                 Apple___Black_rot       0.97      0.56      0.71        62
+                          Apple___Cedar_apple_rust       0.79      0.70      0.75        27
+                                   Apple___healthy       0.58      0.89      0.70       165
+                               Blueberry___healthy       0.42      0.82      0.55       150
+          Cherry_(including_sour)___Powdery_mildew       0.80      0.63      0.71       105
+                 Cherry_(including_sour)___healthy       0.66      0.99      0.79        85
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot       0.71      0.24      0.35        51
+                       Corn_(maize)___Common_rust_       0.76      0.97      0.86       120
+               Corn_(maize)___Northern_Leaf_Blight       0.79      0.54      0.64        98
+                            Corn_(maize)___healthy       0.82      1.00      0.90       116
+                                 Grape___Black_rot       0.61      0.23      0.33       118
+                      Grape___Esca_(Black_Measles)       0.85      0.54      0.66       139
+        Grape___Leaf_blight_(Isariopsis_Leaf_Spot)       0.94      0.72      0.82       108
+                                   Grape___healthy       0.27      0.90      0.41        42
+          Orange___Haunglongbing_(Citrus_greening)       0.97      0.53      0.69       551
+                            Peach___Bacterial_spot       0.95      0.73      0.82       230
+                                   Peach___healthy       0.57      0.69      0.62        36
+                     Pepper,_bell___Bacterial_spot       0.91      0.32      0.48        99
+                            Pepper,_bell___healthy       0.30      0.97      0.45       148
+                             Potato___Early_blight       0.85      0.73      0.78       100
+                              Potato___Late_blight       0.00      0.00      0.00       100
+                                  Potato___healthy       0.50      0.07      0.12        15
+                               Raspberry___healthy       0.91      0.84      0.87        37
+                                 Soybean___healthy       0.77      0.97      0.86       509
+                           Squash___Powdery_mildew       0.83      0.93      0.88       184
+                          Strawberry___Leaf_scorch       0.91      0.85      0.88       111
+                              Strawberry___healthy       0.52      0.98      0.68        45
+                           Tomato___Bacterial_spot       1.00      0.01      0.02       213
+                             Tomato___Early_blight       0.22      0.49      0.31       100
+                              Tomato___Late_blight       0.50      0.56      0.53       191
+                                Tomato___Leaf_Mold       0.74      0.26      0.39        95
+                       Tomato___Septoria_leaf_spot       0.36      0.83      0.51       177
+     Tomato___Spider_mites Two-spotted_spider_mite       0.00      0.00      0.00       168
+                              Tomato___Target_Spot       0.32      0.26      0.28       141
+            Tomato___Tomato_Yellow_Leaf_Curl_Virus       0.95      0.77      0.85       536
+                      Tomato___Tomato_mosaic_virus       0.58      0.19      0.29        37
+                                  Tomato___healthy       0.74      0.63      0.68       159
+
+                                          accuracy                           0.64      5431
+                                         macro avg       0.65      0.60      0.57      5431
+                                      weighted avg       0.71      0.64      0.62      5431
